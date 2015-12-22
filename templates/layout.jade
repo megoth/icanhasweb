@@ -15,29 +15,26 @@ html(lang='en')
       link(rel='stylesheet', href='/css/style.medium.css', media='all and (min-width: 30em)')
       link(rel='stylesheet', href='/css/style.large.css', media='all and (min-width: 50em)')
   body
-    header(role="banner").block-container.page-header
-      hgroup
-        block header
-          h1
-            a(href=locals.url)
-              span.first I CAN 
-              span.second HAS WEB
-          h3.site-description= locals.description
-      nav(role="navigation").navigation-main
-        ul.nav.menu
-          li
-            a(href="http://cv.icanhasweb.net") CV
-              .triangle
-    main(role="main").block-container
-      block content
-        h2 Welcome to zombocom!
-    aside.block-container
-      block aside
-        div Even more info!
-    footer.block-container
-      a(rel="license", href="http://creativecommons.org/licenses/by/3.0/")
-        img(alt="Creative Commons License", src="http://i.creativecommons.org/l/by/3.0/88x31.png")
-      br
-      | This work is licensed under a 
-      a(rel="license", href="http://creativecommons.org/licenses/by/3.0/") Creative Commons Attribution 3.0 
-      | .
+    .block-container.layout-container
+      header(role="banner").page-header
+        hgroup
+          block header
+            h1
+              a(href=locals.url)
+                span.first I CAN 
+                span.second HAS WEB
+            h3.site-description= locals.description
+        block nav
+      main(role="main")
+        block content
+          h2 Welcome to zombocom!
+      aside
+        block aside
+          div Even more info!
+      footer
+        a(rel="license", href="http://creativecommons.org/licenses/by/3.0/")
+          img(alt="Creative Commons License", src="http://i.creativecommons.org/l/by/3.0/88x31.png")
+        br
+        | This work is licensed under a 
+        a(rel="license", href="http://creativecommons.org/licenses/by/3.0/") Creative Commons Attribution 3.0 
+        | .

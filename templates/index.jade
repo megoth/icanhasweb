@@ -16,6 +16,13 @@ block content
           p.more
             a(href=article.url) more
 
+block nav
+  nav(role="navigation").navigation-main
+    ul.nav.menu
+      li
+        a(href="http://cv.icanhasweb.net") CV
+          .triangle
+
 block prepend footer
   nav
     if prevPage
