@@ -1,0 +1,72 @@
+extends layout
+
+block content
+  include author
+  each article in articles
+    article.article.intro
+      header
+        p.date
+          span= moment.utc(article.date).format('DD. MMMM YYYY')
+        h2
+          a(href=article.url)= article.title
+      section.content
+        if article.intro.length > 0
+          | !{ typogr(article.intro).typogrify() }
+        if article.hasMore
+          p.more
+            a(href=article.url) more
+
+block prepend footer
+  nav
+    if prevPage
+      a(href=prevPage.url) « Newer
+    else
+      a(href='/archive.html') « Archives
+    if nextPage
+      a(href=nextPage.url) Next page »
+
+block aside
+  article
+    h3 About
+    p
+      a(href="http://icanhasweb.net") icanhasweb.net
+      |  is the online home of 
+      a(href="mailto:arne.hassel@gmail.com") Arne Hassel
+      |, a web developer living and working in Oslo, Norway.
+  article
+    h3 Photo
+    img(src="img/uio200_200px.jpg", alt="A photo of me")
+  article
+    h3 Profiles
+    p My public profiles on the web.
+    ul
+      li
+        a(href="http://about.me/megoth") about.me
+      li
+        a(href="http://delicious.com/megoth") delicious
+      li
+        a(href="http://facebook.com/arne.hassel") facebook
+      li
+        a(href="https://github.com/megoth") github
+      li
+        a(href="http://linkedin.com/in/arnehassel") linkedin
+      li
+        a(href="http://twitter.com/megoth") twitter
+  article
+    h3 Work
+    p Projects I've contributed to.
+    ul
+      li
+        a(href="http://communicaretools.org/") CommuniCare tools
+      li
+        a(href="https://github.com/megoth/graphitejs") graphitejs
+      li
+        a(href="http://holderdeord.no/") Holder de ord
+      li
+        a(href="https://github.com/megoth/minimalist") minimalist
+  article
+    h3 Content
+    p Content on this site.
+    ul
+      li
+        a(href="http://icanhasweb.net/graphitethesis/") Master thesis
