@@ -1,0 +1,5 @@
+extends layout
+
+block content
+  - articles = env.helpers.getArticlesByTag(contents, tagName);
+  include ./articles.jade

@@ -1,0 +1,22 @@
+.block-articles
+  each article in articles
+    article
+      header
+        h2
+          a(href=article.url)= article.title
+        h4.meta
+          | Published !{ moment.utc(article.date).format('DD. MMMM YYYY') }
+      section.content
+        if article.intro.length > 0
+          | !{ typogr(article.intro).typogrify() }
+        if article.hasMore
+          p
+            a(href=article.url).more-link Continue reading &#8594;
+nav
+  ul
+    if prevPage
+      li
+        a(href=prevPage.url) « Newer
+    if nextPage
+      li
+        a(href=nextPage.url) Next page »

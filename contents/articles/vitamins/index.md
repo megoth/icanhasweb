@@ -3,6 +3,7 @@ title: Vitamins
 author: arnehass
 date: 2013-02-02
 template: article.jade
+tags: bootstrap, busterjs, compass, d3.js, github, infographic, jquery, more than supplemental, nutritions, responsive web design, s.b.lattindesign, sass, underscore, vitamins
 ---
 
 About a year ago, [S.B.LattinDesign](http://sblattindesign.wordpress.com/) posted a really cool infographic named [More Than Supplemental](http://sblattindesign.wordpress.com/2012/01/04/supplemental/).

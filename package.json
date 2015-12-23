@@ -13,6 +13,8 @@
     "grunt-contrib-watch": "^0.6.1",
     "grunt-wintersmith": "0.0.2",
     "load-grunt-config": "^0.19.1",
-    "load-grunt-tasks": "^3.4.0"
+    "load-grunt-tasks": "^3.4.0",
+    "wintersmith": "^2.2.4",
+    "wintersmith-tag": "^1.0.2"
   }
 }

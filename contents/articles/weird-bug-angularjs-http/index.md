@@ -3,6 +3,7 @@ title: Weird bug in AngularJS $http?
 author: arnehass
 date: 2013-08-28
 template: article.jade
+tags: $http, AngularJS, checkbox survey, iframe
 ---
 
 At work we’ve been working with AngularJS for a few months, and we are very pleased with its flexibility and solutions to many familiar problems when working with large amount of JavaScript code. There have been problems and bugs, but none we couldn’t solve in due time.
