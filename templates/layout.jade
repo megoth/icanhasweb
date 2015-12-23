@@ -14,27 +14,29 @@ html(lang='en')
       link(rel='stylesheet', href='/css/style.css')
       link(rel='stylesheet', href='/css/style.medium.css', media='all and (min-width: 30em)')
       link(rel='stylesheet', href='/css/style.large.css', media='all and (min-width: 50em)')
-  body
+      link(rel="stylesheet", href="http://fonts.googleapis.com/css?family=Archivo+Narrow")
+  body(class=bodyclass)
     .block-container.layout-container
       header(role="banner").page-header
         hgroup
           block header
             h1
-              a(href=locals.url)
-                span.first I CAN 
-                span.second HAS WEB
+              a(href=locals.url)= locals.name
             h3.site-description= locals.description
-        block nav
+        nav(role="navigation")
+          ul
+            li
+              a(href=locals.url) Home
+                .triangle
+            li
+              a(href="http://cv.icanhasweb.net") CV
+                .triangle
+            li
+              a(href="https://github.com/megoth") Github
+                .triangle
       main(role="main")
         block content
-          h2 Welcome to zombocom!
       aside
         block aside
-          div Even more info!
       footer
-        a(rel="license", href="http://creativecommons.org/licenses/by/3.0/")
-          img(alt="Creative Commons License", src="http://i.creativecommons.org/l/by/3.0/88x31.png")
-        br
-        | This work is licensed under a 
-        a(rel="license", href="http://creativecommons.org/licenses/by/3.0/") Creative Commons Attribution 3.0 
-        | .
+        !=contents['about.md'].html

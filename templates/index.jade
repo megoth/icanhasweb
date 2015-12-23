@@ -1,49 +1,55 @@
 extends layout
 
+block vars
+  - var bodyclass = 'index'
+
+block header
+  h1
+    a(href=locals.url)
+      span.first I CAN 
+      span.second HAS WEB
+  h3.site-description= locals.description
+
 block content
   include author
-  each article in articles
-    article.article.intro
-      header
-        p.date
-          span= moment.utc(article.date).format('DD. MMMM YYYY')
-        h2
-          a(href=article.url)= article.title
-      section.content
-        if article.intro.length > 0
-          | !{ typogr(article.intro).typogrify() }
-        if article.hasMore
-          p.more
-            a(href=article.url) more
-
-block nav
-  nav(role="navigation").navigation-main
-    ul.nav.menu
-      li
-        a(href="http://cv.icanhasweb.net") CV
-          .triangle
-
-block prepend footer
+  .block-posts
+    each article in articles
+      article
+        header
+          h2
+            a(href=article.url)= article.title
+          h4.meta
+            | Published !{ moment.utc(article.date).format('DD. MMMM YYYY') }
+        section.content
+          if article.intro.length > 0
+            | !{ typogr(article.intro).typogrify() }
+          if article.hasMore
+            p
+              a(href=article.url).more-link Continue reading &#8594;
   nav
-    if prevPage
-      a(href=prevPage.url) « Newer
-    else
-      a(href='/archive.html') « Archives
-    if nextPage
-      a(href=nextPage.url) Next page »
+    ul
+      li
+        if prevPage
+          a(href=prevPage.url) « Newer
+        else
+          a(href='/archive.html') « Archives
+      if nextPage
+        li
+          a(href=nextPage.url) Next page »
 
 block aside
-  article
+  article.block-content
     h3 About
     p
       a(href="http://icanhasweb.net") icanhasweb.net
       |  is the online home of 
       a(href="mailto:arne.hassel@gmail.com") Arne Hassel
       |, a web developer living and working in Oslo, Norway.
-  article
+  article.block-content
     h3 Photo
-    img(src="img/uio200_200px.jpg", alt="A photo of me")
-  article
+    .block-photo
+      img(src="img/uio200_200px.jpg", alt="A photo of me")
+  article.block-content
     h3 Profiles
     p My public profiles on the web.
     ul
@@ -59,7 +65,7 @@ block aside
         a(href="http://linkedin.com/in/arnehassel") linkedin
       li
         a(href="http://twitter.com/megoth") twitter
-  article
+  article.block-content
     h3 Work
     p Projects I've contributed to.
     ul
@@ -71,9 +77,11 @@ block aside
         a(href="http://holderdeord.no/") Holder de ord
       li
         a(href="https://github.com/megoth/minimalist") minimalist
-  article
+  article.block-content
     h3 Content
     p Content on this site.
     ul
       li
-        a(href="http://icanhasweb.net/graphitethesis/") Master thesis
+        a(href="http://graphitethesis.icanhasweb.net/") Master thesis
+      li
+        a(href="http://cv.icanhasweb.net/") Curriculum Vitae
