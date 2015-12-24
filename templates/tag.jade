@@ -1,5 +1,9 @@
 extends layout
 
+block header
+  h1= locals.name
+  h3 Articles for "#{ tagName }"
+
 block content
   - articles = env.helpers.getArticlesByTag(contents, tagName);
   include ./articles.jade

@@ -22,7 +22,7 @@ html(lang='en')
           block header
             h1
               a(href=locals.url)= locals.name
-            h3.site-description= locals.description
+            h3= locals.description
         nav(role="navigation")
           ul
             li
@@ -36,6 +36,7 @@ html(lang='en')
                 .triangle
       main(role="main")
         block content
+          != page.html
       aside
         block aside
       footer
