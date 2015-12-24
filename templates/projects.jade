@@ -1,0 +1,24 @@
+extends layout
+
+block vars
+  - var bodyclass = 'projecs'
+
+block content
+  - all_projects = _(contents.projects).chain().filter(function (item, key) {
+  -   return key !== 'index.md';
+  - }).map(function (directory) {
+  -   return directory.index;
+  - }).value().sort(function (projA, projB) {
+  -   return projA.title.toLowerCase() > projB.title.toLowerCase();
+  - });
+  - projects = _(all_projects).filter(function (project) {
+  -   return project.metadata.status === 'active';
+  - });
+  h2 Active projects
+  include projectsList
+  - projects = _(all_projects).filter(function (project) {
+  -   return project.metadata.status === 'inactive';
+  - });
+  h2 Inactive projects
+  include projectsList
+  

@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 author: arnehass
-template: info.jade
+template: projects.jade
 ---
 
 Projects I'm currently and have been working on
