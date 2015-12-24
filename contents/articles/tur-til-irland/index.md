@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-07-15
 template: article.jade
 tags: artist hostel, dublin, dublin castle, dun aengus, galway, guinness, guinness store house, ha'penny, inishmore, irish coffee, Irland, isaac hostel, isle of aran, killronan, molly malone, pint, temple bar, trinity college
+original: https://megoth.wordpress.com/2007/07/15/tur-til-irland/
 ---
 
 <table style="float:right;width:194px;">

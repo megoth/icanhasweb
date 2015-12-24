@@ -4,6 +4,7 @@ author: arnehass
 date: 2011-09-30
 template: article.jade
 tags: cute, cybernetisk selskab, det norske studentersamfund, google reader, kontrib.it, webcomic
+original: https://megoth.wordpress.com/2011/09/30/prioriteringer/
 ---
 
 <p>Å være fulltidsstudent, 20% deltidsarbeider og engasjert student i både <a href="http://cyb.no/">Cybernetisk Selskab</a> og <a href="http://studentersamfundet.no/">Det Norske Studentersamfund</a> tar sin tid. Og nå som jeg har fått <a href="http://veledaonthewing.wordpress.com/2011/09/25/445/">kjæreste</a> strekker rett og slett ikke tiden til å kunne gjøre alt jeg har tatt meg tid til tidligere. En av de store tidsrøverne er <a href="http://reader.google.com/">Google Reader</a>, med ~150 feeds som jeg følger med på daglig. På det verste leste jeg 200 nyhetshistorier hver dag. Noe må gå!</p>

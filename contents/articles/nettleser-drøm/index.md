@@ -4,6 +4,7 @@ author: arnehass
 date: 2008-01-25
 template: article.jade
 tags: Tagged with a list apart, css, doctype, firefox, html, iaeste, ie8, internet explorer, ipod, kompatibilitet, linkedin, nettleser, opera, safari, sid2008
+original: https://megoth.wordpress.com/2008/01/25/nettleser-dr%c3%b8m/
 ---
 
 <p><a href="http://alistapart.com/">A List Apart</a> er et nettmagasin med mange interessante artikler om design og  utforming av nettsider. Skribentene er folk som har jobbet innenfor design i mange år, og artiklene som blir presentert har oftest mye for seg. I den nyeste utgivelsen er det kompatibilitet mellom nettlesere som er på dagsorden, og de to artiklene “<a href="http://www.alistapart.com/articles/beyonddoctype">Beyond DOCTYPE: Web Standards, Forward Compatibility, and IE8</a>” og “<a href="http://www.alistapart.com/articles/fromswitchestotargets">From Switches to Targets: A Standardista’s Journey</a>” tar begge for seg spørsmålet om hva som vil skje når IE8 står klart.</p>

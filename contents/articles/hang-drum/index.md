@@ -4,6 +4,7 @@ author: arnehass
 date: 2008-04-02
 template: article.jade
 tags: hang drum, music
+original: https://megoth.wordpress.com/2008/04/02/hang-drum/
 ---
 
 <p>Snublet over dette klippet og falt raskt for dette fascinerende instrumentet.</p>

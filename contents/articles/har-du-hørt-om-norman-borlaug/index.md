@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-07-23
 template: article.jade
 tags: den grønne revolusjon, norman borlaug, penn & teller bullshit, peta
+original: https://megoth.wordpress.com/2007/07/23/har-du-h%c3%b8rt-om-norman-borlaug/
 ---
 
 <p>Det har ikke jeg. Ikke før jeg så en episode av <a href="http://www.pennandteller.com/">Penn &amp; Teller</a> <a href="http://en.wikipedia.org/wiki/Bullshit!">Bullshit</a> iallefall, en dokumentarserie som setter søkelyset på påstander basert på rent oppspinn (eller bullshit som jo programmet heter), ofte på en humoristisk måte. Nevnte episode het <a href="http://www.tv.com/penn-and-teller-bullsh!/eat-this!/episode/238640/summary.html?tag=ep_list;ep_title;10">Eat This</a> og tok for seg påstandene fra dyrevernere som PETA som nærmest gjør seg til terrorister på dyrenes vegne (de har bl.a. sammenlignet den høyindustrialiserte  matproduksjonen i den vestlige verden med behandlingene av konsentrasjonsfangene under 2. verdenskrig…). Uansett, litt lenger ut i episoden spør de om du har hørt om Norman Borlaug. Umiddelbar respons var selvfølgelig “Nei… burde jeg det?” Etter å ha sjekka opp karen syns jeg at jeg burde det.</p>

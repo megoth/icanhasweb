@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-10-26
 template: article.jade
 tags: dagen@ifi, dansefest, guitar hero, hankattforeningen st. 1902, hyblene, nordic garrison, norwegian gaming award, osi dans, regi, studentersamfundet, technoport, trondheim, uka-07
+original: https://megoth.wordpress.com/2007/10/26/l%c3%b8v-og-t%c3%b8v/
 ---
 
 <p>It needed to be done. So I did it. And I did it with løv! Det vil si, jeg har raka hagen til min mor og far i dag. Ikke alt, gud forby, men så mye jeg følte for. Noe som faktisk ble ganske mye. Litt stolt av seg selv. Og er ikke bare det man er stolt av, har faktisk fått gjort en del de siste dagene. Utover de vanlige tingene som skole, trening og div. sideaktiviteter, så har man vært en tur i Trondheim, vært på kick-off party for <a href="http://www.gameawards.no/">Norwegian Gaming Awards</a>, danset på dansefest og bidratt som funksjonær under <a href="http://dagen.at.ifi.uio.no/">dagen@ifi</a>. Og neste helg skal man til Madrid. Fest!</p>

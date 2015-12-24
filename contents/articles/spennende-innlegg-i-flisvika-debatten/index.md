@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-07-29
 template: article.jade
 tags: audun eng, aust agder blad, council for european urbanism, flisvika, snutter.no, youtube
+original: https://megoth.wordpress.com/2007/07/29/spennende-innlegg-i-flisvika-debatten/
 ---
 
 <p>For dem som følger Aust Agder Blad har man kanskje lest artikkelen <a href="http://www.austagderblad.no/lokale_nyheter/article2898981.ece">Flisvika-prosjektet angripes</a>. Teksten tar for seg et videoklipp (<a href="http://www.snutter.no/app/viewMovie.action?id=7764">Sørlandsperlen Risør trues av utbyggerspekulanter</a>) hvor Audun Eng fra <a href="http://www.ceunet.org/">Council for European Urbanism</a> kritiserer <a href="http://www.austagderblad.no/lokale_nyheter/article2867239.ece">de nye planene for Flisvika</a>. Han mener at prosjektet ikke tar hensyn til den nåværende trehuskulturen som preger byen. Jeg lurer da også på hvordan de nye planene er overens med <a href="http://www.byggskolen.no/fullstory.aspx?m=33&amp;amid=7017">ønsket Risør har om å bli en moderne treby</a>. Personlig har jeg ikke lagt meg opp noen mening om det nye Flisvikaprosjektet. Jeg tviler vel egentlig på om det noen gang kommer til å komme en løsning hvor alle er fornøyde.</p>

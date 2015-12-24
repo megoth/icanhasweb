@@ -4,6 +4,7 @@ author: arnehass
 date: 2011-05-22
 template: article.jade
 tags: 16. mai-galla, chateu neuf, DNS, eksamen, Escape, Essay, Informatikk, masteroppgave
+original: https://megoth.wordpress.com/2011/05/22/motivasjon-hvor-er-du/
 ---
 
 <p>I dag er en sånn dag hvor jeg ikke føler for å gjøre noe, mao. perfekt grobunn for å skrive et innlegg i bloggen man ikke klarer å holde vedlike ^_^ Og jeg følger tankerekken til <a href="http://hemmeligadresse.com/2011/05/jappetijapp/">Thomas</a> og skriver litt om alt og ingenting som fyker rundt i tankene mine for tiden.</p>

@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-07-31
 template: article.jade
 tags: arve juritzen, barn, homofili, knut haavik, sija.no
+original: https://megoth.wordpress.com/2007/07/31/om-homofile-og-deres-rett-til-a-ha-barn/
 ---
 
 <p>Dagbladet beriket i dag debatten om homofiles rett til å ha barn med artikkel “<a href="http://www.dagbladet.no/nyheter/2007/07/31/507561.html">-Barna kan bli mobbeofre</a>“, en uttalelse av Se og Hør-gründer Knut Haavik. Han møter kritikk av Arve Juritzen og flere andre hold, og hans synspunkt blir sett på som en utdøende rase. Homofiles rettigheter har blitt flere og flere de siste tiårene, og per i dag har homofile som par mange rettigheter på lik linje med heterofile. Men et sted stopper det helt opp, og det er på et punkt som er rimelig sårt for mange, nemlig retten til å ta på seg ansvaret for et barn.</p>

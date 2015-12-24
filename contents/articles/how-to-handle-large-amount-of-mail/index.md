@@ -4,6 +4,7 @@ author: arnehass
 date: 2010-11-14
 template: article.jade
 tags: cyb, digsby, email, gmail, google talk, google talks, google tasks, gtd, im, irc, rss
+original: https://icanhasweb.wordpress.com/2010/11/14/how-to-handle-large-amount-of-mail/
 ---
 
 <p>[This post is originally written on <a href="http://megoth.wordpress.com/2010/11/14/et-oppsett-for-a-handtere-store-mengder-mail/">my norwegian blog</a>; I thought it suitable for this blog, so I translated it and reposted it here.]</p>

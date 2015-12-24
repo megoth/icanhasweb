@@ -4,6 +4,7 @@ author: arnehass
 date: 2010-12-27
 template: article.jade
 tags: api, data, irc, javasript, jquery, open data, rdf, Tim Berners-Lee, wiki
+original: https://icanhasweb.wordpress.com/2010/12/27/masters-thesis-preliminary-work/
 ---
 
 <p>Almost a whole month since my last post, not good… This doesn’t proclaim a promising start for this blog. But I hope you’ll excuse me, it’s been a crazy month in terms of exams, christmas dinners, working, voluntarily work, etc etc etc. I won’t bore you with the details.</p>

@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-11-30
 template: article.jade
 tags: blå, Fest, konsert, leaving las palmas, nachspiel, Oslo, pow pow, release-party
+original: https://megoth.wordpress.com/2007/11/30/pow-pow-leaving-las-palmas-release-party/
 ---
 
 <p>Da jeg omsider har kommet meg etter gårsdagen føler jeg at noen ord om opplevelsen er verdt å få ned. Det som skulle bli en rolig kveld ble en, vel, ok det ble en rolig kveld. Men rolig trenger ikke bety kjedelig, for gårsdagen var langt fra det. Det som virkelig høylyser gårsdagen er konserten med Pow Pow, som hadde release-party i sammenheng med at de har satt sammen albumet Leaving Las Palmas. Jeg og min gode venn Jarle hadde bestemt oss for å sjekke ut arrangementet, og da jeg ikke hadde vært på noen av deres konserter tidligere gledet jeg meg til å endelig få satt noen visuelle inntrykk på lydbåndet jeg hadde hørt tidligere på <a title="Pow Pows offisielle hjemmeside" href="http://www.powpow.no/">deres hjemmeside</a>.</p>

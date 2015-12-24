@@ -4,6 +4,7 @@ author: arnehass
 date: 2011-07-23
 template: article.jade
 tags: auf, norge, Oslo, sorg, terror, tragedie, uvirkelig
+original: https://megoth.wordpress.com/2011/07/23/sorg/
 ---
 
 <p>Dette er en sorgens dag. Jeg innrømmer at jeg ikke vet hvordan jeg skal takle situasjonen, dette er noe jeg aldri kunne tenkt meg skulle skje her i Norge. Men kanskje det å skrive om det hjelper, om bare for å få samlet tankene. Kanskje det jeg skriver kan hjelpe andre med det samme.</p>

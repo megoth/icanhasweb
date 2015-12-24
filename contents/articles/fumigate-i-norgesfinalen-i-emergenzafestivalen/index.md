@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-06-10
 template: article.jade
 tags: betong, chateu neuf, emergenza-festivalen, Fest, Oslo
+original: https://megoth.wordpress.com/2007/06/10/fumigate-i-norgesfinalen-i-emergenzafestivalen/
 ---
 
 <p>Tidligere har jeg fortalt om <a href="http://fumigaterock.com/">Fumigate</a>, da de har vært på <a href="http://megoth.wordpress.com/2007/05/25/school-is-out-summer-is-in/#fumigate">konserter</a> i regi av <a href="http://www.emergenza.net/eng/default.asp">Emergenzafestivalen</a>, som er en musikk-konkurranse. Denne gang var turen kommet til Norgesfinalen, steget før den nordiske finalen i Sverige. Hadde de kommet så langt og vunnet den internasjonale finalen i Tyskland ville de hatt en platekontrakt, turnekontrakt i statene og instrumenter og teknisk utstyr. Som du skjønner vant de ikke denne omgangen. Men de kom på en tredjeplass, og Sven Johnsen fikk pris for beste gitarist. Med tanke på at de spilte mot 11 andre band som også har gått gjennom to omganger og hver slått ut 15 motstandere på veien dit, så er dette en fantastisk prestasjon.</p>

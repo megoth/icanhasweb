@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-08-03
 template: article.jade
 tags: barn, homofili, menneskerettigheter
+original: https://megoth.wordpress.com/2007/08/03/s%c3%b8ken-etter-rett-og-galt-i-homofiles-foreldrerett/
 ---
 
 <p>Etter å ha lest <a href="http://megoth.wordpress.com/2007/07/31/om-homofile-og-deres-rett-til-a-ha-barn/#comment-200">Nicholas  sin kommentar</a> til mitt forrige innlegg <a href="http://megoth.wordpress.com/2007/07/31/om-homofile-og-deres-rett-til-a-ha-barn/">Om homofile og deres rett til å ha barn</a> begynte jeg å søke rundt etter artikler som omhandlet temaet (dette burde jeg ha gjort før det forrige innlegget, som hovedsaklig besto av hva jeg følte og hadde hørt om temaet… vel, bedre sent enn aldri). Søkene ga noen interessante resultater, som jeg hadde tenkt å skrive som kommentar på nevnte innlegg. Men siden det etterhvert ble en del tekst, bestemte jeg meg for å skrive et nytt innlegg.</p>

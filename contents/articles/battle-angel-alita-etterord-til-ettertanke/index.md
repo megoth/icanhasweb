@@ -4,6 +4,7 @@ author: arnehass
 date: 2008-01-15
 template: article.jade
 tags: anime, battle angel alita, manga, yukito kishiro
+original: https://megoth.wordpress.com/2008/01/15/battle-angel-alita-etterord-til-ettertanke/
 ---
 
 <p>Nå har jeg lest mangaserien <a href="http://en.wikipedia.org/wiki/Battle_Angel_Alita">Battle Angel Alita</a> av <a href="http://en.wikipedia.org/wiki/Yukito_Kishiro">Yukito Kishiro</a>, en vill sci-fi i en sprø verden delt mellom Tiphares, himmelbyen som henger etter en tråd fra en bane rundt jorden, og the The Scrapyard, som eksisterer for å dekke Tiphares behov for materialer. Serien består av 9 bøker og er på rundt 200-250 sider hver, sider dekket av de mest groteske, obskøne og sjuke bildene du kan tenke deg. Historien er kanskje ikke den beste, men den driver deg igjennom en sinnsyk og fargerik verden (metaforisk ment, i og med at hele serien er svart-hvit).</p>

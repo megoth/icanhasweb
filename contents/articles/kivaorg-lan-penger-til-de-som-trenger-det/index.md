@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-12-05
 template: article.jade
 tags: bill clinton, eksamen, kiva.org, oprah
+original: https://megoth.wordpress.com/2007/12/05/kivaorg-lan-penger-til-de-som-trenger-det/
 ---
 
 <p>Eksamenslesing går sin gang, med noen små pauser her og der. En av de ble brukt til litt tv-titting, og siden det er tidlig og lite morsomt går på, ender jeg av alle ting opp med å se på <a href="http://oprah.com/">The Oprah Show</a>, som denne gang har Bill Clinton som gjest. De promoterer også en nettside, <a href="http://kiva.org/">Kiva.org</a>, som gir brukere muligheten til å låne penger til småbedrifter rundt om i verden. Med beløp fra 25 til 675 USD kan enkeltbrukere låne penger til folk som virkelig trenger det.</p>

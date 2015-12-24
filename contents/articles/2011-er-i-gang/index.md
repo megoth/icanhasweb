@@ -4,6 +4,7 @@ author: arnehass
 date: 2011-01-09
 template: article.jade
 tags: 2011, action center, cybernetisk selskab, dagen@ifi, ifi, lonely planet, masteroppgave, ole johan dahls hus, read it later, regnskap, southeast asia, thailand, windows 7, økonomi
+original: https://megoth.wordpress.com/2011/01/09/2011-er-i-gang/
 ---
 
 <p>Da har det gått vel en uke av 2011, og livet går sin vante gang. Uka har for det meste gått til å være forkjølet, noe som har gått ut over det meste, deriblant jobb. Å være forkjølet er noe skikkelig herk, med hodepine, kaldsvette, snufsende nese og generell lite til null energi til å gjøre noe fornuftig.</p>

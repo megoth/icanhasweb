@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-08-16
 template: article.jade
 tags: blindern, Fest, iaeste, kringsjå, mikrobryggeriet, Oslo, realistforeningen, thor heyerdahl
+original: https://megoth.wordpress.com/2007/08/16/oslo-nye-studier-og-bakfylla/
 ---
 
 <p>Jeg er her. Dette er min 6. dag som beboer på Kringsjå, og min evt. 5 dag med sosial, festlig samkomst. Min far og jeg dro inn på lørdag med bilen fylt til randen med møbler og klær. Den ble enda mer fylt underveis da vi dro innom Ikea og kjøpte noen flere møbler. Pappa er ikke særlig glad i å kjøre i Oslo, med sin til tider innfløkte trafikksystem og enda mer til tider frekke bilister, så det ble litt forvirring og forfjamsing før vi endelig sto framme ved byggningen jeg trolig skal tilbringe mye av min tid det neste året i.</p>

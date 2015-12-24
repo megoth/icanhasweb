@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-07-30
 template: article.jade
 tags: charlote finnesand, frp
+original: https://megoth.wordpress.com/2007/07/30/idioter-og-deres-utsagn/
 ---
 
 <p>Det er utrolig hvilket idioti folk klarer å få seg selv til å si. Som for eksempel Charlotte Finnesands utsagn om at <a href="http://www.radio102.no/radio102/web.nsf/0/65C354E3C087CC34C12573280029F7BC?OpenDocument">handicappede barn bør ikke settes til verden</a>. Hun argumenterer dette ut fra et samfunnsøkonomisk standpunkt, at slike barn krever såpass mye ressurser for samfunnet ellers at det rett og slett er egoistisk av foreldrene å ikke gjennomføre abort. Dette argumentet setter jeg meg mot på det sterkeste, på det enkle grunnlag at det ikke bare er penger som ligger til grunn i et samfunn. Det ser til og med jeg som økonom.</p>

@@ -4,6 +4,7 @@ author: arnehass
 date: 2010-02-21
 template: article.jade
 tags: biørnegildet, by:Larm, chriss lee, cyb, datarock, harrys gym, i see horses, izakaya heartbeat, kråkesølv, last days of earth, little hands of asphalt, mhoo, powpow, privat regn, proviant audio, realistforeningen, rf, spotify, the deer tracks, twins twins, yes this is mye broken shield, æ
+original: https://megoth.wordpress.com/2010/02/21/spotify-fest-datarock-og-bylarm-2010/
 ---
 
 <p>Søndag er en fin dag. En dag å la kroppen hvile, restituere seg etter de siste dagers virke. 3 dager med konsert og fest i mitt tilfelle. En utrent kropp tåler slik påkjenning mindre bra, og jeg merker at det er godt med en hviledag. Men det var verdt det!</p>

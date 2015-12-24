@@ -4,6 +4,7 @@ author: arnehass
 date: 2008-02-21
 template: article.jade
 tags: oppfinnelse, Video, øl
+original: https://megoth.wordpress.com/2008/02/21/alkoholmisbruk/
 ---
 
 <p>Festlig idé, men jeg tør ikke tenke på hvor godt rista den boksen blir. Slikt er ikke bra for øl…</p>

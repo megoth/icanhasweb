@@ -4,6 +4,7 @@ author: arnehass
 date: 2009-06-06
 template: article.jade
 tags: ateister
+original: https://megoth.wordpress.com/2009/06/06/ateister-er-ikke-ordentlige-mennesker/
 ---
 
 <p>Ok, oversettelsen min er kanskje litt feil, men synes videoen der Penn Jillette kommenterer <span>Cormack Murphy O’Connors utsagn om ateister er verdt en titt.</span></p>

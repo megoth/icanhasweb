@@ -4,6 +4,7 @@ author: arnehass
 date: 2010-05-28
 template: article.jade
 tags: html5, javascript, offline applications, storage, web applications
+original: https://megoth.wordpress.com/2010/05/28/html5-og-offline-applications/
 ---
 
 <p>(beklager på forhånd min bruk av engelske og norske uttrykk om hverandre^_^)</p>

@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-04-08
 template: article.jade
 tags: 4cl, Fest, fyll, Hope, jam, jonny vang, påske, peterhead, prommen, Risør, standby, stumbleupon
+original: https://megoth.wordpress.com/2007/04/08/paske-tid-for-fyll-og-faenskap/
 ---
 
 <p>For en påske det har vært! Ikke helt ferdig enda, er jo andre påskedag imorgen, men hva min benytting av påska angår så er jeg ferdig. Jau, om du kjenner meg så vet du hva jeg referer til; fylla. Tre dager har gått, og alkoholen har flyte alle dagene, om enn noe forkortet på langfredag. Ja, mer om det senere.</p>

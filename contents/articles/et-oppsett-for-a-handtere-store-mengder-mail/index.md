@@ -4,6 +4,7 @@ author: arnehass
 date: 2010-11-14
 template: article.jade
 tags: cyb, digsby, epost, facebook, fifo, gmail, google docs, google talk, gtd, ifi fadderordning, im, irc, rss, tasks
+original: https://megoth.wordpress.com/2010/11/14/et-oppsett-for-a-handtere-store-mengder-mail/
 ---
 
 <p>Jeg er student, arbeider deltid som systemutvikler, er engasjert i studentforening og har noen sideprosjekter. Utover tiden produksjonsnivået krever, så resulterer det også i uhorvelige mengder epost. Mellom 30 og 50 epost vil jeg anslå er innom innboksen min i hverdagene, et tall som går ned til rundt 10-20 i helgedagene. Før sommeren klarte jeg ikke å håndtere denne mengden, noe som gjorde at jeg i eksamensperioden fikk nok, og brukte x antall timer på å rydde opp, og etablere et system som kunne håndtere mengden (prokrastinering før eksamen er et kjent fenomen, tross alt).</p>

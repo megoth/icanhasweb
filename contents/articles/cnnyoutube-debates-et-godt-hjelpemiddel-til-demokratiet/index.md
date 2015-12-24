@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-07-26
 template: article.jade
 tags: aftenposten, biden, clinton, cnn/youtube debates, dagbladet, dodd, edwards, kicinich, mike gravel, obama, richardson, youchoose, youtube
+original: https://megoth.wordpress.com/2007/07/26/cnnyoutube-debates-et-godt-hjelpemiddel-til-demokratiet/
 ---
 
 <p>De som følger med på den amerikanske presidentkandidat-prosessen eller utviklingen av evenementer innenfor videoblogging har trolig fått med seg <a href="http://www.youtube.com/debates">CNN/YouTube-debattene</a>. Om ikke har du kanskje fått med deg <a href="http://www.aftenposten.no/nyheter/uriks/article1903188.ece">Aftenpostens</a> eller <a href="http://www.dagbladet.no/kultur/2007/07/23/506952.html">Dagbladets</a> dekkning av evenementet. Massedebatten er den første i sitt slag på den måten at spørsmålene kommer gjennom videoopptak fra brukerbasen til YouTube, som i stor grad består av amerikanere. YouTube har fått mye oppmerksomhet for dette, siden politikere har fått øynene opp for denne formen for kommunikasjon, og i større og større grad bruker presidentkandidatene det som vervings-/promoteringsmaskin. YouTube legger det også til rette for dem gjennom kanaler som <a href="http://www.youtube.com/members?s=po&amp;t=w&amp;g=-1">YouChoose</a>. En av de store sakene har da vært hvilken presidentkandidat som har flest abonnenter.</p>

@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-03-19
 template: article.jade
 tags: fox news, monsanto corporation, stumbleupon, the corporation
+original: https://megoth.wordpress.com/2007/03/19/medias-makt-og-ansvar/
 ---
 
 <p><a href="http://stumbleupon.com">StumbleUpon</a> er et konsept hvor du “snubler” (surfer er kanskje et bedre uttrykk) gjennom nettsider som har fått god kritikk og som matcher et sett med kriterier for interesse som du har gitt til SU. Om du bruker IE eller <a href="http://mozilla.com/firefox">Firefox</a> er denne løsningen gjort utrolig enkel ved at du installerer en toolbar (verktøy-linje?) hvor du kan trykke på en knapp for å foreta snublinga.  For en tid tilbake utvidet SU snuble-knappen sin slik at du enkelt kunne snuble gjennom sider med spesifikt innhold (alle, sider anbefalt av venner, nyheter, bilder og <a href="http://video.stumbleupon.com/">film</a>).</p>

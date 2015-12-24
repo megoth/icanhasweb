@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-03-18
 template: article.jade
 tags: afghanistan, bill clinton, george h.w. bush, george w. bush, iran, jon stewart, the daily show, zbigniew brzezinski
+original: https://megoth.wordpress.com/2007/03/16/second-chance-three-presdidents-and-the-crisis-of-american-superpower/
 ---
 
 <p>Da jeg endelig har fullført min første (av tre) semesteroppgave (i det ene faget jeg har denne våren) ser jeg meg tid til å skrive og bable litt igjen.</p>

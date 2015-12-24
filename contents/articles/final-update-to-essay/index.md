@@ -4,6 +4,7 @@ author: arnehass
 date: 2011-07-25
 template: article.jade
 tags: essay, javascript, rdfquery, semantic web
+original: https://icanhasweb.wordpress.com/2011/07/25/final-update-to-essay/
 ---
 
 <p>Last week I finished writing on an essay that is part of my master thesis. I was thinking about posting about it this weekend, but, well, with all that’ve happened, that got downgraded. But I feel it’s time to move on with life now.</p>

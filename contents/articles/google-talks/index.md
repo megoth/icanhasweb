@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-04-27
 template: article.jade
 tags: author@google, Google, linkedin, strobe talbott, TED
+original: https://megoth.wordpress.com/2007/04/27/google-talks/
 ---
 
 <p>Jeg hadde egentlig tenkt at neste post skulle bli en ny bokomtale, men det som ploppet ned i min <a href="http://en.wikipedia.org/wiki/Aggregator">rss-aggregator</a> i kveld ble for meg en liten tankevekker. <a href="http://googleblog.blogspot.com/">Googles offisielle blogg</a> hadde en oppdatering som omhandlet <a href="http://www.youtube.com/atgoogletalks">Authors@Google</a>, et konsept der Google presenterer mange av presentasjonene som blir holdt hos Google. Da jeg klikket på lenken fra rss-posten, kunne jeg ikke la vær å legge merke til adressen jeg klikket meg inn på: <a href="http://www.google.com/talks/authors">google.com/talks/authors</a>. Smak på ordet: Google Talks. Mmm, like.</p>

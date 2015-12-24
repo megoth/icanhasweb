@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-09-06
 template: article.jade
 tags: automatic, Blogging
+original: https://megoth.wordpress.com/2007/09/06/a-blogge-eller-ikke-blogge/
 ---
 
 <p>Det har vært hektisk den siste tiden. Jeg har blitt student i Oslo, med alt det innebærer. Fått meg nytt sted å bo, nye klassekamerater, nye bøker og generelt nye ting å utforske. Det har vært en veldig fin tid, syns jeg, da jeg føler jeg har fått gjort mye ut av den, både på det sosiale og det faglige. Denne uken har derimot skilt seg fra de andre vet at jeg har midlertidig flagget ut, tatt meg fri fra forelesninger og gruppearbeid og heller vært hjemme og slappet av og lest. Eneste unntaket har vært treningen som mine treningskamerater har klart å slepe meg med på. Jeg har til og med vært på dansetrening. Det er ingen unnskyldning for dette, utover at jeg har et lite tilfelle av forkjølelse. Mer riktig er det store tilfellet av latskap som jeg føler denne uka. En latskap som også har vist seg i bloggingen.</p>

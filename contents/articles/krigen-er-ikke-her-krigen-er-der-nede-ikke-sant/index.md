@@ -4,6 +4,7 @@ author: arnehass
 date: 2009-01-08
 template: article.jade
 tags: demonstrering, gaza, israel
+original: https://megoth.wordpress.com/2009/01/08/krigen-er-ikke-her-krigen-er-der-nede-ikke-sant/
 ---
 
 <p>Sitat fra ukjent fakkelbærer på TV2-nyhetene i kveld.</p>

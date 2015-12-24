@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-02-25
 template: article.jade
 tags: arnehassel.com, everything jake, megoth
+original: https://megoth.wordpress.com/2007/02/25/hello-world/
 ---
 
 <p>Da har jeg satt i gang med enda en blogg. Min tidligere ligger/lå på <a href="http://arnehassel.com/">arnehassel.com</a> (kan hende jeg har sagt opp avtalen nå, og at lenken ikke lenger er aktiv). Flyttingen begrunnes i at jeg ikke lenger ønsker å påkoste et webhotell som koster meg 1000-lapp i året når jeg ikke bruker det til noe fornuftig. Jeg har lyst til å lansere prosjekter jeg sysler med etterhvert, men kommer heller til å bruke gratisløsninger på nett. Om det skulle bli noe stort/seriøst/potensielt penger å tjene, så skal jeg heller se på muligheten til å leie et webhotell igjen.</p>

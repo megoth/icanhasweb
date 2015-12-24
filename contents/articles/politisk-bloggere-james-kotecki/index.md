@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-06-15
 template: article.jade
 tags: constitutionalist, james kotecki, mike gravel, national initiative, ron paul, steve colbert
+original: https://megoth.wordpress.com/2007/06/15/politisk-bloggere-james-kotecki/
 ---
 
 <p>De fleste har fått med seg hva det å <a href="http://en.wikipedia.org/wiki/Blog">blogge</a> er. Ikke alle er interessert, og de som er det driver gjerne på med det selv. For meg er blogging, eller web-logging om du vil, blitt en informasjonskilde som i stor grad gjenspeiler massemedia, men som i større og større grad blir uavhengige og produserer eget stoff (det skal sies at mange av disse bloggene grenser til proffesjonelle publiseringssider, men den diskusjonen til en annen gang). Nylig fant jeg en politisk <a href="http://www.youtube.com/profile?user=JamesKotecki">videoblogger</a> med navn <a href="http://en.wikipedia.org/wiki/James_Kotecki">James Kotecki</a>, som har intervjuet personer som Mike Gravel (<a href="http://www.gravel2008.us/">promoteringside</a>, <a href="http://en.wikipedia.org/wiki/Mike_Gravel">wikipedia</a>) og Ron Paul (<a href="http://www.ronpaul2008.com/">promoteringside</a>, <a href="http://en.wikipedia.org/wiki/Ron_Paul">wikipedia</a>), begge mulige presidentkanditater for demokratene og republikanerne i statene, respektivt. Med tanke på at karen er yngre enn meg må jeg bare si respekt.</p>

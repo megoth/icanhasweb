@@ -4,6 +4,7 @@ author: arnehass
 date: 2012-01-03
 template: article.jade
 tags: compass, css, framework, javascript, less, sass, semantic web
+original: https://icanhasweb.wordpress.com/2012/01/03/disposition-iteration-3/
 ---
 
 <p>I’ve made my third iteration of the disposition available on the net. As always, it’s available on&nbsp;<a href="http://folk.uio.no/arnehass/master/disposition.pdf">http://folk.uio.no/arnehass/master/disposition.pdf</a>, but I’ve also updated <a href="https://github.com/megoth/Semantic-Web---Javascript---A-master-thesis">the project on GitHub</a> if you wish to see earlier revisions.</p>

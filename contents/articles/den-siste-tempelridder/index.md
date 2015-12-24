@@ -4,6 +4,7 @@ author: arnehass
 date: 2009-01-28
 template: article.jade
 tags: bok, den siste tempelridder, mini-tvserie, the last templar
+original: https://megoth.wordpress.com/2009/01/28/den-siste-tempelridder/
 ---
 
 <p>Dette er ikke en omtale, men snarere et utløp for frustrasjon over et aspekt av filmatiseringen av boka Den siste tempelridder. Har du ikke lest boka, anbefaler jeg deg å lese den før du leser videre her, for jeg kommer til å røpe plottet…</p>

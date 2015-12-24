@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-04-05
 template: article.jade
 tags: james nachtwey, linkedin, TED
+original: https://megoth.wordpress.com/2007/04/05/ted-talks-james-nachtwey/
 ---
 
 <p>På hvert årlige arrangement av <a title="TED Conference" href="http://ted.com/">TED-konferansen</a> får tre forelesere en pengegave på 100.000 samt muligheten til å formulere et ønske som TED-samfunnet kan ta del i å løse. En av disse vinnerne er <a title="Wikipedia om James Nachtwey" href="http://en.wikipedia.org/wiki/James_Nachtwey">James Nachtwey</a>, som er en fotograf berømt for sine krigsberetninger.</p>

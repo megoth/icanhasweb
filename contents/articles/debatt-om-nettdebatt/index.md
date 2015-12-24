@@ -4,6 +4,7 @@ author: arnehass
 date: 2009-02-06
 template: article.jade
 tags: aftenposten, Blogging, cover it live, debatt, fritt fram på nett, hagtvet, hegnar online, Internett, knut olav åmås, Media, norge, norsk journalistlag, norsk pen, vox publica
+original: https://megoth.wordpress.com/2009/02/06/debatt-om-nettdebatt/
 ---
 
 <p>Debatt om nettdebatt er en ganske utdebattert diskusjon etterhvert, men for oss som interesserer oss for temaet er det alltid interessant å se når gode innlegg kommer i en god kontekst. Det, etter mitt syn, var tilfellet med debatten <a href="http://agorakalender.origo.no/-/event/show/52096_fritt-fram-paa-nett#comment-699891">“Fritt fram på nett”</a> som ble holdt på Litteraturhuset i Oslo 2. februar, arrangert av <a href="http://www.norskpen.no/php/">Norsk PEN</a> og <a href="http://www.nj.no/">Norsk Journalistlag</a>.</p>

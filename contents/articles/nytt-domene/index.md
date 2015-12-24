@@ -4,6 +4,7 @@ author: arnehass
 date: 2012-11-01
 template: article.jade
 tags: baksia, cybernetisk selskab, framsia, galla, holder de ord, lambertseter, meetup, oslo open data forum, senter for pasientmedvirkning og samhandlingsforskning, stortinget
+original: https://megoth.wordpress.com/2012/11/01/nytt-domene/
 ---
 
 <p>Dette er det første norske blogginnlegget på icanhasweb.net, mitt nye domene. Om du er interessert i å lese om de tekniske sidene av det å få opp siden, anbefaler jeg deg å lese <a href="http://icanhasweb.net/blog/2012/11/a-new-beginning/">mitt første engelske blogginnlegg på siden</a>. Med dette håper jeg å få i gang litt skriving igjen, men tiden vil vise seg om jeg klarer det. Nå som jeg er ferdig med mastergraden så kan det jo hende at jeg klarer å ta meg mer tid til dette. Men livet etter studiene inneholder også nok av oppgaver og muligheter.</p>

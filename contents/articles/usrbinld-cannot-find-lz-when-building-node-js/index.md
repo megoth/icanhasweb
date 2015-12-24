@@ -4,6 +4,7 @@ author: arnehass
 date: 2012-01-19
 template: article.jade
 tags: build, buster.js, node.js, tdd
+original: https://icanhasweb.wordpress.com/2012/01/19/usrbinld-cannot-find-lz-when-building-node-js/
 ---
 
 <p>As part of the thesis I’ve been looking around for test framework for JavaScript. I’ve found <a href="http://busterjs.org/">Buster.JS</a>, and its support of mocking, stubbing and asynchronous tests appealed to me. It required <a href="http://nodejs.org/">Node.JS</a> to work, so I began the task of installing it. I started getting errors, and as I’m not that experienced with the whole compiling-process (I’ve experience from courses where we programmed with C and assembly, but ain’t really fond of it). It took me some time debugging the problem, but the line&nbsp;“/usr/bin/ld: cannot find -lz” stood out after some iterations.</p>

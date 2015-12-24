@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-06-18
 template: article.jade
 tags: kloning
+original: https://megoth.wordpress.com/2007/06/18/retten-pa-selvet/
 ---
 
 <p>Jeg vil beskrive et tankeeksperiment som ramlet over meg etter et møte jeg hadde med noen venner av meg på den lokale kaféen/puben. Det kan hende det er fullt av hull og ikke henger på grep, men jeg vil gi det et forsøk. Om noe er det kanskje en start. Det handler om kloning og problemstillinger knyttet til spørsmålet om hva en identitet/personlighet er. For å komme til dilemmaet mitt må en rekke forutsetninger tas, så jeg håper du kan bære med meg.</p>

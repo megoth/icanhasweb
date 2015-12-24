@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-04-22
 template: article.jade
 tags: anonymitet, dagbladet, e-signatur, flaming, google search history, hitling, jarle aabø, linkedin, trolling, vg
+original: https://megoth.wordpress.com/2007/04/22/nettforum-for-fall/
 ---
 
 <p>Forleden leste jeg kronikken <a href="http://www.aftenposten.no/meninger/kronikker/article1741553.ece">Redaktørenes verbale vold</a>, en meningsytring av Jarle Aabø. Han angriper trenden i norske nettforum hvor det er fri flyt av informasjon, altså at folk kan skrive inn meninger anonymt og uten sensur. Han syns det er uansvarlig av norske redaktører å tilby denne formen for debattform. Det pekes på at avisene har moderatorer som modifiserer og setter retningslinjer for debatter som svinger av temaet, eller som blir såpass intense at argumentene forsvinner i et hav av søppel. Men Aabø sier videre at disse ikke gjør jobben sin ordentlig.</p>

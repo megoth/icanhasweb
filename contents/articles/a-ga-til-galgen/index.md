@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-04-14
 template: article.jade
 tags: gerd liv valla, lo, tabloid, tunnelsaken
+original: https://megoth.wordpress.com/2007/04/14/a-ga-til-galgen/
 ---
 
 <p>Det skal ikke være enkelt å feile for tiden. Landets største aviser har for tiden gjort det klinkende klart, og snuser og graver i alle kriker og kroker for å henge ut folk og fe for å vise hvor grusomt og umenneskelige følgene av deres feil er. Det nyeste eksemplet på dette er tunnelskandalen, like før det var det LO-skandalen. Forskjellen mellom de to sakene, og det virker som dette irriterer media grenseløst, er at det ikke er en klar entitet å legge skylden på.</p>

@@ -4,6 +4,7 @@ author: arnehass
 date: 2008-04-03
 template: article.jade
 tags: dashell driscoll, feminisme, Kultur, maskulinitet, pitzer college, the masculinity coalition
+original: https://megoth.wordpress.com/2008/04/03/the-masculinity-coalition/
 ---
 
 <p>En digg-artikkel med tittel <a rel="source" href="http://masculinists.org/updates/040208.html">Radio Show Funds Masculinists/PWNS Pitzer Feminist. Victory!</a><em> </em>tar for seg <a href="http://masculinists.org/updates/040208.html">intervjuet av Dashiell Driscoll</a>, initiativtaker og leder for gruppen <a href="http://masculinity.org/">The Masculinity Coalition</a>, en studentgruppe på Pitzer College. Intervjuet er interessant fordi den tar for seg synspunktet til gruppen, og kritikken mot den, som spesielt er rettet mot navnet. Hvis jeg har forstått riktig, så ønsker gruppen fokus på menns problemer, som kroppsidealer, mentalitet, etc, og ønsker å promotere ting som menn syns er gøy (som drikke øl, spille fotball, etc). Kanskje ikke noe stort, men det har vekket stor frustrasjon og ergrelse blant medstudenter.</p>

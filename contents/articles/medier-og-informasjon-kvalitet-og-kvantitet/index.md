@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-03-09
 template: article.jade
 tags: aftenposten, charlotte sissener, del.icio.us, digg, google news, guri hjeltnes, hans erik matre, initiative nachrightenaufklärung, linkedin, project censored, stumbleupon, trygve aas olsen, vg
+original: https://megoth.wordpress.com/2007/03/09/medier-og-informasjon-kvalitet-og-kvantitet/
 ---
 
 <p>Tankerekken jeg vil ta for meg i denne teksten kommer etter å ha lest kronikken “<a href="http://www.aftenposten.no/meninger/kronikker/article1668636.ece">Sakene mediene glemmer</a>” til Trygve Aas Olsen som var i Aftenposten lørdag 2. mars. Etter å ha lest den navnebroren “<a href="http://www.vg.no/pub/vgart.hbs?artid=168806">Saker mediene glemmer</a>“, skrevet av Guri Hjeltnes og trykket i VG 5. mars, spinte tankene bare videre.</p>

@@ -4,6 +4,7 @@ author: arnehass
 date: 2012-01-15
 template: article.jade
 tags: christian johansen, espen andersen, haredim, historie, iran, Islam, israel, javascript, kjønn, krig, lov, midtøsten, Politikk, Religion, requirejs, rle, samfunn, sex, shoaib mohammad sultan, sinon.js, somalieren, ultraortodokse jøder, usa
+original: https://megoth.wordpress.com/2012/01/10/link-o-rama-1/
 ---
 
 <p>Når jeg ser over hva jeg har produsert av innlegg i 2011, så er det et trist syn. Fire innlegg ble det. Ikke akkurat mye å skryte av. Så for å bøte litt på det tenkte jeg å prøve et nytt konsept. Eller, et nytt konsept for meg, for originalt er det ikke akkurat. Av mangel på noe bedre navn kaller jeg konseptet link-o-rama.</p>

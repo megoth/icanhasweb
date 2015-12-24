@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-03-07
 template: article.jade
 tags: depesjer
+original: https://megoth.wordpress.com/2007/03/07/depesjer-is-out/
 ---
 
 <p>Jeg har lenge abonnert på <a href="http://depesjer.no/">depesjers</a> rss-feed, men i dag så jeg meg lei. Det gjorde jeg av to grunner:</p>

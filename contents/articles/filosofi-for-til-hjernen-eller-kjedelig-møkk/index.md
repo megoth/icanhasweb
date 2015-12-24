@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-05-02
 template: article.jade
 tags: aftenposten, arne næss, ex.phil., herner sæverot, ken robinson
+original: https://megoth.wordpress.com/2007/05/02/filosofi-for-til-hjernen-eller-kjedelig-m%c3%b8kk/
 ---
 
 <p>De fleste som leser tittelen til denne teksten vil nok si seg enig i at førstnevnte utsagn er mest riktig. Men om folk vil rettferdiggjøre utsagnet gjennom innsats i form av f.eks. lesing er mer tvilsomt. I det henseendet lever sistnevnte utsagn i sin rettmessige betydning. Alle har vi opplevd og kanskje til og med tatt del i de filosofiske samtaleemner som gjerne oppstår når nachspielet drar inn i de lange timer og hjernen tenker at “jøss, nå tenker jeg eksepsjonelt bra!” Selvfølgelig, i det øyeblikk har logikken for lengst forsvunnet ut av vinduet sammen med en av de utallige flaskene du har tylt i deg.</p>

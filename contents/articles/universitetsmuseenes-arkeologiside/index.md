@@ -4,6 +4,7 @@ author: arnehass
 date: 2010-05-23
 template: article.jade
 tags: arkeologi, historie, Kultur, norge, universitetsmuseene
+original: https://megoth.wordpress.com/2010/05/23/universitetsmuseenes-arkeologiside/
 ---
 
 <p>Kom over <a href="http://www.unimus.no/arkeologi/">Universitetsmuseenes Arkelogiside</a>, og synes det ser veldig bra ut. Men som informatiker har jeg én klar kritikk.</p>

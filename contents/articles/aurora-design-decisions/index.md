@@ -4,6 +4,7 @@ author: arnehass
 date: 2010-11-07
 template: article.jade
 tags: aurora, cms, cyb, cybernetisk selskab, descriptive code, django, escape, framework, graceful degradation, ifi, markup, ole johan dahls hus, progressive enhancement, semantic markup, w3c
+original: https://icanhasweb.wordpress.com/2010/11/07/aurora-design-decisions/
 ---
 
 <p>Aside from my studies and part-time job, I’m partaking in the activities of <a href="http://cyb.ifi.uio.no/">Cybernetisk Selskab [no]</a>, a student driven association working to improve the social environment at <a href="http://www.ifi.uio.no/english/">the Department of Informatics</a>. As a member of the board, I’m frequently involved in the different activities arranged, and one of them is the CybWebDev.</p>

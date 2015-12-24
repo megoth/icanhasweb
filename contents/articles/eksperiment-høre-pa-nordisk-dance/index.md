@@ -4,6 +4,7 @@ author: arnehass
 date: 2008-01-15
 template: article.jade
 tags: crap, dance, danmark, Musikk, nordisk, nordisk dance, norge, sverige
+original: https://megoth.wordpress.com/2008/01/06/eksperiment-h%c3%b8re-pa-nordisk-dance/
 ---
 
 <p>Jeg har på ymse vis fått hånd på samtlige utgivelser av Clubfanatix-serien, 94 i tallet. For å gi et anslag på kvaliteten, nøyer jeg med å si at serien har blitt gitt ut i løpet av 2 år (2006-2007). Beslutningen om å anskaffe denne serien ser jeg nå på som ren galskap, øyeblikket må ha vært tilsløret av sterkere narkotiske stoffer. Jeg erindrer idéen om at “jo, noe bra må jo være gjemt i dette her!”… så feil kan man altså ta. Men med dette materialet som grunnlag har jeg fått en idé om hva nordisk dance innebærer. Det slo meg i det jeg hørte et knippe av sangene representert på disse skivene. Og jeg advarer: du gjentar eksperimentet på eget ansvar!</p>

@@ -4,6 +4,7 @@ author: arnehass
 date: 2008-06-03
 template: article.jade
 tags: donkey business, donkey kong country tribute, mashup, norwegian recycle, peter bull, so far
+original: https://megoth.wordpress.com/2008/06/03/norwegian-recycle-overraskende-god-mashup/
 ---
 
 <p>Dagbladet hadde nylig en sak titulert <a href="http://www.dagbladet.no/magasinet/2008/05/30/536654.html">Mashup-Peter (24) mikser Madonna og og Justin</a>, som omhandler <a href="http://en.wikipedia.org/wiki/Mashup_(music)">mashup</a>-artisten Peter Bull og hans prosjekt <a href="http://norwegianrecycling.multiply.com/">Norwegian Recycle</a>. En kamerat jeg bodde med tidligere spilte en del kule mashup-sanger på fester, og minnene om disse lokket meg inn til Dagbladets IM-intervju av den norske artisten som for tiden studerer audio-enginering i Australia. Til å ha drevet med mashup i et halvt års tid har karen et imponerende talent, for det er lenge siden jeg har hørt så god mashup.</p>

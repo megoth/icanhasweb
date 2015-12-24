@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-08-09
 template: article.jade
 tags: Europa, terrorisme
+original: https://megoth.wordpress.com/2007/08/09/den-glemte-terrorismen/
 ---
 
 <p>Jeg kom nylig over artikkelen <a href="http://www.shoaib.no/muslimen/?p=44">De usynlige terroristene</a> på nettsiden muslimen, som er skrevet av forfatteren bak siden og <a href="http://www.hagatekst.no/underdom/oyvindstrommen/">Øyvind Strømmen</a>. Teksten tar for seg den skjeve mediadekkningen av terrorisme i Europa, eller snarere hvordan dekkningen varierer etter hvem det er som står bak handlingen. De to peker da på at terrorhandlinger utført av radikale muslimer får mye mer dekkning enn de utført av høyre- og venstreradikale, eksempelvis nazister og kommunister. Dette er en påstand jeg støtter, av den enkle grunn at jeg får den samme oppfattningen når jeg ser tilbake på hva jeg har lest eller sett i det norske media. Det er også interessant å lese om <a href="http://web.saljournal.com/blogs/?p=693">tilfellet med Demetrius Van Croker</a>.</p>

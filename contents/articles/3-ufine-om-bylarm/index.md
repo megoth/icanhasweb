@@ -4,6 +4,7 @@ author: arnehass
 date: 2009-02-22
 template: article.jade
 tags: by:Larm, einar stray, konsert, Oslo, publikum
+original: https://megoth.wordpress.com/2009/02/22/3-ufine-om-bylarm/
 ---
 
 <p>Jeg har vært på min første <a href="http://www.bylarm.no/">by:Larm</a>, og opplevelsen har vært fantastisk. Konsertene svarte til forventningene, og i flere tilfeller mye mer. Men på tross av dette var det noen irriterende momenter rundt konsertene. Kanskje mest synd er at det ikke er noe by:Larm-arrangørene kan gjøre noe med.</p>

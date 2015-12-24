@@ -4,6 +4,7 @@ author: arnehass
 date: 2011-01-16
 template: article.jade
 tags: dan albritton, data visualization, document-driven design, google news, implementation, javascript, marcos weskamp, master thesis, newsmap, open data, test-driven development
+original: https://icanhasweb.wordpress.com/2011/01/16/news-visualizer/
 ---
 
 <p>I’ve written about <a href="http://icanhasweb.wordpress.com/2010/12/27/masters-thesis-preliminary-work/">my master thesis</a> in the previous post, and I’ve been thinking a lot of how to acquire the required&nbsp;skill-set&nbsp;to understand the topic in a good manner. I’ve undergone courses at IFI 3 years &nbsp;now, so I do have some theoretical understanding of themes that are often taught in computer studies, such as algorithms, data structures, computer architecture, and discrete mathematics&nbsp;<a href="https://wiki.uio.no/matnat/ifi/arnehass-master/index.php/Courses_taken">amongst others</a>. I believe that undertaking the courses INF3580, INF5120 and INF5100 (as well as special curriculum) will give me another layer of theoretical foundation that is required for this thesis.</p>

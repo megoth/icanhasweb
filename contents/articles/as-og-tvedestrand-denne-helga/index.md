@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-02-27
 template: article.jade
 tags: Ås, Fest, Tvedestrand
+original: https://megoth.wordpress.com/2007/02/27/as-og-tvedestrand-denne-helga/
 ---
 
 <p>Denne helga er festinga på gang igjen!=D</p>

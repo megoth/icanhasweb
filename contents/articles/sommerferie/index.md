@@ -4,6 +4,7 @@ author: arnehass
 date: 2008-06-22
 template: article.jade
 tags: animal alpha, avenged sevenfold, bad religion, bryllup, bullet for my valentine, dimmu borgir, don juan dracula, hellacopters, hovefestivalen, in flames, jay-z, killswitch engage, mstrkrft, opeth, senter for helse & arbeid, slagsmålsklubben, the kooks, the national bank, the teenagers, the wombats, utdrikkingslag
+original: https://megoth.wordpress.com/2008/06/22/sommerferie/
 ---
 
 <p>DEILIG er et ord som ikke klarer helt å beskrive følelsen, men det får gjøre nytten.</p>

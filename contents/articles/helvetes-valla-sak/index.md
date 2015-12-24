@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-03-10
 template: article.jade
 tags: gerd liv valla
+original: https://megoth.wordpress.com/2007/03/10/helvetes-valla-sak/
 ---
 
 <p>Faen, er så jæææææææææææææææææææævlig lei <a href="http://news.google.no/news?hl=no&amp;ned=no_no&amp;q=Valla&amp;btnG=S%C3%B8k+i+Nyheter">Valla-saken</a> nå. Media har brukt alt hva saken er godt for og skrevet side opp og side ned om saken, dekket den opp og ned i mente. Det toppet seg for meg i dag da jeg ser dagens <a href="http://vg.no" title="Verdens Gang">VG</a>, hvor 11 av rundt 55 sider er viet til saken. 20% av en av landets største aviser dekker en sak?!</p>

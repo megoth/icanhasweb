@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-12-02
 template: article.jade
 tags: bug labs, bug modules, linkedin, the bug
+original: https://megoth.wordpress.com/2007/12/02/the-bug/
 ---
 
 <p>Oioioioioi, ny ting på ønskelisten: <a href="http://buglabs.net/products">The BUG</a>!</p>

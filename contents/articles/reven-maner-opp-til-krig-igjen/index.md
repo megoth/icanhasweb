@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-09-08
 template: article.jade
 tags: fox news, irak, iran, midtøsten
+original: https://megoth.wordpress.com/2007/09/08/reven-maner-opp-til-krig-igjen/
 ---
 
 <p>En interessant video fra foxattacks.com som viser likheten mellom nyhetsinnslagene til Fox News før og under krigen i Irak og det som nå vises i forhold til USAs forhold til Iran. Anbefaler folk å se den.</p>

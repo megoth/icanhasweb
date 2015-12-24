@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-02-26
 template: article.jade
 tags: Video, youtube
+original: https://megoth.wordpress.com/2007/02/26/apningsvideo-til-hankattrevyen-104-ka/
 ---
 
 <p>Fikk ikke sett revyen, men heldigvis har de Kulturelle innsett mulighetene som er ute på det store nett.</p>

@@ -4,6 +4,7 @@ author: arnehass
 date: 2012-01-20
 template: article.jade
 tags: buster.js, node.js, npm.js, tdd, testing
+original: https://icanhasweb.wordpress.com/2012/01/20/installing-buster-js/
 ---
 
 <p>As mentioned in <a title="“/usr/bin/ld: cannot find -lz” when building&nbsp;node.js" href="http://icanhasweb.wordpress.com/2012/01/19/usrbinld-cannot-find-lz-when-building-node-js/">my previous post</a>, I’ve been wanting to use <a href="http://busterjs.org/">Buster.JS</a>&nbsp;as test framework for my implementation of the master thesis. After installing node, I was ready to install buster. Or so I thought. With&nbsp;<a href="http://npmjs.org/">npm</a>&nbsp;&nbsp;(package manager for node)&nbsp;I tried “npm install -g buster”, which gave me an error (<a href="http://snipt.org/wgpon2">full output</a>). It seemed that the module glob wasn’t available in the version buster needed.</p>

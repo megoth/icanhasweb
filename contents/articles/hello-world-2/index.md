@@ -4,6 +4,7 @@ author: arnehass
 date: 2010-10-24
 template: article.jade
 tags: a list apart, adactio, cyb, department of informatics, html5rocks, ifi, kjøkkenfesten, logica ux, nrk beta, signal vs noise, snook, uio, university of oslo
+original: https://icanhasweb.wordpress.com/2010/10/24/hello-world/
 ---
 
 <p>So it has started, my new blog. I’m not a productive writer per ce, but I hope to gain some momentum to my motivation with this blog.</p>

@@ -4,6 +4,7 @@ author: arnehass
 date: 2009-01-02
 template: article.jade
 tags: adblock, del.icio.us, google ig, Informasjon, operator, stumbleupon, stylish, zotero
+original: https://megoth.wordpress.com/2009/01/02/leseleseleselese/
 ---
 
 <p>WOW!</p>

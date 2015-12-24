@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-11-06
 template: article.jade
 tags: anna politkovskaya, norge, oksana chelysheva, putin, real news, russland, shtokman, statoilhydro, tetsjenia
+original: https://megoth.wordpress.com/2007/11/06/russland-tetsjenia-og-norge/
 ---
 
 <p>The Real News har en interessant video med tittelen <a href="http://www.youtube.com/watch?v=MOqTEtV5JMM">The killing of Russian journalists</a>.         <a href="http://www.google.no/search?q=Oksana+Chelysheva">Oksana Chelysheva</a> (en interessant artikkel om henne <a href="http://www.humanrightsfirst.org/defenders/hrd_russia/alert033005_chelysheva.htm">her</a>) snakker om situasjonen i Russland hvor flere og flere russiske journalister mister livet, det siste i rekken drapet av <a href="http://en.wikipedia.org/wiki/Anna_Politkovskaya">Anna Politkovskaya</a> som fikk ganske mye oppmerksomhet i Norge. Opptaket tar også for seg konflikten i Tetsjenia, som sistnevnte person skrev mange artikler om, en konflikt som verdenspressen mer eller mindre har mistet interessen for.</p>

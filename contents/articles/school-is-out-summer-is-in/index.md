@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-05-25
 template: article.jade
 tags: Ås, beslutningsanalyse I, betong, emergenza-festivalen, førerkort, gamle christiania, grill'n'chill, Irland, john dee, luftforsvaret, madla, prommen, Risør, sjøforsvaret
+original: https://megoth.wordpress.com/2007/05/25/school-is-out-summer-is-in/
 ---
 
 <p>Lenge siden jeg har posta noe her nå. Grunnen er enkel: skole, skole og atter skole. Eller for å være mer spesifikk: Semesteroppgave og eksamen. Hat, hat og enda mer hat! Men nå er man dog ferdig! Det er av den grunn man sier: SWEET! SKÅL! ÅHHERREGUDÅJÆVLADEILIG!!!!! Og når man da summer seg litt igjen, tenker litt over ting, så streifer tanken innom denne siden. Ja, sant det, kanskje på tide å oppdatere sin offisielle tankerekke igjen.</p>

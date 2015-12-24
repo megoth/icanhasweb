@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-04-20
 template: article.jade
 tags: ajax, bulletproof ajax, dom, hijax, javascript, jeremy keith, jesse james garrett, linkedin, xml
+original: https://megoth.wordpress.com/2007/04/20/bokomtale-bulletproof-ajax-av-jeremy-keith/
 ---
 
 <p>Jeg ble i <a href="http://megoth.wordpress.com/2007/04/08/paske-tid-for-fyll-og-faenskap/#comments">en kommentar</a> i en tidligere post spurt om hva jeg syntes om Bulletproof Ajax (<a href="http://bulletproofajax.com/">hjemmeside</a>, <a href="http://www.amazon.co.uk/exec/obidos/ASIN/0321472667">amazon</a>), som jeg i teksten nevnte at jeg holdt på å lese. Nå er boka ferdiglest og jeg er klar til å uttale min omtale om boken. Det vil si, jeg leste boka ferdig for en uke siden eller så, men har først nå tatt meg tiden til å skrive dette. Har også latt lærdommen fra boken få leke seg i hodet gjennom denne uka.</p>

@@ -4,6 +4,7 @@ author: arnehass
 date: 2008-03-08
 template: article.jade
 tags: filesharing, lars monsen, linkedin, miro, nordkalotten 365, nrk, nrkbeta, rss, torrent
+original: https://megoth.wordpress.com/2008/03/08/nrks-bruk-av-torrent-teknologi/
 ---
 
 <p>Slashdot fronter i dag artikkelen <a href="http://slashdot.org/article.pl?sid=08/03/08/042227">Norwegian Broadcaster Evaluates BitTorrent Distribution Costs</a>, som omhandler NRKs bruk av torrent-teknologi, og deres evaluering av denne distribusjonsmetoden i forhold til den tradisjonelle, som krever mye mer båndbredde fra deres servere. Artikkelen sier at kostnadene deres gikk fra 41.000 NOK til rundt 1.700 NOK. Fantastisk! Det er godt å se torrent-teknologien komme i det gode selskap med store mediekonsern som NRK.</p>

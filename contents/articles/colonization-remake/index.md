@@ -4,6 +4,7 @@ author: arnehass
 date: 2008-06-10
 template: article.jade
 tags: civilization, colonization, remake, sid meier
+original: https://megoth.wordpress.com/2008/06/10/colonization-remake/
 ---
 
 <p>Jeg har tidligere omtalt <a href="http://megoth.wordpress.com/2008/03/23/civilization-revolution/">min hengivenhet</a> til <a href="http://en.wikipedia.org/wiki/Sid_Meier">Sid Meier</a>‘s spillserie Civilization. Vel, den som kjenner spillskaperen, vet også at han har flere andre berømte titler som bl.a. Pirates!, Railroad Tycoon, Magic: The Gathering og Alpha Centauri. Men han står også bak Colonization, et strategispill som tar for seg koloniseringen av den nye verden, hvor du som en av fire nasjoner (England, Nederland, Frankrike eller Spania) koloniserer det nye landet og, forhåpentligvis, etterhvert frigjør deg selv. Og nå har <a href="http://ir.take2games.com/ReleaseDetail.cfm?ReleaseID=315205">2K Games annonsert at de vil lage en spin-off til spillet basert på Civilization IV</a>!</p>

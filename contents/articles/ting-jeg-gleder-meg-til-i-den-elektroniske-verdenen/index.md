@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-05-30
 template: article.jade
 tags: apple, drobo, Google, iphone, jeff han, optimus maximus keyboard, slate, surface, TED
+original: https://megoth.wordpress.com/2007/05/30/ting-jeg-gleder-meg-til-i-den-elektroniske-verdenen/
 ---
 
 <p>Leste akkurat en <a href="http://www.readwriteweb.com/archives/microsoft_surface.php">fornøyelig nyhet</a> i Read/WriteWeb: Bill Gates annonserte i dag Microsoft nyeste innenfor hardware/software: <a href="http://www.microsoft.com/surface/">Multitouch-skjermen Surface</a>. Dette er magi vi så i 2006 fra TED, da <a href="http://www.ted.com/index.php/talks/view/id/65">presentert av Jeff Han</a>, men det ser ut til Microsoft nå har et komplett produkt klar for det kommersielle markedet. Kommer trolig ut vinter 2007, og selv om det ikke er gitt noe prisanslag kan du vedde på at det kommer til å koste flesk.</p>

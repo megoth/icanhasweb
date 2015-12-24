@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-11-20
 template: article.jade
 tags: iraq, war
+original: https://megoth.wordpress.com/2007/11/20/al-qaida-taper-krigen-i-irak/
 ---
 
 <p>… skal vi tro artikkelen <a href="http://www.post-gazette.com/pg/07322/834685-373.stm">It’s true: Iraq is a quagmire</a>. Må innrømme jeg ikke forventet å lese noe i den retning, og mer overrasket blir jeg når jeg leser at Pittsburgh Post-Gazette, som nevnte artikkel er publisert gjennom, visstnok er en liberalistisk avis. Vel, i forhold til dens konkurrent Pittsburgh Tribune-Review. Ok, jeg har egentlig ikke særlig peiling på noen av avisene, men artikkelen er uansett interessant lesing.</p>

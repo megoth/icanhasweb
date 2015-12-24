@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-03-08
 template: article.jade
 tags: linkedin, masterfeed, TED, yahoo pipes
+original: https://megoth.wordpress.com/2007/03/08/min-f%c3%b8rste-masterfeed/
 ---
 
 <p>Da har jeg lagd min første masterfeed (eller kanskje bare <a href="http://en.wikipedia.org/wiki/Yahoo_Pipes">pipe</a> er mer betegnende) ved hjelp av <a href="http://pipes.yahoo.com/">Yahoo Pipes</a>. Den tar for seg webloggene som skriver om <a href="http://ted.com/">TED</a>, og er basert på listen som Bruno Giussani skrev i <a href="http://tedblog.typepad.com/tedblog/2007/03/bloggers_at_ted.html">en av sine oppdateringer</a>.</p>

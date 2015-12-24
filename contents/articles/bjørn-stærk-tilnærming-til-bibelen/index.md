@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-10-07
 template: article.jade
 tags: bibelen, bjørn stærk, Litteratur
+original: https://megoth.wordpress.com/2007/10/07/bj%c3%b8rn-st%c3%a6rk-tiln%c3%a6rming-til-bibelen/
 ---
 
 <p><a href="http://blog.bearstrong.net/">Bjørn Stærk</a> er kanskje en av Norges mest ansette bloggere, og jeg har etter beste evne prøvd å lese det han har skrevet. Jeg sier har prøvd, for tekstene hans kan bli ganske lange iblant. Men i de tilfellene jeg har fulgt tekstene ut, av den enkle grunn at innholdet har fenget interessen min lenge nok, så har jeg alltid sittet i etterkant med en følelse av at jeg er litt rikere på kunnskap og inntrykk.</p>

@@ -4,6 +4,7 @@ author: arnehass
 date: 2012-01-15
 template: article.jade
 tags: data, framsia, grunnlov, javascript, meetup, node.js, open, personlighetsvern, pipa, rekruttering as, sopa, uio
+original: https://megoth.wordpress.com/2012/01/15/link-o-rama-2/
 ---
 
 <p>I dag har jeg lest mye – veldig mye syns jeg. Jeg har gått gjennom listen av tweets som ble favorisert i uken som var. Noe av det hadde jeg lest tidligere, og var mer en formalitet at jeg skumleste gjennom dem for å legge dem til i delicious.</p>

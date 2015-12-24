@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-04-17
 template: article.jade
 tags: acanthus, aust agder blad, risør bowling, risør reiselivslag, skjenkebevilling
+original: https://megoth.wordpress.com/2007/04/17/vil-utvide-skjenkingen/
 ---
 
 <p>Tittelen i denne posten er tatt direkte fra <a href="http://www.austagderblad.no/lokale_nyheter/article2718161.ece">Aust Agder Blads nyeste artikkel</a> om Reiselivslaget i Risør som har sendt en forespørsel til Risør Kommune om å kunne utvide skjenkebevillingen fra kl. 08 – 03 (det samme som nabokommunene) istedenfor kl. 09 – 02 som er gjeldende i dag. I tillegg ønsker de at disse tidene også skal gjelde uteskjenkinga, som i dag må stenge kl. 23, av hensyn til de som bor rundt. Jeg føler at jeg må snakke min mening ut om denne forespørselen.</p>

@@ -4,6 +4,7 @@ author: arnehass
 date: 2009-03-04
 template: article.jade
 tags: debatt, Informasjon, Islam, islamisering, islamister, Kultur, pat condell, Politikk, Religion, snikislamisering, wafa sultan
+original: https://megoth.wordpress.com/2009/03/04/informasjon-kunsten-a-forenkle-islam/
 ---
 
 <p>Mengden informasjon øker hele tiden. Vi som mennesker prøver kollektivt å samle informasjon, og bearbeide den til forståelse og nytte for oss selv. Med introduksjon av datamaskiner, og senere nettverket som knyttet disse sammen, fikk vi verktøy til å behandle og prosessere informasjon enda raskere og mer effektivt. Vi konstruerer også sensorer som registrerer informasjon vi ikke selv kan beskrive nøyaktig, og behandler dette til å bli forståelig for oss.</p>

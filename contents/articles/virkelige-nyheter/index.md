@@ -4,6 +4,7 @@ author: arnehass
 date: 2007-08-07
 template: article.jade
 tags: Europa, terrorisme
+original: https://megoth.wordpress.com/2007/08/07/virkelige-nyheter/
 ---
 
 <p>Jeg har tidligere snakket om saker som nevner det amerikanske <a href="http://megoth.wordpress.com/2007/03/19/medias-makt-og-ansvar/">media</a>. Og hvis du sjekker <a href="http://www.youtube.com/profile?user=megoth">min brukerkonto på YouTube</a> kan du se at jeg har en del klipp fra <a href="http://en.wikipedia.org/wiki/The_O'Reilly_Factor">The O’Reilly Factor</a> i mine favoritter. De er ikke akkurat i favør for <a href="http://www.google.no/search?as_q=Bill+O+Reilly">Bill O’Reilly</a> og hans medarbeidere i <a href="http://en.wikipedia.org/wiki/Fox_News_Channel">Fox News</a>. Jeg har også <a href="http://megoth.wordpress.com/2007/07/26/cnnyoutube-debates-et-godt-hjelpemiddel-til-demokratiet/">nevnt min skepsis</a> til <a href="http://www.youtube.com/debates">CNN/YouTube Democratic Debates</a>, hvor jeg bemerker den skjeve fordelingen av talesjanser mellom kandidatene. Så det skal sies at min holdning til amerikanske media ikke akkurat er objektiv.</p>

@@ -4,6 +4,7 @@ author: arnehass
 date: 2010-10-30
 template: article.jade
 tags: .net, clearfix, css, css3, feature detection, less, mixins, modernizr, nested rules, operations, php, variables
+original: https://icanhasweb.wordpress.com/2010/10/30/less-css/
 ---
 
 <p><a href="http://no.wikipedia.org/wiki/Cascading_Style_Sheets"><abbr title="Cascading Style Sheets">CSS</abbr></a> is powerful in its own rights, but when it comes to large, complex websites filled with elements that doesn’t necessarily share styles easily, the styling quickly becomes messy and hard to navigate. Conventions, frameworks and guidelines help structure the code, and tools such as <a href="http://getfirebug.com/">Firebug</a> helps the process. But my eyes still get soar when scanning through code-snippets such as:</p>

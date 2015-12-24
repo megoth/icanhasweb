@@ -4,6 +4,7 @@ author: arnehass
 date: 2011-04-25
 template: article.jade
 tags: essay, javascript, rdf, semantic web
+original: https://icanhasweb.wordpress.com/2011/04/25/another-update-to-the-essay-as-part-of-my-master-thesis/
 ---
 
 <p>Well, don’t you know, I’m still a lazy ass when it comes to regularly updating this blog =/ The workload didn’t excactly ease when I came home from Thailand, so that’s the way it is.</p>

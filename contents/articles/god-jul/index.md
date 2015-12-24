@@ -4,6 +4,7 @@ author: arnehass
 date: 2010-12-27
 template: article.jade
 tags: eksamener, i can has web, jul, julebord, julefeiring, masteroppgave, twitter
+original: https://megoth.wordpress.com/2010/12/27/god-jul/
 ---
 
 <p>Hoi! Over en måned siden sist jeg skrev noe= P Ikke bra ikke bra… Vel, jeg håper du kan unnskylde meg, det har vært en sprø tid med eksamener, julebord, arbeid, frivillig arbeid, etc etc etc. Om du følger med på min andre blogg, <a href="http://icanhasweb.wordpress.com/">I Can Has Web</a>, så kjenner du kanskje igjen denne starten, da den er så å si oversatt direkte. Kall meg lat ^_^</p>
