@@ -5,6 +5,7 @@ date: 2012-12-08
 updated: 2015-12-24
 template: article.jade
 tags: breaking the taboo, narkotika, war on drugs
+original: http://icanhasweb.net/megoth/2012/12/breaking-the-taboo-interessant-innlegg-i-narkotika-debatten/
 ---
 
 <p>Interessant innlegg i narkotikadebatten, kan anbefale å se videoen. Sjekk også ut <a href="http://www.breakingthetaboo.info/">breakingthetaboo.info</a>.</p>

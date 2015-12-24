@@ -4,6 +4,7 @@ author: arnehass
 date: 2012-12-07
 template: article.jade
 tags: icanhasweb-splash, minimalist, wordpress theme
+original: http://icanhasweb.net/blog/2012/12/updated-design/
 ---
 
 <p>Sorry for the delay of professional related content, but just wanted to note the updated design.</p>

@@ -4,6 +4,7 @@ author: arnehass
 date: 2012-11-08
 template: article.jade
 tags: smacss, 1140px, 960.gs, a list apart, blueprint, bootstrap, compass, css rules, css specificity, design shack, don't repeat others, don't repeat yourself, dro, dry, foundation, frameworks, grid, guidelines, inuit.css, less, less framework 4, media-query, oocss, principles, responsive web design, sass, separation of concerns, skeleton, soc, three-letter acronym, tla, yui css
+original: http://icanhasweb.net/blog/2012/11/an-approach-to-structuring-your-css/
 ---
 
 <p>Structuring <abbr title="Cascading Style Sheets">CSS</abbr>&nbsp;is not a trivial task, especially in large projects. Even smaller systems may become complex and hard to maintain when introduced to <a href="http://www.alistapart.com/articles/responsive-web-design/"><abbr title="Responsive web design">RWD</abbr></a>. In this post I’ll describe how I approach implementing larger sets of CSS rules.</p>

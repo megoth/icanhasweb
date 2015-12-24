@@ -4,7 +4,7 @@ author: arnehass
 date: 2012-11-01
 template: article.jade
 tags: css, github, javascript, master thesis, semantic web, web technologies
-
+original: http://icanhasweb.net/blog/2012/11/a-new-beginning/
 ---
 
 <p>This is the first blog post that’s part of my new domain, <a href="http://icanhasweb.net/">icanhasweb.net</a>. Here I’ll continue the writing I did on web technologies, such as CSS, JavaScript, and HTML. I also hope to write about Semantic Web (SW), but as I’m now finished with my master thesis, and my work doesn’t include any SW-related technologies, there may not be that much.</p>
