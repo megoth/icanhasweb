@@ -8,9 +8,11 @@ block content
   -   return key !== 'index.md';
   - }).map(function (directory) {
   -   return directory.index;
-  - }).value().sort(function (projA, projB) {
-  -   return projA.title.toLowerCase() > projB.title.toLowerCase();
-  - });
+  - }).sortBy(function (project) {
+  -   return project.title.toLowerCase();
+  - }).value();
+  .block-content
+    p Here are all projects that I have some association with and that have a public repository.
   - projects = _(all_projects).filter(function (project) {
   -   return project.metadata.status === 'active';
   - });
@@ -18,7 +20,7 @@ block content
   p Projects that are maintained and that I am having an active role in.
   include projectList
   - projects = _(all_projects).filter(function (project) {
-  -   return project.metadata.status === 'inactive';
+  -   return project.metadata.status !== 'active';
   - });
   h2 Not active projects
   p Projects I've participated in before, and/or projects that simply aren't in active development anymore.

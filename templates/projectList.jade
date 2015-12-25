@@ -1,9 +1,10 @@
-each project in projects
-  article
-    header
-      h3
-        a(href=project.url)= project.title
-      h4.meta
-        include projectMeta
-    section.content
-      != project.html
+.block-posts
+  each project in projects
+    article
+      header
+        h3
+          a(href=project.url)= project.title
+        h4.meta
+          include projectMeta
+      section.content
+        != project.html
