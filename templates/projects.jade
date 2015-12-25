@@ -15,10 +15,12 @@ block content
   -   return project.metadata.status === 'active';
   - });
   h2 Active projects
-  include projectsList
+  p Projects that are maintained and that I am having an active role in.
+  include projectList
   - projects = _(all_projects).filter(function (project) {
   -   return project.metadata.status === 'inactive';
   - });
-  h2 Inactive projects
-  include projectsList
+  h2 Not active projects
+  p Projects I've participated in before, and/or projects that simply aren't in active development anymore.
+  include projectList
   

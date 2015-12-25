@@ -2,14 +2,11 @@
   each article in articles
     article
       header
-        h2
-          a(href=article.url)= article.title
+        h3
+          a(href=article.url)
+            != article.title
         h4.meta
-          | Published !{ moment.utc(article.date).format('DD. MMMM YYYY') }
-          if article.metadata.original
-            |&nbsp;(
-            a(href=article.metadata.original) Original blog
-            |)
+          include articleMeta
       section.content
         if article.intro.length > 0
           | !{ typogr(article.intro).typogrify() }

@@ -1,4 +1,4 @@
 module.exports = {
-	files: ['config.json', 'contents/**/*.md', 'minimalist/sass/**/*.scss', 'templates/*.jade'],
+	files: ['config.json', 'contents/**/*.md', 'minimalist/sass/**/*.scss', 'templates/*.jade', 'plugins/*'],
   tasks: ['wintersmith:local', 'sass', 'copy']
 };

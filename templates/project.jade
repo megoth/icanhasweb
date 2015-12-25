@@ -21,3 +21,7 @@ block content
     ul
       li
         a(href=contents.projects.index.url) « All projects
+
+block aside
+  - var tags = env.helpers.getTagsFromArticle(page)
+  include tagList

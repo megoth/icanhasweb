@@ -1,9 +1,17 @@
 extends layout
 
 block header
-  h1= locals.name
+  h1
+    a(href=locals.url)= locals.name
   h3 Articles for "#{ tagName }"
 
 block content
-  - articles = env.helpers.getArticlesByTag(contents, tagName);
-  include ./articles.jade
+  - pages = env.helpers.getArticlesByTag(contents, tagName);
+  - projects = _(pages).filter(function (page) { return !page.metadata.date; });
+  if projects.length > 0
+    h2 Projects
+    include projectList
+  - articles = _(pages).filter(function (page) { return page.metadata.date; });
+  if articles.length > 0
+    h2 Blog posts
+    include articleList
