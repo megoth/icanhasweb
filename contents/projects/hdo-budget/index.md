@@ -1,7 +1,7 @@
 ---
 title: "hdo-budget"
 status: inactive
-template: info.jade
+template: project.jade
 tags: Holder de ord, javascript, AngularJS, Norwegian state budget
 url: https://hdo-budget.herokuapp.com/
 repository: https://github.com/megoth/hdo-budget

@@ -1,14 +1,9 @@
 each project in projects
   article
     header
-      h2
+      h3
         a(href=project.url)= project.title
       h4.meta
-        if project.metadata.url
-          | URL: 
-          a(href=project.metadata.url)= project.metadata.url
-          |, 
-        | Repository: 
-        a(href=project.metadata.repository)= project.metadata.repository
+        include projectMeta
     section.content
       != project.html

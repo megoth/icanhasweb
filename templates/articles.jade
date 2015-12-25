@@ -8,7 +8,7 @@
           | Published !{ moment.utc(article.date).format('DD. MMMM YYYY') }
           if article.metadata.original
             |&nbsp;(
-            a(href=article.metadata.original) Original
+            a(href=article.metadata.original) Original blog
             |)
       section.content
         if article.intro.length > 0

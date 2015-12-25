@@ -1,7 +1,7 @@
 ---
 title: "Ifi-ordenen"
 status: active
-template: info.jade
+template: project.jade
 tags: Ifi, Institutt for informatikk, ridderorden, student, Oslo, wintersmith, javascript
 url: http://ordenen.ifi.uio.no
 repository: https://github.com/megoth/ifi-ordenen
