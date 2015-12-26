@@ -6,13 +6,30 @@ block vars
 block prepend title
   | #{ page.title + " - "}
 
+block scripts
+  script(src="/scripts/cv.bundle.js")
+
 block header
   h1= page.title
   if page.metadata.description
     h3= page.metadata.description
+  nav
+    ul#CvNavigation.nav.nav-pills
+      li
+        a(href="#description") Description
+      li
+        a(href="#work") Work Experience
+      li
+        a(href="#education") Education
+      li
+        a(href="#skills") Skills
+      li
+        a(href="#projects") Projects
+      li
+        a(href="#voluntary") Voluntary Work
 
 block content
-  .block-content
+  #CvContent.block-content
     h2 Curriculum Vitae
     dl
       dt Full name
@@ -46,33 +63,35 @@ block content
       p This section provide an overview of my professional, personal, and social skills. It uses a series of diagrams, ranging from 0 to 10, where 0 is no knowledge, and 10 is top knowledge. The diagrams shows my attained status in green, and the status I aspire in yellow.
       - knowledgeList = contents.cv['data.json'].metadata.knowledge
       each knowledge in knowledgeList
-        h4= knowledge.name
-        .block-skills
-          each topic in knowledge.topics
-            article
-              h5= topic.name
-              dl.list-skills
-                each skill in topic.skills
-                    dt= skill.name
-                    dd.progress.progress-striped
-                      - attained = skill.attained * 10;
-                      - aspire = (skill.aspire - skill.attained) * 10;
-                      div(style="width: "+attained+"%").bar.bar-success #{skill.attained}/10
-                      div(style="width: "+aspire+"%").bar.bar-warning #{skill.aspire}/10
+        h4(tabindex=0)= knowledge.name
+        div
+          .block-skills
+            each topic in knowledge.topics
+              article
+                h5(tabindex=0)= topic.name
+                dl.list-skills
+                  each skill in topic.skills
+                      dt= skill.name
+                      dd.progress.progress-striped
+                        - attained = skill.attained * 10;
+                        - aspire = (skill.aspire - skill.attained) * 10;
+                        div(style="width: "+attained+"%").bar.bar-success #{skill.attained}/10
+                        div(style="width: "+aspire+"%").bar.bar-warning #{skill.aspire}/10
     section#projects
       h3 Projects
-      .block-projects
-        - projects = contents.cv['data.json'].metadata.projects
-        each project in projects
-          article
-            h4= project.name
-            dl
-              dt Period
-              dd= project.period
-              dt Role
-              dd= project.role
-              dt Technologies
-              dd= project.technologies
+      div
+        .block-projects
+          - projects = contents.cv['data.json'].metadata.projects
+          each project in projects
+            article
+              h4(tabindex=0)= project.name
+              dl
+                dt Period
+                dd= project.period
+                dt Role
+                dd= project.role
+                dt Technologies
+                dd= project.technologies
     section#voluntary
       h3 Voluntary Work and Honorary Positions
       dl 
