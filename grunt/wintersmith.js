@@ -1,13 +1,8 @@
 module.exports = {
 	local: {},
-	github: {
+	prod: {
 		options: {
-			config: './config-gh-pages.json'
+			config: './config.prod.json'
 		}
-	},
-  ordenen: {
-    options: {
-      config: './config-ordenen.json'
-    }
-  }
+	}
 };

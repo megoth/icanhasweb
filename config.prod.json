@@ -1,0 +1,35 @@
+{
+  "locals": {
+    "url": "http://icanhasweb.net",
+    "name": "I Can Has Web",
+    "owner": "Arne Hassel",
+    "description": "Arne Hassel on the web"
+  },
+  "plugins": [
+    "./plugins/paginator.coffee",
+    "./plugins/tags.coffee"
+  ],
+  "require": {
+    "moment": "moment",
+    "_": "underscore",
+    "typogr": "typogr"
+  },
+  "jade": {
+    "pretty": true
+  },
+  "markdown": {
+    "smartLists": true,
+    "smartypants": true
+  },
+  "paginator": {
+    "perPage": 5
+  },
+  "tag": {
+    "articles": [
+      "articles", 
+      "projects"
+    ],
+    "perPage": 100,
+    "template": "tag.jade"
+  }
+}
