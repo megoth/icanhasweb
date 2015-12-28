@@ -16,7 +16,7 @@ The code has been rewritten using [Wintersmith](http://wintersmith.io/). I've us
 
 I've decided to merge my two blogs into one, and have copied their content to the new blog. To maintain two blogs when you don't really have the motivation and energy to maintain one wasn't the best idea. It did create a bit of a strange distinction, and one blog should be enough.
 
-All posts that were written elsewhere have been linked to their original URL. The idea is to not introduce another possibility of commenting the posts. For the new blog system I'm trying out [Spot.IM](https://www.spot.im/).
+All posts that were written elsewhere have been linked to their original URL. The idea is to not introduce another possibility of commenting the posts. <strike>For the new blog system I'm trying out [Spot.IM](https://www.spot.im/).</strike> I'm sticking with [Disqus](https://disqus.com) as the service for commenting (Spot.IM proved to invasive for my taste).
 
 Lastly I've pollished the design a bit. No big changes on the looks of it, but quite big changes under the hood. Some redundant markup was removed in favor of trying out some new CSS standards, namely [Flexbox](http://www.w3.org/TR/css-flexbox-1/) and [Grid](http://www.w3.org/TR/css-grid-1/). The latter is probably not available in your browser unless you've turned on experimental features. It also allowed me to try out [the @supports feature in CSS](https://developer.mozilla.org/en/docs/Web/CSS/@supports), so that there are some good fallbacks. The decision to try these new technologies was heavily influenced by [Rachel Andrews writing on 24 ways](https://24ways.org/2015/grid-flexbox-box-alignment-our-new-system-for-layout/).
 

@@ -1,14 +1,10 @@
 extends layout
 
 block append vars
-  - bodyclass = 'article-detail'
+  - bodyclass = 'article'
 
 block prepend title
   | #{ page.title + " - "}
-
-block headScripts
-  if !page.metadata.original && locals.url === "http://icanhasweb.net"
-    script(type="text/javascript") !function(t,e,n){ function a(t){var  a=e.createElement("script");a.type="text/javascript" ,a.async=!0,a.src=("https:"===e.location.protocol?"https":"http")+":"+n,(t||e.body||e.head).appendChild(a)}function o(){var  t=e.getElementsByTagName("script"),n=t[t.length-1];return n.parentNode} var  p=o();t.spotId="sp_egjINSz4",t.parentElement=p,a(p)}(window.SPOTIM={},document,"//www.spot.im/launcher/bundle.js");
 
 block header
   include author
@@ -24,7 +20,7 @@ block header
 
 block content
   article.block-content
-    section.content!= typogr(page.html).typogrify()
+    != typogr(page.html).typogrify()
   nav
     ul
       li
@@ -34,4 +30,16 @@ block aside
   - var tags = env.helpers.getTagsFromArticle(page)
   include tagList
   if !page.metadata.original && locals.url === "http://icanhasweb.net"
-    #spot-im-frame-inpage(data-post-id=page.__filename.replace('/index.md', '').split('/').pop())
+    #disqus_thread
+    script 
+      | var disqus_config = function () {
+      |   this.page.url = "#{ locals.url + page.url }";
+      |   this.page.identifier = "#{ page.__filename.replace('/index.md', '').split('/').pop() }";
+      | };
+      | (function() {
+      |   var d = document, s = d.createElement('script');
+      |   s.src = '//icanhasweb.disqus.com/embed.js';
+      |   s.setAttribute('data-timestamp', +new Date());
+      |   (d.head || d.body).appendChild(s);
+      | })();
+    noscript Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a>
