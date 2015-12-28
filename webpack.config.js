@@ -8,7 +8,7 @@ module.exports = {
       global: './global.webpack.js'
     },
     output: {
-        path: __dirname + "/contents/scripts",
+        path: __dirname + "/build/scripts",
         filename: "[name].bundle.js",
     },
     plugins: [

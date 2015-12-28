@@ -7,8 +7,8 @@ module.exports = {
     devtool: 'source-map'
   }),
   'prod': _({}).extend(config, {
-    plugins: [
+    plugins: config.plugins.concat([
       new webpack.optimize.UglifyJsPlugin()
-    ]
+    ])
   })
 };
