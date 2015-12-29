@@ -8,7 +8,7 @@ $(function () {
   } else {
     var marginElement = cookiesElement.prev();
     var closeButton = $('<button class="btn">Close</button>').on('click', function () {
-      Cookies.set('cookies_closed', true);
+      Cookies.set('cookies_closed', true, { expires: 3650 });
       cookiesElement.hide();
       marginElement.css('margin-bottom', 'inherit');
     });
