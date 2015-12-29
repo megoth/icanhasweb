@@ -1,9 +1,10 @@
 ---
 title: "Node.js - JavaScript utenfor nettleseren"
-status: complete
-template: project.jade
+author: arnehass
+date: 2013-03-28
+template: talk.jade
 tags: presentation, JavaScript, Node.js, impress.js
-url: http://megoth.github.io/tg13-node/
+url: http://pres.icanhasweb.net/tg13-node/
 repository: https://github.com/megoth/tg13-node/
 ---
 

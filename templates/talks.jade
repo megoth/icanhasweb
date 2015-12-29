@@ -1,0 +1,17 @@
+extends layout
+
+block vars
+  - var bodyclass = 'talks'
+
+block content
+  - talks = _(contents.talks).chain().filter(function (item, key) {
+  -   return key !== 'index.md';
+  - }).map(function (directory) {
+  -   return directory.index;
+  - }).sortBy(function (talk) {
+  -   return -talk.date;
+  - }).value();
+  .block-content
+    != page.html
+  include talkList
+  

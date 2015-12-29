@@ -1,0 +1,11 @@
+.block-posts
+  each talk in talks
+    article
+      header
+        h3
+          a(href=talk.url)
+            != talk.title
+        h4.meta
+          include talkMeta
+      section.content
+        != talk.html

@@ -1,7 +1,8 @@
 ---
 title: "Building a web app with ES6"
-status: complete
-template: project.jade
+author: arnehass
+date: 2015-04-21
+template: talk.jade
 tags: presentation, workshop, javascript, jspm, es6, AngularJS, React, Node.js, Grunt, Socket.IO, Sass, Compass
 url: http://es6-presentation.herokuapp.com/
 repository: https://github.com/megoth/es6app

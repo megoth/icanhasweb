@@ -11,7 +11,11 @@ block content
   if projects.length > 0
     h2 Projects
     include projectList
-  - articles = _(pages).filter(function (page) { return page.metadata.date; });
+  - talks = _(pages).filter(function (page) { return page.metadata.date && page.metadata.repository; });
+  if talks.length > 0
+    h2 Talks
+    include talkList
+  - articles = _(pages).filter(function (page) { return page.metadata.date && !page.metadata.repository; });
   if articles.length > 0
     h2 Blog posts
     include articleList

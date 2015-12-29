@@ -1,0 +1,7 @@
+| Presented: !{ moment.utc(talk.date).format('DD. MMMM YYYY') }, 
+if talk.metadata.url
+  | URL: 
+  a(href=talk.metadata.url)= talk.metadata.url
+  |, 
+| Repository: 
+a(href=talk.metadata.repository)= talk.metadata.repository

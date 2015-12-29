@@ -12,7 +12,7 @@ block content
   -   return project.title.toLowerCase();
   - }).value();
   .block-content
-    p Here are all projects that I have some association with and that have a public repository.
+    != page.html
   - projects = _(all_projects).filter(function (project) {
   -   return project.metadata.status === 'active';
   - });

@@ -4,4 +4,4 @@ author: arnehass
 template: projects.jade
 ---
 
-Projects I'm currently and have been working on
+Here are all projects that I have some association with and that have a public repository.

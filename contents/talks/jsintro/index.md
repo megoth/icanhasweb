@@ -1,7 +1,8 @@
 ---
 title: "An introduction to JavaScript"
-status: complete
-template: project.jade
+author: arnehass
+date: 2014-10-14
+template: talk.jade
 tags: presentation, javascript, introduction
 url: http://megoth.github.io/jsintro
 repository: https://github.com/megoth/jsintro

@@ -1,7 +1,8 @@
 ---
 title: "Introduction to webpack"
-status: complete
-template: project.jade
+author: arnehass
+date: 2015-11-19
+template: talk.jade
 tags: presentation, webpack, javascript, reveal.js
 url: http://megoth.github.io/qb-webpack-intro
 repository: https://github.com/megoth/qb-webpack-intro

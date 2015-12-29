@@ -1,9 +1,10 @@
 ---
 title: "Introduksjon til JavaScript"
-status: complete
-template: project.jade
+author: arnehass
+date: 2013-03-28
+template: talk.jade
 tags: presentation, javascript, impress.js
-url: http://megoth.github.io/tg13-intro/
+url: http://pres.icanhasweb.net/tg13-intro/
 repository: https://github.com/megoth/tg13-intro/
 ---
 

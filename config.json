@@ -27,7 +27,8 @@
   "tag": {
     "articles": [
       "articles", 
-      "projects"
+      "projects",
+      "talks"
     ],
     "perPage": 100,
     "template": "tag.jade"
