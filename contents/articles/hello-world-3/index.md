@@ -10,7 +10,7 @@ This is the first entry in my attempt at revitalizing icanhasweb.net. I've spent
 
 <span class="more"></span>
 
-**TL;DR:** I've rewritten my website using Wintersmith. This will be my only blog going forward. I'll detail the ideas and choices that I've made in my next blog post.
+**TL;DR: I've rewritten my website using Wintersmith. This will be my only blog going forward. I'll detail the ideas and choices that I've made in my next blog post.**
 
 The code has been rewritten using [Wintersmith](http://wintersmith.io/). I've used it in a couple of other projects, and found it to be a framework much more acceptable to change in content design. [Wordpress](https://wordpress.com/) is a treat when used for blogging and simple pages, but not that great if I want to have other kinds of content (many will probably disagree with me on this). The fact that it produces static content is also a plus in terms of performance. And not to mention the fact that it's underlying programming language is JavaScript, which is right up my alley.
 

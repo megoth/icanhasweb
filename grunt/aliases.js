@@ -1,5 +1,5 @@
 module.exports = {
 	'default': ['dev', 'watch'],
-	'dev': ['wintersmith:local', 'sass:default', 'copy'],
-  'prod': ['clean:build', 'wintersmith:prod', 'sass:prod', 'copy', 'webpack:prod']
+	'dev': ['wintersmith:local', 'sass:default'],
+  'prod': ['clean:build', 'wintersmith:prod', 'sass:prod', 'webpack:prod']
 };
