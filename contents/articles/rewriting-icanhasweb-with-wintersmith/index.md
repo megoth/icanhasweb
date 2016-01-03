@@ -12,7 +12,7 @@ The post will not be going through how to set up a new wintersmith blog, there a
 
 **TL;DR: I've rewritten this website using Wintersmith. The content types are blog posts, projects, talks, and my cv. The three former supports tagging, which is made possible with a monkey patched version of wintersmith-tag. I also wrote a bit of scripts, using webpack to organize and bundle it, and included a couple of services (Disqus and Google Analytics).**
 
-The website was powered by two wordpress installations, which (just to be clear) I wasn't dissapointed with. But I disliked the fact that it is written in PHP (which is not my language of choice), and I wasn't going to invest time in utilizing its powers and flexibility (for example, I know of its [Custom Content Types](https://wordpress.org/about/features/), which probably would have been sufficient for a lot of my needs).
+The website was powered by two wordpress installations. Just to be clear, I wasn't dissapointed with Wordpress per se, but I disliked the fact that it is written in PHP (which is not my language of choice), and I wasn't going to invest time in utilizing its powers and flexibility (for example, I know of its [Custom Content Types](https://wordpress.org/about/features/), which probably would have been sufficient for a lot of my needs).
 
 On the other hand, I have been exploring Wintersmith a lot in a couple of other projects, and although the documentation leaves much to be wanted, I'm very satisfied with the experience. It's easy to set up, easy to change, and has some community that is building some nifty tools. Not so much going for it that I would choose it in a more serious endeavor (read: making something where a lot of money is involved), but for my personal use it's good enough.
 
