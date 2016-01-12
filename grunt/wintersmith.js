@@ -1,8 +1,8 @@
 module.exports = {
-	local: {},
-	prod: {
-		options: {
-			config: './config.prod.json'
-		}
-	}
-};
+  local: {},
+  prod: {
+    options: {
+      config: './config.prod.json'
+    }
+  }
+}
