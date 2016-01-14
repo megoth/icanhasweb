@@ -20,37 +20,38 @@ html(lang='en')
       link(rel='stylesheet', href='/css/style.large.css', media='all and (min-width: 51em)')
       link(rel="stylesheet", href="http://fonts.googleapis.com/css?family=Archivo+Narrow")
   body(class=bodyclass)
-    .block-container.layout-container
-      header(role="banner").page-header
-        hgroup
-          block header
-            h1
-              a(href=locals.url)= locals.name
-            h3= locals.description
-        nav(role="navigation")
-          ul
-            li
-              a(href=locals.url) Home
-                .triangle
-            li
-              a(href='/archive.html') Posts
-                .triangle
-            li
-              a(href="/projects") Code
-                .triangle
-            li
-              a(href="/talks") Talks
-                .triangle
-      main(role="main")
-        block content
-          != page.html
-      aside
-        block aside
-    footer
-      .block-container
-        != contents['about.md'].html
-    footer#cookies
-      .block-container This website makes use of <a href="/cookies">cookies</a>. By continue to use this website you accept this. 
+    .layout-container
+      .block-container.layout-content
+        header(role="banner").page-header
+          hgroup
+            block header
+              h1
+                a(href=locals.url)= locals.name
+              h3= locals.description
+          nav(role="navigation")
+            ul
+              li
+                a(href=locals.url) Home
+                  .triangle
+              li
+                a(href='/archive.html') Posts
+                  .triangle
+              li
+                a(href="/projects") Code
+                  .triangle
+              li
+                a(href="/talks") Talks
+                  .triangle
+        main(role="main")
+          block content
+            != page.html
+        aside
+          block aside
+      footer
+        .block-container
+          != contents['about.md'].html
+        #cookies
+          .block-container This website makes use of <a href="/cookies">cookies</a>. By continue to use this website you accept this. 
     script(src="/scripts/common.bundle.js")
     script(src="/scripts/global.bundle.js")
     block scripts
