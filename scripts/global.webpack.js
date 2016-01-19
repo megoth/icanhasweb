@@ -1,21 +1,30 @@
-var $ = require('npm-zepto');
+require('blissfuljs'); // exposes Bliss through $                    
 var Cookies = require('js-cookie');
 
-$(function () {
+$.ready().then(function () {
   var cookiesElement = $('#cookies');
   if (Cookies.get('cookies_closed')) {
-    cookiesElement.hide();
+    cookiesElement.style.display = 'none';
   } else {
-    var marginElement = cookiesElement.prev();
-    var closeButton = $('<button class="btn">Close</button>').on('click', function () {
-      Cookies.set('cookies_closed', true, { expires: 3650 });
-      cookiesElement.hide();
-      marginElement.css('margin-bottom', 'inherit');
+    var marginElement = cookiesElement.previousElementSibling;
+    var closeButton = $.create('button', {
+      className: 'btn',
+      textContent: 'Close',
+      type: 'button'
     });
-    cookiesElement
-      .addClass('js-enabled')
-      .find('.block-container')
-      .append(closeButton);
-    marginElement.css('margin-bottom', cookiesElement.height());
+    closeButton._.events({
+      'click': function() {
+        Cookies.set('cookies_closed', true, { expires: 3650 });
+        cookiesElement.style.display = 'none';
+        marginElement._.style({ 
+          'margin-bottom': 'inherit' 
+        });
+      }
+    });
+    cookiesElement.classList.add('js-enabled');
+    $('.block-container', cookiesElement)._.contents(closeButton);
+    marginElement._.style({
+      'margin-bottom': '50px' // magic number - ugly, but bah
+    });
   }
 });

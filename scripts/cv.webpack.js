@@ -1,41 +1,41 @@
-var $ = require('npm-zepto');
+require('blissfuljs'); // exposes Bliss through $                    
 
-$.fn.presentation = function (navigation) {
-    var sections = $(this).find("section:not(#description)");
-
-    $(navigation).find("a").on('click', function (e) {
-        var newSection = $(e.currentTarget).attr("href");
-        openSection(newSection);
-    });
-
-    var items = this.each(function () {
-        $(this).find("section:not(#description)").addClass("closed").removeClass("open")
-            .find("h3:first-child")
-            .attr('tabindex', 0)
-            .on('click keyup', function (e) {
-                if (e.type === 'keyup' && e.keyCode !== 13) return;
-                var newSection = $(e.currentTarget).parent().attr("id");
-                location.hash = newSection;
-                openSection("#" + newSection);
-            });
-    });
-
-    var section = location.hash;
-    if (section !== "") {
-        openSection(section);
-    }
-
-    return items;
-
-    function openSection (newSection) {
-        var $section = $(newSection),
-            toggle = $section.hasClass("open");
-        sections.removeClass("open");
-        $section.toggleClass("open", !toggle);
-        $section.find('h3:first-child').focus();
-    }
-};
-
-$(function () {
-    $("#CvContent").presentation("#CvNavigation");
+$("#CvNavigation")._.delegate('click', 'a', function (event) {
+    openSection(event.srcElement.hash.substr(1), true);
 });
+
+$.ready().then(function () {
+    $$('#CvContent section:not(#description)').forEach(function (section) {
+        section.classList.add('closed');
+        section.classList.remove('open');
+        var title = $('h3:first-child', section);
+        title._.attributes({
+            tabindex: 0
+        });
+        title._.events({
+            'click keyup': function (event) {
+                if (event.type === 'keyup' && event.keyCode !== 13) return;
+                var sectionId = event.srcElement.parentElement.id;
+                location.hash = sectionId;
+                openSection(sectionId);
+            }
+        });
+    });
+
+    var sectionId = location.hash;
+    if (sectionId !== "") {
+        openSection(sectionId.substr(1));
+    }
+});
+
+function openSection (newSectionId, toggle) {
+    var section = $('#'+newSectionId);
+    toggle = toggle !== undefined ? toggle : !section.classList.contains('open');
+    $$('#CvContent section:not(#description)').forEach(function (section) {
+        section.classList.remove('open');
+    });
+    section.classList.toggle("open", toggle);
+    setTimeout(function () { // focus will be set upon scrolling if not done this way
+        $('h3:first-child', section).focus();
+    }, 10);
+}
