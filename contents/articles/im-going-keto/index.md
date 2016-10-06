@@ -2,6 +2,7 @@
 title: "I’m going keto"
 author: arnehass
 date: 2016-02-07
+updated: 2016-10-06
 template: article.jade
 tags: keto, ketogenic, diet, preparations
 ---
@@ -21,7 +22,7 @@ I'm writing about this here to share my story on this, and I'm planning to write
 * [Caveman Keto](http://cavemanketo.com/): Apart from their weird focus on organic and "no-industrial" food, they have some good recipes.
 * [Matvaretabellen](http://www.matvaretabellen.no/): Mostly for the Norwegian readers, but this page lists nutrients for a lot of food.
 
-## Update (2016-10-22)
+## Update (2016-10-06)
 
 I didn't really follow up on this, did I? I know, I suck at blogging.
 
