@@ -41,7 +41,9 @@ When it comes to unauthorized distribution of content it becomes a bit more tric
 
 ### Content management
 
-In line with users owning their data, they should also be able to control access.
+In line with users owning their data, they should also be able to control access. The level of control needs to be easy and intuitive to handle, and smart guidelines and rules offered so that users can have full confidence that only the parties they've accepted gets access to their data.
+
+I do not know how this should look, but an idea is that rules can be broken into three parts: "(service) can access (domain of data) (a number of times or interval)". Whenever a service requires access the user is prompted to define this rule. The better the level of access, the higher the risk should be communicated to the user, and made sure that they trust this service. But when it comes down to it, this is about trust, which I'll talk about in the section on [Trust](#trust).
 
 ### Linked data
 
