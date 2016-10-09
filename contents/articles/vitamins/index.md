@@ -13,4 +13,4 @@ I found it about a month ago, and I really liked it! In fact, I liked it so much
 
 I used a set of tools to make it: [D3.js](http://d3js.org/) to visualize the data, [jQuery](http://jquery.com/) to ease DOM-handling, [Underscore](http://underscorejs.org/) for utility functions, [Sass](http://sass-lang.com/) as CSS-preprocessor, [Compass](http://compass-style.org/) for extra mixins, [Bootstrap](http://twitter.github.com/bootstrap/) for some good markup-handling, and [Buster.JS](http://busterjs.org/) to test the JavaScript. All of the code is available at [GitHub](https://github.com/megoth/vitamins).
 
-Hope you like it! ^_^
+Hope you like it! ^\_^

@@ -1,45 +1,44 @@
 extends layout
 
 block append vars
-  - bodyclass = 'article'
+    - bodyclass = 'article'
 
 block prepend title
-  | #{ page.title + " - "}
+    | #{ page.title + " - "}
 
 block header
-  include author
-  h1= page.title
-  p.author
-    | #{ "Written by " }
-    mixin author(page.metadata.author)
-    |, !{ moment.utc(page.date).format('DD. MMMM YYYY') } 
-    if (page.metadata.original)
-      | (
-      a(href=page.metadata.original) Original blog
-      |)
+    h1= page.title
 
 block content
-  article.block-content
-    != typogr(page.html).typogrify()
-  nav
-    ul
-      li
-        a(href=contents.index.url) « Full blog
+    include author
+    article.block-content
+        p.published.meta Published #{moment.utc(page.date).format('YYYY-MM-DD') }
+            if (page.metadata.original)
+                | #{ ", originally published at " }
+                a(href=page.metadata.original) old blog
+        != typogr(page.html).typogrify()
+        p.author.meta
+            | #{ "Written by " }
+            mixin author(page.metadata.author)
+    nav
+        ul
+            li
+                a(href=contents.index.url) « Full blog
 
 block aside
-  - var tags = env.helpers.getTagsFromArticle(page)
-  include tagList
-  if !page.metadata.original && locals.url === "http://icanhasweb.net"
-    #disqus_thread
-    script 
-      | var disqus_config = function () {
-      |   this.page.url = "#{ locals.url + page.url }";
-      |   this.page.identifier = "#{ page.__filename.replace('/index.md', '').split('/').pop() }";
-      | };
-      | (function() {
-      |   var d = document, s = d.createElement('script');
-      |   s.src = '//icanhasweb.disqus.com/embed.js';
-      |   s.setAttribute('data-timestamp', +new Date());
-      |   (d.head || d.body).appendChild(s);
-      | })();
-    noscript Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a>
+    - var tags = env.helpers.getTagsFromArticle(page)
+    include tagList
+    if !page.metadata.original && locals.url === "http://icanhasweb.net"
+        #disqus_thread
+        script
+            | var disqus_config = function () {
+            |   this.page.url = "#{ locals.url + page.url }";
+            |   this.page.identifier = "#{ page.__filename.replace('/index.md', '').split('/').pop() }";
+            | };
+            | (function() {
+            |   var d = document, s = d.createElement('script');
+            |   s.src = '//icanhasweb.disqus.com/embed.js';
+            |   s.setAttribute('data-timestamp', +new Date());
+            |   (d.head || d.body).appendChild(s);
+            | })();
+        noscript Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a>

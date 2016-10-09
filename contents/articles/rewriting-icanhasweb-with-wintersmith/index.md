@@ -23,7 +23,7 @@ My outset was to move all of my blog posts to a unified blog and reuse my minima
 Next I cloned the [minimalist repo](https://github.com/megoth/minimalist) into the project, and created a simple grunt setup using [load-grunt-config](https://github.com/firstandthird/load-grunt-config) and [load-grunt-tasks](https://github.com/sindresorhus/load-grunt-tasks). With that in place, I created the following tasks: 
 
 * [clean](https://github.com/gruntjs/grunt-contrib-clean): to delete files between builds
-* <strike>[copy](https://github.com/gruntjs/grunt-contrib-copy): to copy resources that aren't moved with Wintersmith</strike> (I later realized Wintersmith handles all copying I need ^_^)
+* <strike>[copy](https://github.com/gruntjs/grunt-contrib-copy): to copy resources that aren't moved with Wintersmith</strike> (I later realized Wintersmith handles all copying I need ^\_^)
 * [sass](https://github.com/gruntjs/grunt-contrib-sass): to handle sass-to-css from the minimalist project
 * [watch](https://github.com/gruntjs/grunt-contrib-watch): because developing without it is pain
 * [wintersmith](https://github.com/davidtucker/grunt-wintersmith): to trigger wintersmith builds
