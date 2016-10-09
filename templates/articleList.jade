@@ -7,17 +7,17 @@
             != article.title
         p.meta
           include articleMeta
-      section.content
+      section.block-content
         if article.intro.length > 0
           | !{ typogr(article.intro).typogrify() }
         if article.hasMore
-          p
+          p.more-link
             a(href=article.url).more-link Continue reading &#8594;
-nav
+nav.nav-history
   ul
-    if prevPage
-      li
-        a(href=prevPage.url) « Newer
     if nextPage
-      li
-        a(href=nextPage.url) Older »
+      li.older
+        a(href=nextPage.url) « Older
+    if prevPage
+      li.newer
+        a(href=prevPage.url) Newer »

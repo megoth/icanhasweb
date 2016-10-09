@@ -1,5 +1,5 @@
 ---
-title: "Thougts on decentralized social media"
+title: "Thoughts on decentralized social media"
 author: arnehass
 date: 2016-10-08
 tags: decentralized social media, decentralized social networks, diaspora, solid, friendica, hubzilla, akasha, facebook, twitter, etherium, blockchain
@@ -13,28 +13,41 @@ In this article I want to share my thoughts on what such an alternative should e
 
 <span class="more"></span>
 
-(If it is not obvious; these are my thoughts and ideas, and they are far from complete and may misrepresent the projects I reference. I'm eager to learn more, and invite you to a productive and meaningful conversation in the [comments](#disqus_thread).)
+(If it is not obvious; these are my thoughts and ideas, and they are far from complete. I'm eager to learn more, and invite you to a productive conversation in the [comments](#disqus_thread) or other places of your choice where a productive discussion can be facilitated.)
 
 I'm going to use decentralized social media (DSM) as the working term throughout this article, as I want to emphasize the role it needs to fill: an alternative to the centralized social media (CSM). Other related terms are decentralized social networks, decentralized web applications, and decentralized web communities.
 
 ## The platform
 
-The beforementioned projects are all doing a lot of great work, and I hope to be able to dive more into them and get to know their specifics. But from what I've been able to gather, they're not fulfilling all of the features for decentralized social media as a platform to be successful. These are:
+The beforementioned projects are all doing a lot of great work, and I hope to be able to dive more into them and get to know their specifics. But from what I've been able to gather, they're not fulfilling all of the features for decentralized social media as a platform to be successful. 
 
-1. An emphasis on giving users ownership of their data
-2. Tools that allow users to manage access to their data, presented in intuitive and smart ways
-3. A standardized format for data to be exchanged across networks and services (I believe Resource Description Framework (RDF) to be the best bet here)
-4. Strategies for monetization for data facilitators, data aggregators, and content producers
+These are (in order of importance):
 
-Until these features are in place, I don't think we'll have a platform for decentralized social media that will be successful.
+1. **Intellectual property:** Users own their data (services make use of the data after gaining access by users), 
+2. **Content management:** Tools that allow users to manage access to their data, presented in intuitive and smart ways, 
+3. **Linked data:** A standardized format for metadata to be exchanged across networks and services, 
+4. **Monetization:** Strategies for monetization for data facilitators, data aggregators, and content producers, and
+5. **Network effect:** The success of all social platforms are dependendent of the number of users connected to the network.
+
+Until these features are in place, we won't have a successful platform for decentralized social media.
 
 ### Intellectual property
 
+Content created by users should belong to them. The ideal situation would be for users to control personal data hubs, but for users without the means to do this it should be possible to have their data facilitated by the services themselves.
+
+As individuals have ownership of their data, distributors should have ownership of the content they provide as well. But annotations created by users should belong to the users. If distributors are interested in the annotations, deals should be set up so that microtransactions or discounted content can be offered.
+
+When it comes to unauthorized distribution of content it becomes a bit more tricky. I'll talk about this in the next section and in the section on [Digital Rights Management](#digitial-rights-management).
+
 ### Content management
+
+In line with users owning their data, they should also be able to control access.
 
 ### Linked data
 
 ### Monetization
+
+### Network effect
 
 ## Benefits
 
@@ -67,6 +80,8 @@ There is personal data that may not be moved so easily, either for the sake of t
 ### Science
 
 ## Challenges
+
+### Digitial rights management
 
 ### Security
 

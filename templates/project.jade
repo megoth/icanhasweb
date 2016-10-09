@@ -1,20 +1,23 @@
 extends layout
 
+block vars
+  - var titleclass = 'bottom'
+
 block prepend title
   | Project: #{ page.title + " - "}
 
 block header
   h1= page.title
-  h3 Status: #{ page.metadata.status }
-  ul
-    if page.metadata.url
-      li URL: 
-        a(href=page.metadata.url)= page.metadata.url
-    li Repository: 
-      a(href=page.metadata.repository)= page.metadata.repository
 
 
 block content
+  p Status: #{ page.metadata.status }
+  ul
+    if page.metadata.url
+      li #{"URL: "}
+        a(href=page.metadata.url)= page.metadata.url
+    li #{"Repository: "}
+      a(href=page.metadata.repository)= page.metadata.repository
   article.block-content
     section.content!= typogr(page.html).typogrify()
   nav
