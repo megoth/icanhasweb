@@ -23,7 +23,7 @@
     "build:public": "npm run build-style && wintersmith build --config config.prod.json"
   },
   "dependencies": {
-    "icanhasweb-minimalist": "^1.0.0",
+    "icanhasweb-minimalist": "^1.1.0",
     "marked": "^0.7.0",
     "moment": "^2.18.1",
     "typogr": "^0.6.8",
