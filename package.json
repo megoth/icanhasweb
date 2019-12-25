@@ -17,14 +17,13 @@
     "build": "npm-run-all build-*",
     "build-content": "wintersmith build",
     "build-style": "copyfiles -f node_modules/icanhasweb-minimalist/dist/*.css contents/css",
+    "build-fonts": "copyfiles -f node_modules/icanhasweb-minimalist/dist/fonts/* contents/fonts",
     "watch": "npm run watch-content",
     "watch-content": "wintersmith preview",
     "build:public": "npm run build-style && wintersmith build --config config.prod.json"
   },
   "dependencies": {
-    "blissfuljs": "^1.0.0",
     "icanhasweb-minimalist": "^1.0.0",
-    "js-cookie": "^2.0.4",
     "marked": "^0.7.0",
     "moment": "^2.18.1",
     "typogr": "^0.6.8",

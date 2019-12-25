@@ -2,6 +2,7 @@
 .sass-cache
 build
 contents/css
+contents/fonts
 contents/scripts
 minimalist
 node_modules

@@ -4,8 +4,7 @@ module.exports = {
   mode: 'development',
   context: path.join(__dirname, '/scripts'),
   entry: {
-    cv: './cv.js',
-    global: './global.js'
+    cv: './cv.js'
   },
   output: {
     path: path.join(__dirname, '/contents/scripts'),

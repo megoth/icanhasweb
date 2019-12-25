@@ -13,10 +13,10 @@ block header
   h1= page.title
   if page.metadata.description
     h3= page.metadata.description
+
+block content
   nav
     ul#CvNavigation.nav.nav-pills
-      li
-        a.nav-link(href="#description") Description
       li
         a.nav-link(href="#work") Work Experience
       li
@@ -27,8 +27,6 @@ block header
         a.nav-link(href="#projects") Projects
       li
         a.nav-link(href="#voluntary") Voluntary Work
-
-block content
   #CvContent.block-content
     h2 Curriculum Vitae
     dl
