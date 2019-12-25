@@ -3,7 +3,7 @@ title: "Breaking The Taboo – Interessant innlegg i narkotika-debatten"
 author: arnehass
 date: 2012-12-08
 updated: 2015-12-24
-template: article.jade
+template: article.pug
 tags: breaking the taboo, narkotika, war on drugs
 original: http://icanhasweb.net/megoth/2012/12/breaking-the-taboo-interessant-innlegg-i-narkotika-debatten/
 ---

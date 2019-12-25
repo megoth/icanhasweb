@@ -2,7 +2,7 @@
 title: "Link-o-rama #2"
 author: arnehass
 date: 2012-01-15
-template: article.jade
+template: article.pug
 tags: data, framsia, grunnlov, javascript, meetup, node.js, open, personlighetsvern, pipa, rekruttering as, sopa, uio
 original: https://megoth.wordpress.com/2012/01/15/link-o-rama-2/
 ---

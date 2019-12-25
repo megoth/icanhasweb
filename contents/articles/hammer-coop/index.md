@@ -2,7 +2,7 @@
 title: "Hammer & Coop"
 author: arnehass
 date: 2007-03-11
-template: article.jade
+template: article.pug
 tags: hammer & Coop
 original: https://megoth.wordpress.com/2007/03/11/hammer-coop/
 ---

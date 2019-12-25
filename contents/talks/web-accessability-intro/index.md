@@ -2,7 +2,7 @@
 title: "An introduction to Web Accessability"
 author: arnehass
 date: 2014-02-18
-template: talk.jade
+template: talk.pug
 tags: presentation, accesability, impress.js
 url: http://megoth.github.io/web-accessability-intro
 repository: https://github.com/megoth/web-accessability-intro

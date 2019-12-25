@@ -2,7 +2,7 @@
 title: "Sorg"
 author: arnehass
 date: 2011-07-23
-template: article.jade
+template: article.pug
 tags: auf, norge, Oslo, sorg, terror, tragedie, uvirkelig
 original: https://megoth.wordpress.com/2011/07/23/sorg/
 ---

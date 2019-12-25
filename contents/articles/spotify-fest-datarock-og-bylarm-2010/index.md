@@ -2,7 +2,7 @@
 title: "Spotify-fest, Datarock og By:Larm 2010"
 author: arnehass
 date: 2010-02-21
-template: article.jade
+template: article.pug
 tags: biørnegildet, by:Larm, chriss lee, cyb, datarock, harrys gym, i see horses, izakaya heartbeat, kråkesølv, last days of earth, little hands of asphalt, mhoo, powpow, privat regn, proviant audio, realistforeningen, rf, spotify, the deer tracks, twins twins, yes this is mye broken shield, æ
 original: https://megoth.wordpress.com/2010/02/21/spotify-fest-datarock-og-bylarm-2010/
 ---

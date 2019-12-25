@@ -2,7 +2,7 @@
 title: "Debatt om nettdebatt"
 author: arnehass
 date: 2009-02-06
-template: article.jade
+template: article.pug
 tags: aftenposten, Blogging, cover it live, debatt, fritt fram på nett, hagtvet, hegnar online, Internett, knut olav åmås, Media, norge, norsk journalistlag, norsk pen, vox publica
 original: https://megoth.wordpress.com/2009/02/06/debatt-om-nettdebatt/
 ---

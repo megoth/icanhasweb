@@ -2,7 +2,7 @@
 title: "Åpningsvideo til Hankattrevyen 104 K.Å."
 author: arnehass
 date: 2007-02-26
-template: article.jade
+template: article.pug
 tags: Video, youtube
 original: https://megoth.wordpress.com/2007/02/26/apningsvideo-til-hankattrevyen-104-ka/
 ---

@@ -2,7 +2,7 @@
 title: "Another update to the essay as part of my master thesis"
 author: arnehass
 date: 2011-04-25
-template: article.jade
+template: article.pug
 tags: essay, javascript, rdf, semantic web
 original: https://icanhasweb.wordpress.com/2011/04/25/another-update-to-the-essay-as-part-of-my-master-thesis/
 ---

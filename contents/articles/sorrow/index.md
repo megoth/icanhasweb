@@ -2,7 +2,7 @@
 title: "Sorrow"
 author: arnehass
 date: 2011-07-23
-template: article.jade
+template: article.pug
 tags: bomb, explosion, oslo, terror, tragedy
 original: https://icanhasweb.wordpress.com/2011/07/23/sorrow/
 ---

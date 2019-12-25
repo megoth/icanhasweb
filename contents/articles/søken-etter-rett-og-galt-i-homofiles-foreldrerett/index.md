@@ -2,7 +2,7 @@
 title: "Søken etter “rett og galt” i homofiles foreldrerett"
 author: arnehass
 date: 2007-08-03
-template: article.jade
+template: article.pug
 tags: barn, homofili, menneskerettigheter
 original: https://megoth.wordpress.com/2007/08/03/s%c3%b8ken-etter-rett-og-galt-i-homofiles-foreldrerett/
 ---

@@ -2,7 +2,7 @@
 title: "Civilization Revolution"
 author: arnehass
 date: 2008-03-23
-template: article.jade
+template: article.pug
 tags: civilization, civilization revolution, sid meier
 original: https://megoth.wordpress.com/2008/03/23/civilization-revolution/
 ---

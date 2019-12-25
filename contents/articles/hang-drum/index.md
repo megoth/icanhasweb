@@ -2,7 +2,7 @@
 title: "Hang Drum"
 author: arnehass
 date: 2008-04-02
-template: article.jade
+template: article.pug
 tags: hang drum, music
 original: https://megoth.wordpress.com/2008/04/02/hang-drum/
 ---

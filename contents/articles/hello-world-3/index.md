@@ -2,7 +2,7 @@
 title: "Hello world!"
 author: arnehass
 date: 2015-12-27
-template: article.jade
+template: article.pug
 tags: blog, Wintersmith, Wordpress, JavaScript, redesign
 ---
 

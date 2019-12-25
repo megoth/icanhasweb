@@ -2,7 +2,7 @@
 title: "Retten på selvet"
 author: arnehass
 date: 2007-06-18
-template: article.jade
+template: article.pug
 tags: kloning
 original: https://megoth.wordpress.com/2007/06/18/retten-pa-selvet/
 ---

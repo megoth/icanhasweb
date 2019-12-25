@@ -2,7 +2,7 @@
 title: "SOMMERFERIE! HOVEFESTIVALEN!!!"
 author: arnehass
 date: 2008-06-22
-template: article.jade
+template: article.pug
 tags: animal alpha, avenged sevenfold, bad religion, bryllup, bullet for my valentine, dimmu borgir, don juan dracula, hellacopters, hovefestivalen, in flames, jay-z, killswitch engage, mstrkrft, opeth, senter for helse & arbeid, slagsmålsklubben, the kooks, the national bank, the teenagers, the wombats, utdrikkingslag
 original: https://megoth.wordpress.com/2008/06/22/sommerferie/
 ---

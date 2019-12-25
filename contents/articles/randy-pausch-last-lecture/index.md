@@ -2,7 +2,7 @@
 title: "Randy Pausch – Last Lecture"
 author: arnehass
 date: 2007-11-23
-template: article.jade
+template: article.pug
 tags: kreft, last lecture, linkedin, randy pausch
 original: https://megoth.wordpress.com/2007/11/23/randy-pausch-last-lecture/
 ---

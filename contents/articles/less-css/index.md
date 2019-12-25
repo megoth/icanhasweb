@@ -2,7 +2,7 @@
 title: "Less CSS"
 author: arnehass
 date: 2010-10-30
-template: article.jade
+template: article.pug
 tags: .net, clearfix, css, css3, feature detection, less, mixins, modernizr, nested rules, operations, php, variables
 original: https://icanhasweb.wordpress.com/2010/10/30/less-css/
 ---

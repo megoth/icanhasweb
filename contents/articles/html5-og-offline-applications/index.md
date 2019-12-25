@@ -2,7 +2,7 @@
 title: "HTML5 og offline applications"
 author: arnehass
 date: 2010-05-28
-template: article.jade
+template: article.pug
 tags: html5, javascript, offline applications, storage, web applications
 original: https://megoth.wordpress.com/2010/05/28/html5-og-offline-applications/
 ---

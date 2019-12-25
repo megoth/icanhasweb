@@ -2,7 +2,7 @@
 title: "chatty"
 author: arnehass
 date: 2014-02-18
-template: talk.jade
+template: talk.pug
 tags: presentation, JavaScript, Node.js, Socket.IO
 url: http://megoth-chatty.herokuapp.com/
 repository: https://github.com/megoth/chatty

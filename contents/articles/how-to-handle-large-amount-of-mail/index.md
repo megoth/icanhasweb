@@ -2,7 +2,7 @@
 title: "How to handle large amount of mail"
 author: arnehass
 date: 2010-11-14
-template: article.jade
+template: article.pug
 tags: cyb, digsby, email, gmail, google talk, google talks, google tasks, gtd, im, irc, rss
 original: https://icanhasweb.wordpress.com/2010/11/14/how-to-handle-large-amount-of-mail/
 ---

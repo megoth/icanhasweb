@@ -1,17 +1,25 @@
-var webpack = require('webpack');
-var CommonsChunkPlugin = require("webpack/lib/optimize/CommonsChunkPlugin");
+var path = require('path')
 
 module.exports = {
-    context: __dirname + "/scripts",
-    entry: {
-      cv: './cv.webpack.js',
-      global: './global.webpack.js'
-    },
-    output: {
-        path: __dirname + "/build/scripts",
-        filename: "[name].bundle.js",
-    },
-    plugins: [
-      new CommonsChunkPlugin("common.bundle.js")
-    ]
-};
+  mode: 'development',
+  context: path.join(__dirname, '/scripts'),
+  entry: {
+    cv: './cv.js',
+    global: './global.js'
+  },
+  output: {
+    path: path.join(__dirname, '/contents/scripts'),
+    filename: '[name].bundle.js',
+  },
+  optimization: {
+    splitChunks: {
+      cacheGroups: {
+        commons: {
+          name: 'common',
+          chunks: 'initial',
+          minChunks: 2
+        }
+      }
+    }
+  }
+}

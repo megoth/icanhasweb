@@ -2,7 +2,7 @@
 title: "Økt interesse for månen"
 author: arnehass
 date: 2007-09-13
-template: article.jade
+template: article.pug
 tags: Google, google lunar x prize, månen, romfart
 original: https://megoth.wordpress.com/2007/09/13/%c3%98kt-interesse-for-manen/
 ---

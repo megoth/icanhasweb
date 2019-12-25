@@ -2,7 +2,7 @@
 title: "24 ways – a christmas calender for us web developers"
 author: arnehass
 date: 2010-12-01
-template: article.jade
+template: article.pug
 tags: 24 ways, drew mclellan, exams, google maps, master thesis, progressive enhancement
 original: https://icanhasweb.wordpress.com/2010/12/01/24-ways-christmas-calender-for-us-web-developers/
 ---

@@ -2,7 +2,7 @@
 title: Weird bug in AngularJS $http?
 author: arnehass
 date: 2013-08-28
-template: article.jade
+template: article.pug
 tags: $http, AngularJS, checkbox survey, iframe
 original: http://icanhasweb.net/blog/2013/08/weird-bug-angularjs-http/
 ---

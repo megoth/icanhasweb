@@ -2,7 +2,7 @@
 title: "SDK nå tilgjengelig for The Bug"
 author: arnehass
 date: 2007-12-20
-template: article.jade
+template: article.pug
 tags: Java, linkedin, SDK, the bug
 original: https://megoth.wordpress.com/2007/12/20/sdk-na-tilgjengelig-for-the-bug/
 ---

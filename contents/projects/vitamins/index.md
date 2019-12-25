@@ -1,7 +1,7 @@
 ---
 title: "Vitamins"
 status: complete
-template: project.jade
+template: project.pug
 tags: visualization, D3.js, vitamins, jQuery, Underscore.js, Sass, Compass, Bootstrap, Buster.js
 url: http://icanhasweb.net/vis/vitamins/
 repository: https://github.com/megoth/vitamins

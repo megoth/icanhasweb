@@ -2,7 +2,7 @@
 title: "I’m back"
 author: arnehass
 date: 2007-03-05
-template: article.jade
+template: article.pug
 tags: Ås, battle angel alita - last order, claymore, emergenza-festivalen, Fest, gamle christiania, john dee, Oslo, radio tanga, Tvedestrand, ugly betty, vm i rock, x/1999
 original: https://megoth.wordpress.com/2007/03/05/im-back/
 ---

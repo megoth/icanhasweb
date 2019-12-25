@@ -1,7 +1,7 @@
 ---
 title: "Holder de ord"
 status: active
-template: project.jade
+template: project.pug
 tags: Holder de ord, Ruby
 url: https://www.holderdeord.no/
 repository: https://github.com/holderdeord/hdo-site

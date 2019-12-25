@@ -2,7 +2,7 @@
 title: "Disposition iteration #3"
 author: arnehass
 date: 2012-01-03
-template: article.jade
+template: article.pug
 tags: compass, css, framework, javascript, less, sass, semantic web
 original: https://icanhasweb.wordpress.com/2012/01/03/disposition-iteration-3/
 ---

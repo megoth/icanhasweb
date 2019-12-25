@@ -2,7 +2,7 @@
 title: "Rewriting I Can Has Web with Wintersmith"
 author: arnehass
 date: 2015-12-30
-template: article.jade
+template: article.pug
 tags: rewrite, wintersmith, wordpress, architecture, design choices
 ---
 
@@ -32,7 +32,7 @@ Next I cloned the [minimalist repo](https://github.com/megoth/minimalist) into t
 
 Paired with [live-server](https://www.npmjs.com/package/live-server) which I run in the build-folder (which refreshes the website after each build), I had my development-setup in place. It made the refitting of minimalist a pleasure to do, and in the process I learned a little about [CSS grid](http://www.w3.org/TR/css-grid-1/) and [CSS flex](http://www.w3.org/TR/css-flexbox-1/) (I learned a lot from [a post by Rachel Andreas on 24 ways](https://24ways.org/2015/grid-flexbox-box-alignment-our-new-system-for-layout/) and [this guide by Chris Coyier on CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)).
 
-As part of the refitting I also fixed the aside-parts on the frontpage; a small about-section, a photo of myself, a list of public profiles, a list of selected projects, and a list content on this site. That was done by simply copying the content from the old site, modifying it to the jade syntax in index.jade.
+As part of the refitting I also fixed the aside-parts on the frontpage; a small about-section, a photo of myself, a list of public profiles, a list of selected projects, and a list content on this site. That was done by simply copying the content from the old site, modifying it to the jade syntax in index.pug.
 
 ## Importing old posts and tags
 

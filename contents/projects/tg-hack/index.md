@@ -1,7 +1,7 @@
 ---
 title: "TG Hacking Compo"
 status: complete
-template: project.jade
+template: project.pug
 tags: Node.js, Express, hacking
 repository: https://bitbucket.org/megoth/tg-hack
 ---

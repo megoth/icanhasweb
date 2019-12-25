@@ -2,7 +2,7 @@
 title: "Filosofi – Fôr til hjernen eller kjedelig møkk?"
 author: arnehass
 date: 2007-05-02
-template: article.jade
+template: article.pug
 tags: aftenposten, arne næss, ex.phil., herner sæverot, ken robinson
 original: https://megoth.wordpress.com/2007/05/02/filosofi-for-til-hjernen-eller-kjedelig-m%c3%b8kk/
 ---

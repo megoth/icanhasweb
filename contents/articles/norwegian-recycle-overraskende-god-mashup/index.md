@@ -2,7 +2,7 @@
 title: "Norwegian Recycle – Overraskende god mashup"
 author: arnehass
 date: 2008-06-03
-template: article.jade
+template: article.pug
 tags: donkey business, donkey kong country tribute, mashup, norwegian recycle, peter bull, so far
 original: https://megoth.wordpress.com/2008/06/03/norwegian-recycle-overraskende-god-mashup/
 ---

@@ -2,7 +2,7 @@
 title: "Hovefestivalen i bilder"
 author: arnehass
 date: 2007-07-03
-template: article.jade
+template: article.pug
 tags: arcade fire, Fest, hovefestivalen, me first and the gimme gimmes, modest mouse, oh no ono, picasa web album, the killers, the noisettes
 original: https://megoth.wordpress.com/2007/07/03/hovefestivalen-i-bilder/
 ---

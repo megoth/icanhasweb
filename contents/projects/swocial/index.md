@@ -1,7 +1,7 @@
 ---
 title: "Swocial"
 status: inactive
-template: project.jade
+template: project.pug
 tags: Semantic Web, distributed systems
 url: http://swocial.github.io/
 repository: https://github.com/swocial/swocial.github.io

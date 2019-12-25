@@ -2,7 +2,7 @@
 title: "Et oppsett for å håndtere store mengder mail"
 author: arnehass
 date: 2010-11-14
-template: article.jade
+template: article.pug
 tags: cyb, digsby, epost, facebook, fifo, gmail, google docs, google talk, gtd, ifi fadderordning, im, irc, rss, tasks
 original: https://megoth.wordpress.com/2010/11/14/et-oppsett-for-a-handtere-store-mengder-mail/
 ---

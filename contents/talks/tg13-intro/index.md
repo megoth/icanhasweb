@@ -2,7 +2,7 @@
 title: "Introduksjon til JavaScript"
 author: arnehass
 date: 2013-03-28
-template: talk.jade
+template: talk.pug
 tags: presentation, javascript, impress.js
 url: http://pres.icanhasweb.net/tg13-intro/
 repository: https://github.com/megoth/tg13-intro/

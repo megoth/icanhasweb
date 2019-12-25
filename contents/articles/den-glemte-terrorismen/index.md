@@ -2,7 +2,7 @@
 title: "Den glemte terrorismen"
 author: arnehass
 date: 2007-08-09
-template: article.jade
+template: article.pug
 tags: Europa, terrorisme
 original: https://megoth.wordpress.com/2007/08/09/den-glemte-terrorismen/
 ---

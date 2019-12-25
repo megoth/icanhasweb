@@ -2,7 +2,7 @@
 title: "“/usr/bin/ld: cannot find -lz” when building node.js"
 author: arnehass
 date: 2012-01-19
-template: article.jade
+template: article.pug
 tags: build, buster.js, node.js, tdd
 original: https://icanhasweb.wordpress.com/2012/01/19/usrbinld-cannot-find-lz-when-building-node-js/
 ---

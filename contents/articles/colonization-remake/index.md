@@ -2,7 +2,7 @@
 title: "Colonization remake"
 author: arnehass
 date: 2008-06-10
-template: article.jade
+template: article.pug
 tags: civilization, colonization, remake, sid meier
 original: https://megoth.wordpress.com/2008/06/10/colonization-remake/
 ---

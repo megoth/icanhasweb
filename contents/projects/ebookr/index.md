@@ -1,7 +1,7 @@
 ---
 title: "ebookr"
 status: inactive
-template: project.jade
+template: project.pug
 tags: e-book, framework, Pandoc, LaTeX, Kindle
 repository: https://github.com/ebookr/ebookr
 ---

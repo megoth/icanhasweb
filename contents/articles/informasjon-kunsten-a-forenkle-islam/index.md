@@ -2,7 +2,7 @@
 title: "Informasjon: Kunsten å forenkle Islam"
 author: arnehass
 date: 2009-03-04
-template: article.jade
+template: article.pug
 tags: debatt, Informasjon, Islam, islamisering, islamister, Kultur, pat condell, Politikk, Religion, snikislamisering, wafa sultan
 original: https://megoth.wordpress.com/2009/03/04/informasjon-kunsten-a-forenkle-islam/
 ---

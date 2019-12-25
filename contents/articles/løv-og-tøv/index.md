@@ -2,7 +2,7 @@
 title: "Løv og Tøv"
 author: arnehass
 date: 2007-10-26
-template: article.jade
+template: article.pug
 tags: dagen@ifi, dansefest, guitar hero, hankattforeningen st. 1902, hyblene, nordic garrison, norwegian gaming award, osi dans, regi, studentersamfundet, technoport, trondheim, uka-07
 original: https://megoth.wordpress.com/2007/10/26/l%c3%b8v-og-t%c3%b8v/
 ---

@@ -2,7 +2,7 @@
 title: "Den siste tempelridder"
 author: arnehass
 date: 2009-01-28
-template: article.jade
+template: article.pug
 tags: bok, den siste tempelridder, mini-tvserie, the last templar
 original: https://megoth.wordpress.com/2009/01/28/den-siste-tempelridder/
 ---

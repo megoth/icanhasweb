@@ -2,7 +2,7 @@
 title: "Master's Thesis – preliminary work"
 author: arnehass
 date: 2010-12-27
-template: article.jade
+template: article.pug
 tags: api, data, irc, javascript, jquery, open data, rdf, Tim Berners-Lee, wiki
 original: https://icanhasweb.wordpress.com/2010/12/27/masters-thesis-preliminary-work/
 ---

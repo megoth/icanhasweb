@@ -2,7 +2,7 @@
 title: "Om homofile og deres rett til å ha barn"
 author: arnehass
 date: 2007-07-31
-template: article.jade
+template: article.pug
 tags: arve juritzen, barn, homofili, knut haavik, sija.no
 original: https://megoth.wordpress.com/2007/07/31/om-homofile-og-deres-rett-til-a-ha-barn/
 ---

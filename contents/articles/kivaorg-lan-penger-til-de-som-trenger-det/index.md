@@ -2,7 +2,7 @@
 title: "Kiva.org – Lån penger til de som trenger det"
 author: arnehass
 date: 2007-12-05
-template: article.jade
+template: article.pug
 tags: bill clinton, eksamen, kiva.org, oprah
 original: https://megoth.wordpress.com/2007/12/05/kivaorg-lan-penger-til-de-som-trenger-det/
 ---

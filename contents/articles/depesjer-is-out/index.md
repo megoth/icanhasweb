@@ -2,7 +2,7 @@
 title: "Depesjer is out"
 author: arnehass
 date: 2007-03-07
-template: article.jade
+template: article.pug
 tags: depesjer
 original: https://megoth.wordpress.com/2007/03/07/depesjer-is-out/
 ---

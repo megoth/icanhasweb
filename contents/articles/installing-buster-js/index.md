@@ -2,7 +2,7 @@
 title: Installing Buster.JS
 author: arnehass
 date: 2012-01-20
-template: article.jade
+template: article.pug
 tags: buster.js, node.js, npm.js, tdd, testing
 original: https://icanhasweb.wordpress.com/2012/01/20/installing-buster-js/
 ---

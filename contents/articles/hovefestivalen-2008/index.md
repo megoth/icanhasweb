@@ -2,7 +2,7 @@
 title: "Hovefestivalen 2008"
 author: arnehass
 date: 2008-07-03
-template: article.jade
+template: article.pug
 tags: animal alpha, animal collective, avenged sevenfold, bad religion, band of horses, beck, behemoth, bullet for my valentine, cavalera conspiracy, dimmu borgir, don juan dracula, duffy, festival, flogging molly, goldfrapp, hellacopters, hovefestivalen, in flames, jay-z, killswitch engage, klubbsju/mixhell, kritikk, les savy fav, mgmt, mstrkrft, Musikk, neon neon, nic, panic at the disco, saramanga six, satyricon, sigh & explode, slagsmålsklubben, sommer 2008, the kooks, the national bank, the raconteurs, the teenagers, the wombats, thom hell, tommy tokyo, truls & the trees, we
 original: https://megoth.wordpress.com/2008/07/03/hovefestivalen-2008/
 ---

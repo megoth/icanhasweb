@@ -2,7 +2,7 @@
 title: "CNN/YouTube Debates – et godt hjelpemiddel til demokratiet?"
 author: arnehass
 date: 2007-07-26
-template: article.jade
+template: article.pug
 tags: aftenposten, biden, clinton, cnn/youtube debates, dagbladet, dodd, edwards, kicinich, mike gravel, obama, richardson, youchoose, youtube
 original: https://megoth.wordpress.com/2007/07/26/cnnyoutube-debates-et-godt-hjelpemiddel-til-demokratiet/
 ---

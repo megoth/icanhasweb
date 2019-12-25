@@ -2,7 +2,7 @@
 title: "Bokomtale: Bulletproof Ajax av Jeremy Keith"
 author: arnehass
 date: 2007-04-20
-template: article.jade
+template: article.pug
 tags: ajax, bulletproof ajax, dom, hijax, javascript, jeremy keith, jesse james garrett, linkedin, xml
 original: https://megoth.wordpress.com/2007/04/20/bokomtale-bulletproof-ajax-av-jeremy-keith/
 ---

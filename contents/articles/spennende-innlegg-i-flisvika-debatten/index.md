@@ -2,7 +2,7 @@
 title: "Spennende innlegg i Flisvika-debatten"
 author: arnehass
 date: 2007-07-29
-template: article.jade
+template: article.pug
 tags: audun eng, aust agder blad, council for european urbanism, flisvika, snutter.no, youtube
 original: https://megoth.wordpress.com/2007/07/29/spennende-innlegg-i-flisvika-debatten/
 ---

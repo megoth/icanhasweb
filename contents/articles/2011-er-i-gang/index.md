@@ -2,7 +2,7 @@
 title: "2011 er i gang"
 author: arnehass
 date: 2011-01-09
-template: article.jade
+template: article.pug
 tags: 2011, action center, cybernetisk selskab, dagen@ifi, ifi, lonely planet, masteroppgave, ole johan dahls hus, read it later, regnskap, southeast asia, thailand, windows 7, økonomi
 original: https://megoth.wordpress.com/2011/01/09/2011-er-i-gang/
 ---

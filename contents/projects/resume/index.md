@@ -1,7 +1,7 @@
 ---
 title: "Resume"
 status: active
-template: project.jade
+template: project.pug
 tags: resume, LaTeX
 repository: https://github.com/megoth/resume
 ---

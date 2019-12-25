@@ -2,7 +2,7 @@
 title: "Hoppe strikk, kult?"
 author: arnehass
 date: 2008-04-03
-template: article.jade
+template: article.pug
 tags: breakdance, musikk video, yves larock
 original: https://megoth.wordpress.com/2008/04/03/hoppe-strikk-kult/
 ---

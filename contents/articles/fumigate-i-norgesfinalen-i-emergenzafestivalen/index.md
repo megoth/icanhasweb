@@ -2,7 +2,7 @@
 title: "Fumigate i Norgesfinalen i Emergenzafestivalen"
 author: arnehass
 date: 2007-06-10
-template: article.jade
+template: article.pug
 tags: betong, chateu neuf, emergenza-festivalen, Fest, Oslo
 original: https://megoth.wordpress.com/2007/06/10/fumigate-i-norgesfinalen-i-emergenzafestivalen/
 ---

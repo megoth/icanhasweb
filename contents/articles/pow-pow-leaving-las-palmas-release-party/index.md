@@ -2,7 +2,7 @@
 title: "Pow Pow – Leaving Las Palmas release-party"
 author: arnehass
 date: 2007-11-30
-template: article.jade
+template: article.pug
 tags: blå, Fest, konsert, leaving las palmas, nachspiel, Oslo, pow pow, release-party
 original: https://megoth.wordpress.com/2007/11/30/pow-pow-leaving-las-palmas-release-party/
 ---

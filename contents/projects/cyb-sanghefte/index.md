@@ -1,7 +1,7 @@
 ---
 title: "Cybernetisk Selskab sanghefte"
 status: active
-template: project.jade
+template: project.pug
 tags: LaTeX, songs, Cybernetisk Selskab
 repository: https://github.com/megoth/cyb-sanghefte
 ---

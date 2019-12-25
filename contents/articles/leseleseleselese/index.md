@@ -2,7 +2,7 @@
 title: "LeseLeseLeseLese!"
 author: arnehass
 date: 2009-01-02
-template: article.jade
+template: article.pug
 tags: adblock, del.icio.us, google ig, Informasjon, operator, stumbleupon, stylish, zotero
 original: https://megoth.wordpress.com/2009/01/02/leseleseleselese/
 ---

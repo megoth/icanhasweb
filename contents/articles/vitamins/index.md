@@ -2,7 +2,7 @@
 title: Vitamins
 author: arnehass
 date: 2013-02-02
-template: article.jade
+template: article.pug
 tags: bootstrap, busterjs, compass, d3.js, github, infographic, jquery, more than supplemental, nutritions, responsive web design, s.b.lattindesign, sass, underscore, vitamins
 original: http://icanhasweb.net/blog/2013/02/vitamins/
 ---

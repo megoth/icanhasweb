@@ -2,7 +2,7 @@
 title: "Politisk bloggere – James Kotecki"
 author: arnehass
 date: 2007-06-15
-template: article.jade
+template: article.pug
 tags: constitutionalist, james kotecki, mike gravel, national initiative, ron paul, steve colbert
 original: https://megoth.wordpress.com/2007/06/15/politisk-bloggere-james-kotecki/
 ---

@@ -2,7 +2,7 @@
 title: "Ikke interessert-funksjonen i Google Reader fungerer ikke!"
 author: arnehass
 date: 2010-07-15
-template: article.jade
+template: article.pug
 tags: google reader, not interested-function
 original: https://megoth.wordpress.com/2010/07/15/ikke-interessert-funksjonen-i-google-reader-fungerer-ikke/
 ---

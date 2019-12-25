@@ -2,7 +2,7 @@
 title: "Påske – tid for fyll og faenskap"
 author: arnehass
 date: 2007-04-08
-template: article.jade
+template: article.pug
 tags: 4cl, Fest, fyll, Hope, jam, jonny vang, påske, peterhead, prommen, Risør, standby, stumbleupon
 original: https://megoth.wordpress.com/2007/04/08/paske-tid-for-fyll-og-faenskap/
 ---

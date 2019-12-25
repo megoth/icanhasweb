@@ -5,17 +5,17 @@ module.exports = (env, callback) ->
       e.g. "tag": {"perPage": 10} ###
 
   paginatorDefaults =
-    template: 'index.jade' # template that renders pages
+    template: 'index.pug' # template that renders pages
     articles: 'articles' # directory containing contents to paginate
     first: 'index.html' # filename/url for first page
     filename: 'page/%d/index.html' # filename for rest of pages
     perPage: 2 # number of articles per page
 
-  tagDefaults = 
+  tagDefaults =
     filename: 'tag/%s/index.html' # => tag/:tagName/index.html
 
   # An implementation of underscore's extend function
-  extend2 = (dest, src) -> 
+  extend2 = (dest, src) ->
     for key, value of src
       dest[key] = src[key]
     dest
@@ -41,18 +41,18 @@ module.exports = (env, callback) ->
   allTags = []
 
   # return the home page of a tag
-  getTagHome = (tag) -> 
+  getTagHome = (tag) ->
     tagHomePages[tag]
 
   # return all tags
   getAllTags = () -> allTags
 
-  # return an array of tags in an article 
-  getTagsFromArticle = (article) -> 
+  # return an array of tags in an article
+  getTagsFromArticle = (article) ->
     if article.metadata.tags then article.metadata.tags.split(/,\s*/) else []
 
   # return a list of articles
-  getArticles = (contents) -> 
+  getArticles = (contents) ->
     if options.articles && typeof options.articles == 'string'
     then contents[options.articles]._.directories.map (item) -> item.index
     else if options.articles
@@ -112,7 +112,7 @@ module.exports = (env, callback) ->
     tags = processTags contents
 
     rv = {pages:{}}
-    
+
     # populate pages
     tags.forEach (tag) ->
       articles = getArticlesByTag contents, tag

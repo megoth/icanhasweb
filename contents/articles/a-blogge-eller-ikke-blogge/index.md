@@ -2,7 +2,7 @@
 title: "Å blogge eller ikke blogge"
 author: arnehass
 date: 2007-09-06
-template: article.jade
+template: article.pug
 tags: automatic, Blogging
 original: https://megoth.wordpress.com/2007/09/06/a-blogge-eller-ikke-blogge/
 ---

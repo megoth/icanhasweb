@@ -2,7 +2,7 @@
 title: "Tøyen-dramaet"
 author: arnehass
 date: 2010-01-12
-template: article.jade
+template: article.pug
 tags: amk, Oslo, politi, tulum, tøyen
 original: https://megoth.wordpress.com/2010/01/12/t%c3%b8yen-dramaet/
 ---

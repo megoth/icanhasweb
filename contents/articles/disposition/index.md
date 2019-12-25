@@ -2,7 +2,7 @@
 title: "Disposition"
 author: arnehass
 date: 2011-11-09
-template: article.jade
+template: article.pug
 tags: disposition, javascript, js3, rdf, rdfquery, semantic web, sparql, writing
 original: https://icanhasweb.wordpress.com/2011/11/09/disposition/
 ---

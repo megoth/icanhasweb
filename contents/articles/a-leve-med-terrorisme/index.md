@@ -2,7 +2,7 @@
 title: "Å leve med terrorisme"
 author: arnehass
 date: 2007-08-05
-template: article.jade
+template: article.pug
 tags: 
 original: https://megoth.wordpress.com/2007/08/05/a-leve-med-terrorisme/
 ---

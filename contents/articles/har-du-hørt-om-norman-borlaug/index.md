@@ -2,7 +2,7 @@
 title: "Har du hørt om Norman Borlaug?"
 author: arnehass
 date: 2007-07-23
-template: article.jade
+template: article.pug
 tags: den grønne revolusjon, norman borlaug, penn & teller bullshit, peta
 original: https://megoth.wordpress.com/2007/07/23/har-du-h%c3%b8rt-om-norman-borlaug/
 ---

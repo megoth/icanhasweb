@@ -2,7 +2,7 @@
 title: "Bjørn Stærk er tilbake"
 author: arnehass
 date: 2010-05-23
-template: article.jade
+template: article.pug
 tags: bjørn stærk, innvandring, irak, Islam, krigsblogger, liberalisme, multikulturell, usa
 original: https://megoth.wordpress.com/2010/05/23/bj%c3%b8rn-st%c3%a6rk-er-tilbake/
 ---

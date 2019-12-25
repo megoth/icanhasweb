@@ -2,7 +2,7 @@
 title: "I’m in!!!"
 author: arnehass
 date: 2007-07-20
-template: article.jade
+template: article.pug
 tags: distribuerte systemer og nettverk, Oslo, universitet i oslo
 original: https://megoth.wordpress.com/2007/07/20/kort-im-in/
 ---

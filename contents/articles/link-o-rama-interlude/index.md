@@ -2,7 +2,7 @@
 title: "Link-o-rama interlude"
 author: arnehass
 date: 2012-01-29
-template: article.jade
+template: article.pug
 tags: lesing, samsung galaxy tab, twitter
 original: https://megoth.wordpress.com/2012/01/29/link-o-rama-interlude/
 ---

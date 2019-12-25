@@ -2,7 +2,7 @@
 title: "Motivasjon, hvor er du?"
 author: arnehass
 date: 2011-05-22
-template: article.jade
+template: article.pug
 tags: 16. mai-galla, chateu neuf, DNS, eksamen, Escape, Essay, Informatikk, masteroppgave
 original: https://megoth.wordpress.com/2011/05/22/motivasjon-hvor-er-du/
 ---

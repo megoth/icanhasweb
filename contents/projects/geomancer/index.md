@@ -1,7 +1,7 @@
 ---
 title: "geomancer"
 status: complete
-template: project.jade
+template: project.pug
 tags: Lua, game, game jam
 repository: https://github.com/Team-Permadeath/geomancer
 ---

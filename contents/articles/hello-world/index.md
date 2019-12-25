@@ -2,7 +2,7 @@
 title: "Ny blogg lansert"
 author: arnehass
 date: 2007-02-25
-template: article.jade
+template: article.pug
 tags: arnehassel.com, everything jake, megoth
 original: https://megoth.wordpress.com/2007/02/25/hello-world/
 ---

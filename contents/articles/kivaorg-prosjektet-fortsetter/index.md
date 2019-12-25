@@ -2,7 +2,7 @@
 title: "Kiva.org – prosjektet fortsetter"
 author: arnehass
 date: 2008-08-19
-template: article.jade
+template: article.pug
 tags: Bolivia, Corazones de Oro, kiva.org, lån, penger
 original: https://megoth.wordpress.com/2008/08/19/kivaorg-prosjektet-fortsetter/
 ---

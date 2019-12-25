@@ -16,17 +16,17 @@ block header
   nav
     ul#CvNavigation.nav.nav-pills
       li
-        a(href="#description") Description
+        a.nav-link(href="#description") Description
       li
-        a(href="#work") Work Experience
+        a.nav-link(href="#work") Work Experience
       li
-        a(href="#education") Education
+        a.nav-link(href="#education") Education
       li
-        a(href="#skills") Skills
+        a.nav-link(href="#skills") Skills
       li
-        a(href="#projects") Projects
+        a.nav-link(href="#projects") Projects
       li
-        a(href="#voluntary") Voluntary Work
+        a.nav-link(href="#voluntary") Voluntary Work
 
 block content
   #CvContent.block-content
@@ -53,10 +53,10 @@ block content
       h3 Education
       dl
         dt 2007-2012
-        dd 
+        dd
           a(href="http://www.uio.no/studier/program/inf-prof/distribuerte-systemer/") M.Sc., Master in Distributed Systems and Networks, University of Oslo, Oslo, Norway
         dt 2003-2007
-        dd 
+        dd
           a(href="http://www.umb.no/studietilbud/artikkel/bachelor-i-okonomi-og-administrasjon") B.Ec., Bachelor of Economics, University of Life Sciences, Ås, Norway
     section#skills
       h3 Skills
@@ -72,11 +72,11 @@ block content
                 dl.list-skills
                   each skill in topic.skills
                       dt= skill.name
-                      dd.progress.progress-striped
+                      dd.progress
                         - attained = skill.attained * 10;
                         - aspire = (skill.aspire - skill.attained) * 10;
-                        div(style="width: "+attained+"%").bar.bar-success #{skill.attained}/10
-                        div(style="width: "+aspire+"%").bar.bar-warning #{skill.aspire}/10
+                        div(style="width: "+attained+"%").progress-bar.progress-bar-striped.progress-bar--success #{skill.attained}/10
+                        div(style="width: "+aspire+"%").progress-bar.progress-bar-striped.progress-bar--warning #{skill.aspire}/10
     section#projects
       h3 Projects
       div
@@ -94,13 +94,13 @@ block content
                 dd= project.technologies
     section#voluntary
       h3 Voluntary Work and Honorary Positions
-      dl 
+      dl
         dt 2015-
         dd
           a(href="http://ordenen.ifi.uio.no/") Hennes Majestet Keiserpingvinen den Fornemme
           | : Stormester
         dt 2012-
-        dd 
+        dd
           a(href="http://holderdeord.no") Holder de ord
           | : Developer
         dt 2009-2014
@@ -113,10 +113,10 @@ block content
             li Planned, executed and completed the follow-up associated with the Birthday Party in the occasion of the 200-year celebration of University of Oslo.
             li Cooperated with the department and UiO:200, the Anniversary Secreatariat, and executed a party for almost 5 000 people.
         dt 2003-2007
-        dd 
+        dd
           a(href="http://iaeste.no/") IAESTE
           | : Computer Manager, Leader, Treasurerer, Vice Leader
         dt 2004, 2006
-        dd 
+        dd
           a(href="http://www.ukaiaas.no/") Uka i Ås
           | : Webmaster, Guard

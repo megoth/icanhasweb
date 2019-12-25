@@ -2,7 +2,7 @@
 title: "Prioriteringer"
 author: arnehass
 date: 2011-09-30
-template: article.jade
+template: article.pug
 tags: cute, cybernetisk selskab, det norske studentersamfund, google reader, kontrib.it, webcomic
 original: https://megoth.wordpress.com/2011/09/30/prioriteringer/
 ---

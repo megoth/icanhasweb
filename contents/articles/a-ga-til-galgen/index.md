@@ -2,7 +2,7 @@
 title: "Å gå til galgen"
 author: arnehass
 date: 2007-04-14
-template: article.jade
+template: article.pug
 tags: gerd liv valla, lo, tabloid, tunnelsaken
 original: https://megoth.wordpress.com/2007/04/14/a-ga-til-galgen/
 ---

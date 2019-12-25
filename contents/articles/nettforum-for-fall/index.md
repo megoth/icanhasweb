@@ -2,7 +2,7 @@
 title: "Nettforum for fall"
 author: arnehass
 date: 2007-04-22
-template: article.jade
+template: article.pug
 tags: anonymitet, dagbladet, e-signatur, flaming, google search history, hitling, jarle aabø, linkedin, trolling, vg
 original: https://megoth.wordpress.com/2007/04/22/nettforum-for-fall/
 ---

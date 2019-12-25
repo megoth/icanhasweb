@@ -2,7 +2,7 @@
 title: "NRKs bruk av torrent-teknologi"
 author: arnehass
 date: 2008-03-08
-template: article.jade
+template: article.pug
 tags: filesharing, lars monsen, linkedin, miro, nordkalotten 365, nrk, nrkbeta, rss, torrent
 original: https://megoth.wordpress.com/2008/03/08/nrks-bruk-av-torrent-teknologi/
 ---

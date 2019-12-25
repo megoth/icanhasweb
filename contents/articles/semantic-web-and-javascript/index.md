@@ -2,7 +2,7 @@
 title: "Semantic Web and JavaScript"
 author: arnehass
 date: 2011-03-06
-template: article.jade
+template: article.pug
 tags: essay, javascript, jquery, rdf, rdfs, semantic web, sparql
 original: https://icanhasweb.wordpress.com/2011/03/06/semantic-web-and-javascript/
 ---

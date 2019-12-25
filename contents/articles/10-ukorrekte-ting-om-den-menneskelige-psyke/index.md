@@ -2,7 +2,7 @@
 title: "10 politisk ukorrekte ting om den menneskelige psyke"
 author: arnehass
 date: 2007-07-07
-template: article.jade
+template: article.pug
 tags: evolusjonspsykologi
 original: https://megoth.wordpress.com/2007/07/07/10-ukorrekte-ting-om-den-menneskelige-psyke/
 ---

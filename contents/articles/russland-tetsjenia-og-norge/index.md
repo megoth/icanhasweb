@@ -2,7 +2,7 @@
 title: "Russland, Tetsjenia og Norge"
 author: arnehass
 date: 2007-11-06
-template: article.jade
+template: article.pug
 tags: anna politkovskaya, norge, oksana chelysheva, putin, real news, russland, shtokman, statoilhydro, tetsjenia
 original: https://megoth.wordpress.com/2007/11/06/russland-tetsjenia-og-norge/
 ---

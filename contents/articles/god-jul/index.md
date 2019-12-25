@@ -2,7 +2,7 @@
 title: "God jul (og etterhvert godt nytt år)!"
 author: arnehass
 date: 2010-12-27
-template: article.jade
+template: article.pug
 tags: eksamener, i can has web, jul, julebord, julefeiring, masteroppgave, twitter
 original: https://megoth.wordpress.com/2010/12/27/god-jul/
 ---

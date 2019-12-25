@@ -2,7 +2,7 @@
 title: "Nettleser-drøm"
 author: arnehass
 date: 2008-01-25
-template: article.jade
+template: article.pug
 tags: Tagged with a list apart, css, doctype, firefox, html, iaeste, ie8, internet explorer, ipod, kompatibilitet, linkedin, nettleser, opera, safari, sid2008
 original: https://megoth.wordpress.com/2008/01/25/nettleser-dr%c3%b8m/
 ---

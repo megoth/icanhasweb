@@ -2,7 +2,7 @@
 title: Updated design
 author: arnehass
 date: 2012-12-07
-template: article.jade
+template: article.pug
 tags: icanhasweb-splash, minimalist, wordpress theme
 original: http://icanhasweb.net/blog/2012/12/updated-design/
 ---

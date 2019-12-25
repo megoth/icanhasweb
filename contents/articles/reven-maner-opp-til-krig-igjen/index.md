@@ -2,7 +2,7 @@
 title: "Reven maner opp til krig – igjen…"
 author: arnehass
 date: 2007-09-08
-template: article.jade
+template: article.pug
 tags: fox news, irak, iran, midtøsten
 original: https://megoth.wordpress.com/2007/09/08/reven-maner-opp-til-krig-igjen/
 ---

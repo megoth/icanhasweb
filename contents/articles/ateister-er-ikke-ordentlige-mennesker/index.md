@@ -2,7 +2,7 @@
 title: "Ateister er ikke ordentlige mennesker"
 author: arnehass
 date: 2009-06-06
-template: article.jade
+template: article.pug
 tags: ateister
 original: https://megoth.wordpress.com/2009/06/06/ateister-er-ikke-ordentlige-mennesker/
 ---

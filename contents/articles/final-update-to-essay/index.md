@@ -2,7 +2,7 @@
 title: "Final update to essay"
 author: arnehass
 date: 2011-07-25
-template: article.jade
+template: article.pug
 tags: essay, javascript, rdfquery, semantic web
 original: https://icanhasweb.wordpress.com/2011/07/25/final-update-to-essay/
 ---

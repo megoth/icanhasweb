@@ -2,7 +2,7 @@
 title: "I’m Sorry Mario"
 author: arnehass
 date: 2007-11-21
-template: article.jade
+template: article.pug
 tags: galaxy, mario, wii
 original: https://megoth.wordpress.com/2007/11/21/im-sorry-mario/
 ---

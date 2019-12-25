@@ -2,7 +2,7 @@
 title: "3 ufine om by:Larm"
 author: arnehass
 date: 2009-02-22
-template: article.jade
+template: article.pug
 tags: by:Larm, einar stray, konsert, Oslo, publikum
 original: https://megoth.wordpress.com/2009/02/22/3-ufine-om-bylarm/
 ---

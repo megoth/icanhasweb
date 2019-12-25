@@ -2,7 +2,7 @@
 title: "- “Krigen er ikke her, krigen er der nede, ikke sant”"
 author: arnehass
 date: 2009-01-08
-template: article.jade
+template: article.pug
 tags: demonstrering, gaza, israel
 original: https://megoth.wordpress.com/2009/01/08/krigen-er-ikke-her-krigen-er-der-nede-ikke-sant/
 ---

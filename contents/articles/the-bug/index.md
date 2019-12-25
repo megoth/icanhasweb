@@ -2,7 +2,7 @@
 title: "The BUG"
 author: arnehass
 date: 2007-12-02
-template: article.jade
+template: article.pug
 tags: bug labs, bug modules, linkedin, the bug
 original: https://megoth.wordpress.com/2007/12/02/the-bug/
 ---

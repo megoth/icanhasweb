@@ -2,7 +2,7 @@
 title: "One down, three to go. Imens: Oppdagelser, The Daily Show og Second Chance"
 author: arnehass
 date: 2007-03-18
-template: article.jade
+template: article.pug
 tags: afghanistan, bill clinton, george h.w. bush, george w. bush, iran, jon stewart, the daily show, zbigniew brzezinski
 original: https://megoth.wordpress.com/2007/03/16/second-chance-three-presdidents-and-the-crisis-of-american-superpower/
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Talks"
 author: arnehass
-template: talks.jade
+template: talks.pug
 ---
 
 Presentations I've created.

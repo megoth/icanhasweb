@@ -2,7 +2,7 @@
 title: "Bjørn Stærk tilnærming til bibelen"
 author: arnehass
 date: 2007-10-07
-template: article.jade
+template: article.pug
 tags: bibelen, bjørn stærk, Litteratur
 original: https://megoth.wordpress.com/2007/10/07/bj%c3%b8rn-st%c3%a6rk-tiln%c3%a6rming-til-bibelen/
 ---

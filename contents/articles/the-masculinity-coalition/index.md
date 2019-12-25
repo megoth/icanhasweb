@@ -2,7 +2,7 @@
 title: "The Masculinity Coalition"
 author: arnehass
 date: 2008-04-03
-template: article.jade
+template: article.pug
 tags: dashell driscoll, feminisme, Kultur, maskulinitet, pitzer college, the masculinity coalition
 original: https://megoth.wordpress.com/2008/04/03/the-masculinity-coalition/
 ---

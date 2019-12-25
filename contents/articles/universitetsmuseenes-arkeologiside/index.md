@@ -2,7 +2,7 @@
 title: "Universitetsmuseenes Arkeologiside"
 author: arnehass
 date: 2010-05-23
-template: article.jade
+template: article.pug
 tags: arkeologi, historie, Kultur, norge, universitetsmuseene
 original: https://megoth.wordpress.com/2010/05/23/universitetsmuseenes-arkeologiside/
 ---

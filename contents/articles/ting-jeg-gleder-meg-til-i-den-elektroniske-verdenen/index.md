@@ -2,7 +2,7 @@
 title: "Ting jeg gleder meg til (i den elektroniske verdenen)"
 author: arnehass
 date: 2007-05-30
-template: article.jade
+template: article.pug
 tags: apple, drobo, Google, iphone, jeff han, optimus maximus keyboard, slate, surface, TED
 original: https://megoth.wordpress.com/2007/05/30/ting-jeg-gleder-meg-til-i-den-elektroniske-verdenen/
 ---

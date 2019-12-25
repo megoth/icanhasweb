@@ -2,7 +2,7 @@
 title: "Virkelige nyheter"
 author: arnehass
 date: 2007-08-07
-template: article.jade
+template: article.pug
 tags: Europa, terrorisme
 original: https://megoth.wordpress.com/2007/08/07/virkelige-nyheter/
 ---

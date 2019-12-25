@@ -2,7 +2,7 @@
 title: "Dragefest i Risør"
 author: arnehass
 date: 2007-07-05
-template: article.jade
+template: article.pug
 tags: aust agder blad, dragefest, Risør
 original: https://megoth.wordpress.com/2007/07/05/dragefest-i-ris%c3%b8r/
 ---

@@ -2,7 +2,7 @@
 title: "Medier og informasjon, kvalitet og kvantitet"
 author: arnehass
 date: 2007-03-09
-template: article.jade
+template: article.pug
 tags: aftenposten, charlotte sissener, del.icio.us, digg, google news, guri hjeltnes, hans erik matre, initiative nachrightenaufklärung, linkedin, project censored, stumbleupon, trygve aas olsen, vg
 original: https://megoth.wordpress.com/2007/03/09/medier-og-informasjon-kvalitet-og-kvantitet/
 ---

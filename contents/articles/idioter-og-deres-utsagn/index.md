@@ -2,7 +2,7 @@
 title: "Idioter og deres utsagn"
 author: arnehass
 date: 2007-07-30
-template: article.jade
+template: article.pug
 tags: charlote finnesand, frp
 original: https://megoth.wordpress.com/2007/07/30/idioter-og-deres-utsagn/
 ---

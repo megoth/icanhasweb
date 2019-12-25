@@ -2,7 +2,7 @@
 title: A new beginning
 author: arnehass
 date: 2012-11-01
-template: article.jade
+template: article.pug
 tags: css, github, javascript, master thesis, semantic web, web technologies
 original: http://icanhasweb.net/blog/2012/11/a-new-beginning/
 ---

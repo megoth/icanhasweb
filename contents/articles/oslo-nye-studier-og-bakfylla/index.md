@@ -2,7 +2,7 @@
 title: "Oslo, nye studier og bakfylla"
 author: arnehass
 date: 2007-08-16
-template: article.jade
+template: article.pug
 tags: blindern, Fest, iaeste, kringsjå, mikrobryggeriet, Oslo, realistforeningen, thor heyerdahl
 original: https://megoth.wordpress.com/2007/08/16/oslo-nye-studier-og-bakfylla/
 ---

@@ -26,11 +26,11 @@
   },
   "tag": {
     "articles": [
-      "articles", 
+      "articles",
       "projects",
       "talks"
     ],
     "perPage": 100,
-    "template": "tag.jade"
+    "template": "tag.pug"
   }
 }

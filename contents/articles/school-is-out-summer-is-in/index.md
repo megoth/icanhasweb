@@ -2,7 +2,7 @@
 title: "School is out! Summer is in!"
 author: arnehass
 date: 2007-05-25
-template: article.jade
+template: article.pug
 tags: Ås, beslutningsanalyse I, betong, emergenza-festivalen, førerkort, gamle christiania, grill'n'chill, Irland, john dee, luftforsvaret, madla, prommen, Risør, sjøforsvaret
 original: https://megoth.wordpress.com/2007/05/25/school-is-out-summer-is-in/
 ---

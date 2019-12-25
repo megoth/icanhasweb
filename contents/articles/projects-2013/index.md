@@ -2,7 +2,7 @@
 title: Projects 2013
 author: arnehass
 date: 2012-12-12
-template: article.jade
+template: article.pug
 tags: gamepad, gamepad.js, graphitejs, holder de ord, norwegian developer conference, qcon london, rubik's cube, tetris, the gathering, three.js, w3c, web rebels
 original: http://icanhasweb.net/blog/2012/12/projects-2013/
 ---

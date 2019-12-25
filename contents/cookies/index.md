@@ -1,7 +1,7 @@
 ---
 title: "Use of cookies on icanhasweb.net"
 author: arnehass
-template: info.jade
+template: info.pug
 ---
 
 This website makes use of cookies. This page lists the services that are enabled because of this.

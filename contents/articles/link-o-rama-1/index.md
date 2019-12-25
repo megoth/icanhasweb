@@ -2,7 +2,7 @@
 title: "Link-o-rama #1"
 author: arnehass
 date: 2012-01-15
-template: article.jade
+template: article.pug
 tags: christian johansen, espen andersen, haredim, historie, iran, Islam, israel, javascript, kjønn, krig, lov, midtøsten, Politikk, Religion, requirejs, rle, samfunn, sex, shoaib mohammad sultan, sinon.js, somalieren, ultraortodokse jøder, usa
 original: https://megoth.wordpress.com/2012/01/10/link-o-rama-1/
 ---

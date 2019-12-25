@@ -2,7 +2,7 @@
 title: "Helvetes Valla-sak!"
 author: arnehass
 date: 2007-03-10
-template: article.jade
+template: article.pug
 tags: gerd liv valla
 original: https://megoth.wordpress.com/2007/03/10/helvetes-valla-sak/
 ---

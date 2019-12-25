@@ -2,7 +2,7 @@
 title: "Eksperiment: Høre på nordisk dance"
 author: arnehass
 date: 2008-01-15
-template: article.jade
+template: article.pug
 tags: crap, dance, danmark, Musikk, nordisk, nordisk dance, norge, sverige
 original: https://megoth.wordpress.com/2008/01/06/eksperiment-h%c3%b8re-pa-nordisk-dance/
 ---

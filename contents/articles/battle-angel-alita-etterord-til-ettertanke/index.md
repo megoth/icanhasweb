@@ -2,7 +2,7 @@
 title: "Battle Angel Alita – etterord til ettertanke"
 author: arnehass
 date: 2008-01-15
-template: article.jade
+template: article.pug
 tags: anime, battle angel alita, manga, yukito kishiro
 original: https://megoth.wordpress.com/2008/01/15/battle-angel-alita-etterord-til-ettertanke/
 ---

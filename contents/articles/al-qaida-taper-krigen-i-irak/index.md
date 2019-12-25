@@ -2,7 +2,7 @@
 title: "Al-Qaida taper krigen i Irak…"
 author: arnehass
 date: 2007-11-20
-template: article.jade
+template: article.pug
 tags: iraq, war
 original: https://megoth.wordpress.com/2007/11/20/al-qaida-taper-krigen-i-irak/
 ---

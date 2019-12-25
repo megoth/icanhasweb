@@ -2,7 +2,7 @@
 title: "Vil utvide skjenkingen"
 author: arnehass
 date: 2007-04-17
-template: article.jade
+template: article.pug
 tags: acanthus, aust agder blad, risør bowling, risør reiselivslag, skjenkebevilling
 original: https://megoth.wordpress.com/2007/04/17/vil-utvide-skjenkingen/
 ---

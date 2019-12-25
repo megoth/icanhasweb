@@ -2,7 +2,7 @@
 title: "Min første masterfeed"
 author: arnehass
 date: 2007-03-08
-template: article.jade
+template: article.pug
 tags: linkedin, masterfeed, TED, yahoo pipes
 original: https://megoth.wordpress.com/2007/03/08/min-f%c3%b8rste-masterfeed/
 ---

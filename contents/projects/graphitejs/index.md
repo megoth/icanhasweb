@@ -1,7 +1,7 @@
 ---
 title: "graphitejs"
 status: inactive
-template: project.jade
+template: project.pug
 tags: Master thesis, JavaScript, Semantic Web, Buster.JS
 repository: https://github.com/megoth/graphitejs
 ---

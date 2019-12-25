@@ -2,7 +2,7 @@
 title: "Aurora – Design decisions"
 author: arnehass
 date: 2010-11-07
-template: article.jade
+template: article.pug
 tags: aurora, cms, cyb, cybernetisk selskab, descriptive code, django, escape, framework, graceful degradation, ifi, markup, ole johan dahls hus, progressive enhancement, semantic markup, w3c
 original: https://icanhasweb.wordpress.com/2010/11/07/aurora-design-decisions/
 ---

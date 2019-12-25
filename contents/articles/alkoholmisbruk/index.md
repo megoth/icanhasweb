@@ -2,7 +2,7 @@
 title: "Alkoholmisbruk"
 author: arnehass
 date: 2008-02-21
-template: article.jade
+template: article.pug
 tags: oppfinnelse, Video, øl
 original: https://megoth.wordpress.com/2008/02/21/alkoholmisbruk/
 ---

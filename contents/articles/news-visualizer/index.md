@@ -2,7 +2,7 @@
 title: "News Visualizer"
 author: arnehass
 date: 2011-01-16
-template: article.jade
+template: article.pug
 tags: dan albritton, data visualization, document-driven design, google news, implementation, javascript, marcos weskamp, master thesis, newsmap, open data, test-driven development
 original: https://icanhasweb.wordpress.com/2011/01/16/news-visualizer/
 ---

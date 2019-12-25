@@ -3,7 +3,7 @@ title: "I’m going keto"
 author: arnehass
 date: 2016-02-07
 updated: 2016-10-06
-template: article.jade
+template: article.pug
 tags: keto, ketogenic, diet, preparations
 ---
 

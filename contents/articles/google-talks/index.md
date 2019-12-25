@@ -2,7 +2,7 @@
 title: "Google Talks"
 author: arnehass
 date: 2007-04-27
-template: article.jade
+template: article.pug
 tags: author@google, Google, linkedin, strobe talbott, TED
 original: https://megoth.wordpress.com/2007/04/27/google-talks/
 ---

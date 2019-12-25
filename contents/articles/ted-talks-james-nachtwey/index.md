@@ -2,7 +2,7 @@
 title: "TED Talks: James Nachtwey"
 author: arnehass
 date: 2007-04-05
-template: article.jade
+template: article.pug
 tags: james nachtwey, linkedin, TED
 original: https://megoth.wordpress.com/2007/04/05/ted-talks-james-nachtwey/
 ---

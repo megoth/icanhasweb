@@ -2,7 +2,7 @@
 title: "Ramblings of a disturbed mind"
 author: arnehass
 date: 2016-01-13
-template: article.jade
+template: article.pug
 tags: writings, short story, fiction, thriller
 ---
 

@@ -2,7 +2,7 @@
 title: An approach to structuring your CSS
 author: arnehass
 date: 2012-11-08
-template: article.jade
+template: article.pug
 tags: smacss, 1140px, 960.gs, a list apart, blueprint, bootstrap, compass, css rules, css specificity, design shack, don't repeat others, don't repeat yourself, dro, dry, foundation, frameworks, grid, guidelines, inuit.css, less, less framework 4, media-query, oocss, principles, responsive web design, sass, separation of concerns, skeleton, soc, three-letter acronym, tla, yui css
 original: http://icanhasweb.net/blog/2012/11/an-approach-to-structuring-your-css/
 ---

@@ -2,7 +2,7 @@
 title: "Mens vi venter på The Elder Scrolls V: Fallout 3"
 author: arnehass
 date: 2008-04-28
-template: article.jade
+template: article.pug
 tags: bethesda, fallout 3, morrowind, oblivion, the elder scrolls, x-play
 original: https://megoth.wordpress.com/2008/04/28/mens-vi-venter-pa-the-elder-scrolls-v-fallout-3/
 ---

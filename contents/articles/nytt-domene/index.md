@@ -2,7 +2,7 @@
 title: "Nytt domene"
 author: arnehass
 date: 2012-11-01
-template: article.jade
+template: article.pug
 tags: baksia, cybernetisk selskab, framsia, galla, holder de ord, lambertseter, meetup, oslo open data forum, senter for pasientmedvirkning og samhandlingsforskning, stortinget
 original: https://megoth.wordpress.com/2012/11/01/nytt-domene/
 ---

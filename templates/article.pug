@@ -20,7 +20,7 @@ block content
         != typogr(page.html).typogrify()
         p.author.meta
             | #{ "Written by " }
-            mixin author(page.metadata.author)
+            +author(page.metadata.author)
     nav
         ul
             li

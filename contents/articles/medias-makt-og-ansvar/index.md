@@ -2,7 +2,7 @@
 title: "Medias makt og ansvar"
 author: arnehass
 date: 2007-03-19
-template: article.jade
+template: article.pug
 tags: fox news, monsanto corporation, stumbleupon, the corporation
 original: https://megoth.wordpress.com/2007/03/19/medias-makt-og-ansvar/
 ---

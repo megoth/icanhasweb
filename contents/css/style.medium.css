@@ -1,0 +1,170 @@
+/**
+ * Color scheme from http://colorschemedesigner.com/#3E11Tw0w0w0w0
+ */
+.block-container {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 43em;
+  padding: 0 1em; }
+
+.block-container-sticky {
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -5em;
+  min-height: 100%; }
+  .block-container-sticky .push {
+    display: block;
+    height: 5em; }
+
+.block-footer-sticky {
+  height: 5em;
+  margin: 0 auto; }
+
+@supports (display: flex) {
+  .block-single-aside {
+    display: flex;
+    flex-wrap: wrap; } }
+
+@supports not (display: flex) {
+  .block-single-aside:after {
+    content: "";
+    display: table;
+    clear: both; } }
+
+.block-single-aside .search {
+  margin-left: 0; }
+
+.block-single-container {
+  position: relative; }
+  .block-single-container hgroup {
+    height: 5em; }
+  .block-single-container .block-single-aside .navigation-main {
+    position: absolute;
+    top: 0;
+    right: 0; }
+
+.block-projects,
+.block-skills {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-column-gap: 1em; }
+
+@supports (display: flex) {
+  header[role="banner"] {
+    display: flex;
+    flex-wrap: nowrap; } }
+
+@supports not (display: flex) {
+  header[role="banner"]:after {
+    content: "";
+    display: table;
+    clear: both; } }
+
+header[role="banner"] hgroup {
+  margin-left: 0; }
+  header[role="banner"] hgroup:nth-child(2n+1) {
+    margin-left: 0; }
+  @supports (display: flex) {
+    header[role="banner"] hgroup {
+      flex: 1 1 17em; } }
+  @supports not (display: flex) {
+    header[role="banner"] hgroup {
+      float: left;
+      width: 17em; }
+      header[role="banner"] hgroup:nth-child(2n+1) {
+        clear: left; } }
+  header[role="banner"] hgroup.bottom {
+    display: flex;
+    align-items: flex-end; }
+
+header[role="banner"] nav {
+  margin-left: 0; }
+  header[role="banner"] nav:nth-child(2n+1) {
+    margin-left: 0; }
+  @supports (display: flex) {
+    header[role="banner"] nav {
+      flex: 0 0 16em; } }
+  @supports not (display: flex) {
+    header[role="banner"] nav {
+      float: right;
+      width: 16em; }
+      header[role="banner"] nav:nth-child(2n+1) {
+        clear: left; } }
+
+header nav[role="navigation"] ul a {
+  background: linear-gradient(90deg, #006366 25%, #00595c 50%, #006366 25%);
+  line-height: 4em;
+  margin-top: 0;
+  padding: 0;
+  padding-bottom: 1em;
+  position: relative;
+  text-align: center;
+  width: 4em; }
+  header nav[role="navigation"] ul a .triangle {
+    border-bottom: 1em solid #ffffff;
+    border-left: 2em solid transparent;
+    border-right: 2em solid transparent;
+    display: block;
+    height: 0;
+    position: absolute;
+    top: 4em;
+    width: 0; }
+
+main ~ aside {
+  display: flex;
+  flex-wrap: wrap; }
+  main ~ aside > article {
+    flex: 0 0 50%; }
+    main ~ aside > article > *:nth-child(n+2) {
+      padding: 0.5em;
+      padding-bottom: inherit;
+      padding-top: inherit; }
+
+body,
+html {
+  height: 100%; }
+
+body.article main ~ aside {
+  display: block; }
+
+body.cv section h4 {
+  margin-bottom: 0; }
+
+@supports (display: flex) {
+  #IndexAside {
+    display: flex;
+    flex-wrap: wrap; } }
+
+@supports not (display: flex) {
+  #IndexAside:after {
+    content: "";
+    display: table;
+    clear: both; } }
+
+@supports (display: flex) {
+  #IndexHeader {
+    display: flex;
+    flex-wrap: wrap; } }
+
+@supports not (display: flex) {
+  #IndexHeader:after {
+    content: "";
+    display: table;
+    clear: both; } }
+
+#IndexHeader hgroup {
+  line-height: 2.5em; }
+
+#SplashContainer .container-inner {
+  position: relative; }
+
+@supports (display: flex) {
+  #SplashSidebar .grid-row {
+    display: flex;
+    flex-wrap: wrap; } }
+
+@supports not (display: flex) {
+  #SplashSidebar .grid-row:after {
+    content: "";
+    display: table;
+    clear: both; } }

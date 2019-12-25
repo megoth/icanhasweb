@@ -2,7 +2,7 @@
 title: "Update to disposition"
 author: arnehass
 date: 2011-11-24
-template: article.jade
+template: article.pug
 tags: disposition, git, github, javascript, repository, semantic web, update
 original: https://icanhasweb.wordpress.com/2011/11/24/update-to-disposition/
 ---
