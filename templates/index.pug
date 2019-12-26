@@ -6,7 +6,7 @@ block vars
 block header
   h1
     a(href=locals.url)
-      span.first I Can 
+      span.first I Can
       span.second Has Web
   h3.site-description= locals.description
 
@@ -17,9 +17,8 @@ block aside
   article.block-content
     h3 About
     p
-      a(href="http://icanhasweb.net") icanhasweb.net
-      |  is the online home of 
-      a(href="mailto:arne.hassel@gmail.com") Arne Hassel
+      a(href=locals.url) icanhasweb.net
+      |  is the online home of Arne Hassel
       |, a web developer living and working in Oslo, Norway.
   article.block-content
     h3 Photo
@@ -30,17 +29,11 @@ block aside
     p My public profiles on the web.
     ul
       li
-        a(href="http://about.me/megoth") about.me
-      li
-        a(href="http://delicious.com/megoth") delicious
-      li
-        a(href="http://facebook.com/arne.hassel") facebook
-      li
         a(href="https://github.com/megoth") github
       li
-        a(href="http://linkedin.com/in/arnehassel") linkedin
+        a(href="https://linkedin.com/in/arnehassel") linkedin
       li
-        a(href="http://twitter.com/megoth") twitter
+        a(href="https://twitter.com/megoth") twitter
   article.block-content
     h3 Content
     p Content on this site.
@@ -48,8 +41,8 @@ block aside
       li
         a(href="/cv") Curriculum Vitae
       li
-        a(href="http://graphitethesis.icanhasweb.net/") Master thesis
+        a(href="https://graphitethesis.icanhasweb.net/") Master thesis
       li
-        a(href="http://sketches.icanhasweb.net/") Sketches
+        a(href="https://sketches.icanhasweb.net/") Sketches
       li
-        a(href="http://vis.icanhasweb.net/") Visualizations
+        a(href="https://vis.icanhasweb.net/") Visualizations

@@ -16,11 +16,15 @@
     "start": "npm run watch",
     "build": "npm-run-all build-*",
     "build-content": "wintersmith build",
-    "build-style": "copyfiles -f node_modules/icanhasweb-minimalist/dist/*.css contents/css",
     "build-fonts": "copyfiles -f node_modules/icanhasweb-minimalist/dist/fonts/* contents/fonts",
+    "build-styles": "copyfiles -f node_modules/icanhasweb-minimalist/dist/*.css contents/css",
+    "build-scripts": "webpack",
     "watch": "npm run watch-content",
     "watch-content": "wintersmith preview",
-    "build:public": "npm run build-style && wintersmith build --config config.prod.json"
+    "build:public": "rimraf build && npm-run-all build:public-* && wintersmith build --config config.prod.json",
+    "build:public-fonts": "npm run build-fonts",
+    "build:public-styles": "npm run build-fonts",
+    "build:public-scripts": "webpack --mode=production"
   },
   "dependencies": {
     "icanhasweb-minimalist": "^1.1.0",
@@ -32,6 +36,7 @@
   "devDependencies": {
     "copyfiles": "^2.1.1",
     "npm-run-all": "^4.1.5",
+    "rimraf": "^3.0.0",
     "webpack": "^4.41.4",
     "webpack-cli": "^3.3.10",
     "wintersmith": "^2.5.0"
