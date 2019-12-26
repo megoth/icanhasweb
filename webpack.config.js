@@ -9,6 +9,7 @@ module.exports = {
   output: {
     path: path.join(__dirname, '/contents/scripts'),
     filename: '[name].bundle.js',
+    globalObject: 'this'
   },
   optimization: {
     splitChunks: {
