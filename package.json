@@ -27,7 +27,7 @@
     "build:public-scripts": "webpack --mode=production"
   },
   "dependencies": {
-    "icanhasweb-minimalist": "^1.1.1",
+    "icanhasweb-minimalist": "^1.1.2",
     "marked": "^0.7.0",
     "moment": "^2.18.1",
     "typogr": "^0.6.8",
