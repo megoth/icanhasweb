@@ -23,7 +23,7 @@
     "watch-content": "wintersmith preview",
     "build:public": "rimraf build && npm-run-all build:public-* && wintersmith build --config config.prod.json",
     "build:public-fonts": "npm run build-fonts",
-    "build:public-styles": "npm run build-fonts",
+    "build:public-styles": "npm run build-styles",
     "build:public-scripts": "webpack --mode=production"
   },
   "dependencies": {
