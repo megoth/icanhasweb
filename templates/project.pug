@@ -11,7 +11,10 @@ block header
 
 
 block content
-  p Status: #{ page.metadata.status }
+  p
+    | Status: #{ page.metadata.status }
+    if page.metadata.project && page.metadata.status !== page.metadata.project
+      span  (project status: #{ page.metadata.project })
   ul
     if page.metadata.url
       li #{"URL: "}

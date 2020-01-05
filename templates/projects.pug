@@ -13,16 +13,15 @@ block content
   - }).value();
   .block-content
     != page.html
-  - projects = _(all_projects).filter(function (project) {
-  -   return project.metadata.status === 'active';
-  - });
   h2 Active projects
-  p.block-content Projects that are maintained and that I am having an active role in.
+  p.block-content Projects that I'm actively taking part in.
+  - projects = _(all_projects).filter(project => project.metadata.status === 'active');
   include projectList
-  - projects = _(all_projects).filter(function (project) {
-  -   return project.metadata.status !== 'active';
-  - });
-  h2 Not active projects
+  h2 Previous projects
+  p.block-content Projects that are active but where I've completed my active participation.
+  - projects = _(all_projects).filter(project => project.metadata.status !== 'active' && project.metadata.project === 'active');
+  include projectList
+  h2 Completed or inactive projects
   p.block-content Projects I've participated in before, and/or projects that simply aren't in active development anymore.
+  - projects = _(all_projects).filter(project => project.metadata.status !== 'active' && project.metadata.project !== 'active');
   include projectList
-  

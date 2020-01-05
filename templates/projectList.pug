@@ -1,10 +1,10 @@
 .block-posts
-  each project in projects
-    article
-      header
-        h3
-          a(href=project.url)= project.title
+  dl
+    each project in projects
+      dt
+        a(href=project.url)= project.title
+      dd
+        section.block-content
+          != project.html
         p.meta
           include projectMeta
-      section.block-content
-        != project.html

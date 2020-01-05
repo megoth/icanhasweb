@@ -1,7 +1,4 @@
-| Status: #{ project.metadata.status }, 
 if project.metadata.url
-  | URL: 
-  a(href=project.metadata.url)= project.metadata.url
-  |, 
-| Repository: 
-a(href=project.metadata.repository)= project.metadata.repository
+  a(href=project.metadata.url) Project site
+  |,&nbsp;
+a(href=project.metadata.repository) Repository

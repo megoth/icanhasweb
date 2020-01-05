@@ -1,6 +1,6 @@
 ---
 title: "hdo-quiz"
-status: active
+status: complete
 template: project.pug
 tags: Holder de ord, hybrid app, Ionic, javascript, Cordova
 repository: https://github.com/megoth/hdo-quiz

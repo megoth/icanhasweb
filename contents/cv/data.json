@@ -237,6 +237,7 @@
         },
         {
             "name": "CommuniCare tools",
+            "url": "http://www.spsresearch.no/",
             "period": "2010-2014",
             "role": "Lead developer",
             "technologies": "Umbraco, Microsoft SQL Server, LESS"
