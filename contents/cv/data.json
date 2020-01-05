@@ -16,96 +16,92 @@
                     "name": "Theory",
                     "skills": [
                         { "name": "Algorithms", "attained": 4, "aspire": 7 },
-                        { "name": "Computer architecture", "attained": 3, "aspire": 5 },
+                        { "name": "Computer architecture", "attained": 5, "aspire": 9 },
                         { "name": "Databases", "attained": 5, "aspire": 8 },
-                        { "name": "Datastructures", "attained": 6, "aspire": 7 },
-                        { "name": "Design patterns", "attained": 7, "aspire": 9 },
-                        { "name": "Logic", "attained": 4, "aspire": 8 },
-                        { "name": "Mathematics", "attained": 5, "aspire": 8 },
-                        { "name": "Modeling", "attained": 7, "aspire": 8 },
-                        { "name": "Qualitative research", "attained": 6, "aspire": 7 },
-                        { "name": "Semantic technologies", "attained": 7, "aspire": 9 },
-                        { "name": "Statistics", "attained": 3, "aspire": 6 },
-                        { "name": "System development", "attained": 7, "aspire": 10 }
+                        { "name": "Datastructures", "attained": 7, "aspire": 9 },
+                        { "name": "Design patterns", "attained": 8, "aspire": 10 },
+                        { "name": "Logic", "attained": 4, "aspire": 7 },
+                        { "name": "Mathematics", "attained": 5, "aspire": 7 },
+                        { "name": "Modeling", "attained": 7, "aspire": 10 },
+                        { "name": "Qualitative research", "attained": 4, "aspire": 4 },
+                        { "name": "Linked data", "attained": 8, "aspire": 10 },
+                        { "name": "Statistics", "attained": 3, "aspire": 5 },
+                        { "name": "System development", "attained": 8, "aspire": 10 }
                     ]
                 },
                 {
                     "name": "Programming",
                     "skills": [
-                        { "name": "Assembly", "attained": 2, "aspire": 2 },
-                        { "name": "C", "attained": 4, "aspire": 6 },
-                        { "name": "C#", "attained": 5, "aspire": 8 },
-                        { "name": "Documentation", "attained": 5, "aspire": 9 },
-                        { "name": "Java", "attained": 5, "aspire": 6 },
-                        { "name": "JavaScript", "attained": 7, "aspire": 10 },
-                        { "name": "PHP", "attained": 4, "aspire": 6 },
-                        { "name": "Python", "attained": 4, "aspire": 9 },
-                        { "name": "Regex", "attained": 3, "aspire": 9 },
-                        { "name": "Ruby", "attained": 2, "aspire": 6 },
+                        { "name": "Assembly", "attained": 1, "aspire": 1 },
+                        { "name": "C", "attained": 3, "aspire": 3 },
+                        { "name": "C#", "attained": 4, "aspire": 4 },
+                        { "name": "Documentation", "attained": 5, "aspire": 10 },
+                        { "name": "Java", "attained": 3, "aspire": 3 },
+                        { "name": "JavaScript", "attained": 8, "aspire": 10 },
+                        { "name": "PHP", "attained": 2, "aspire": 2 },
+                        { "name": "Python", "attained": 3, "aspire": 7 },
+                        { "name": "Regex", "attained": 3, "aspire": 6 },
+                        { "name": "Ruby", "attained": 2, "aspire": 2 },
                         { "name": "Scrum", "attained": 5, "aspire": 7 },
                         { "name": "SPARQL", "attained": 4, "aspire": 7 },
-                        { "name": "SQL", "attained": 6, "aspire": 7 },
-                        { "name": "Testing (TDD)", "attained": 5, "aspire": 9 },
-                        { "name": "XSLT", "attained": 5, "aspire": 5 }
+                        { "name": "SQL", "attained": 4, "aspire": 4 },
+                        { "name": "Testing (TDD)", "attained": 7, "aspire": 10 },
+                        { "name": "XSLT", "attained": 3, "aspire": 3 }
                     ]
                 },
                 {
                     "name": "Stylesheet design",
                     "skills": [
                         { "name": "CSS", "attained": 8, "aspire": 10 },
-                        { "name": "LESS", "attained": 6, "aspire": 8 },
-                        { "name": "Sass", "attained": 7, "aspire": 9 },
-                        { "name": "Compass", "attained": 5, "aspire": 8 }
+                        { "name": "LESS", "attained": 6, "aspire": 6 },
+                        { "name": "Sass/Scss", "attained": 8, "aspire": 9 },
+                        { "name": "CSS-in-JS", "attained": 4, "aspire": 9 }
                     ]
                 },
                 {
-                    "name": "Markup",
+                    "name": "Formats",
                     "skills": [
                         { "name": "HTML", "attained": 8, "aspire": 10 },
-                        { "name": "JSON", "attained": 8, "aspire": 10 },
-                        { "name": "XML", "attained": 5, "aspire": 5 }
+                        { "name": "JSON", "attained": 10, "aspire": 10 },
+                        { "name": "XML", "attained": 5, "aspire": 5 },
+                        { "name": "Turtle", "attained": 8, "aspire": 10 },
+                        { "name": "JSON-lD", "attained": 8, "aspire": 10 },
+                        { "name": "RDF/XML", "attained": 4, "aspire": 7 }
                     ]
                 },
                 {
                     "name": "Design",
                     "skills": [
                         { "name": "Design for mobile", "attained": 5, "aspire": 9 },
-                        { "name": "Graphic design", "attained": 3, "aspire": 5 },
+                        { "name": "Graphic design", "attained": 3, "aspire": 3 },
                         { "name": "Information design", "attained": 6, "aspire": 9 },
                         { "name": "Interaction design", "attained": 4, "aspire": 8 },
-                        { "name": "Responsive design", "attained": 7, "aspire": 10 }
+                        { "name": "Responsive design", "attained": 7, "aspire": 10 },
+                        { "name": "User experience design", "attained": 5, "aspire": 8 }
                     ]
                 },
                 {
                     "name": "Frameworks",
                     "skills": [
-                        { "name": ".NET MVC", "attained": 5, "aspire": 8 },
-                        { "name": "Compass", "attained": 6, "aspire": 9 },
-                        { "name": "Django", "attained": 3, "aspire": 8 },
-                        { "name": "jQuery", "attained": 8, "aspire": 10 },
-                        { "name": "Ruby on Rails", "attained": 2, "aspire": 6 },
-                        { "name": "Umbraco", "attained": 5, "aspire": 7 },
+                        { "name": ".NET MVC", "attained": 4, "aspire": 4 },
+                        { "name": "Angular", "attained": 4, "aspire": 7 },
+                        { "name": "AngularJS", "attained": 8, "aspire": 8 },
+                        { "name": "Django", "attained": 2, "aspire": 2 },
+                        { "name": "Enonic XP", "attained": 6, "aspire": 6 },
+                        { "name": "React", "attained": 6, "aspire": 10 },
+                        { "name": "Ruby on Rails", "attained": 2, "aspire": 2 },
+                        { "name": "Svelte", "attained": 4, "aspire": 9 },
+                        { "name": "Umbraco", "attained": 2, "aspire": 2 },
+                        { "name": "Vue", "attained": 3, "aspire": 7 },
                         { "name": "Wordpress", "attained": 5, "aspire": 7 }
                     ]
                 },
                 {
                     "name": "OS",
                     "skills": [
-                        { "name": "OSX", "attained": 6, "aspire": 7 },
+                        { "name": "OSX", "attained": 7, "aspire": 7 },
                         { "name": "Ubuntu Linux", "attained": 4, "aspire": 9 },
-                        { "name": "Windows 7", "attained": 8, "aspire": 8 },
-                        { "name": "Windows 8", "attained": 6, "aspire": 7 },
-                        { "name": "Windows Vista", "attained": 7, "aspire": 7 },
-                        { "name": "Windows XP", "attained": 8, "aspire": 8 }
-                    ]
-                },
-                {
-                    "name": "Program suites",
-                    "skills": [
-                        { "name": "MS Office", "attained": 8, "aspire": 8 },
-                        { "name": "Open Office", "attained": 6, "aspire": 7 },
-                        { "name": "Photoshop CS4", "attained": 4, "aspire": 6 },
-                        { "name": "Visual Studio", "attained": 7, "aspire": 9 }
+                        { "name": "Windows", "attained": 5, "aspire": 5 }
                     ]
                 }
             ]
@@ -179,7 +175,7 @@
                 {
                     "name": "Languages",
                     "skills": [
-                        { "name": "English", "attained": 7, "aspire": 9 },
+                        { "name": "English", "attained": 8, "aspire": 10 },
                         { "name": "Norwegian", "attained": 9, "aspire": 10 }
                     ]
                 }
@@ -188,8 +184,36 @@
     ],
     "projects": [
         {
+            "name": "Solid Data Browser",
+            "url": "https://github.com/solid/mashlib",
+            "period": "2019-",
+            "role": "Team lead",
+            "technologies": "JavaScript, TypeScript, Linked Data, webpack, Node, Sass"
+        },
+        {
+            "name": "Node Solid Server",
+            "url": "https://github.com/solid/node-solid-server",
+            "period": "2018",
+            "role": "Senior front end developer",
+            "technologies": "JavaScript, Node, RDF, Linked Data"
+        },
+        {
+            "name": "Tine Kjøkken",
+            "url": "https://www.tine.no/oppskrifter",
+            "period": "2018",
+            "role": "Senior front end developer",
+            "technologies": "JavaScript, React, Enonic XP, Java, webpack, Sass"
+        },
+        {
+            "name": "Arkivverket Nettside",
+            "url": "https://www.arkivverket.no/",
+            "period": "2017",
+            "role": "Senior front end developer",
+            "technologies": "JavaScript, Angular, Enonic XP, Java, webpack, Sass"
+        },
+        {
             "name": "Questback Essentials",
-            "period": "2015-",
+            "period": "2015-2017",
             "role": "Front end developer",
             "technologies": "JavaScript, Angular, jQuery, webpack, Telerik KendoUI, Highcharts, LESS, .NET, Oracle"
         },

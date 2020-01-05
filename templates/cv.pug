@@ -43,7 +43,11 @@ block content
     section#work
       h3 Relevant Work Experience
       dl
-        dt 2015-
+        dt 2018-
+        dd Senior front end developer, <a href="https://inrupt.com/">Inrupt, Inc</a>
+        dt 2017-2018
+        dd Senior front end developer, <a href="https://www.bouvet.no/">Bouvet Norge AS</a>
+        dt 2015-2017
         dd Front end developer, <a href="https://www.questback.com/">Questback AS</a>
         dt 2008-2014
         dd System Developer, <a href="https://www.ous-research.no/sps/">Centre for Shared Decision making and Collaborative Care Research</a>
@@ -73,8 +77,9 @@ block content
                       dd.progress
                         - attained = skill.attained * 10;
                         - aspire = (skill.aspire - skill.attained) * 10;
-                        div(style="width: "+attained+"%").progress-bar.progress-bar-striped.progress-bar--success #{skill.attained}/10
-                        div(style="width: "+aspire+"%").progress-bar.progress-bar-striped.progress-bar--warning #{skill.aspire}/10
+                        div(style="width: "+attained+"%").progress-bar.progress-bar-striped.progress-bar--success=skill.attained
+                        if skill.aspire > skill.attained
+                          div(style="width: "+aspire+"%").progress-bar.progress-bar-striped.progress-bar--warning=skill.aspire
     section#projects
       h3 Projects
       div
@@ -82,7 +87,11 @@ block content
           - projects = contents.cv['data.json'].metadata.projects
           each project in projects
             article
-              h4(tabindex=0)= project.name
+              h4(tabindex=0)
+                if project.url
+                  a(href=project.url)= project.name
+                else
+                  |= project.name
               dl
                 dt Period
                 dd= project.period
