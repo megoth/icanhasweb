@@ -38,7 +38,7 @@
     "npm-run-all": "^4.1.5",
     "rimraf": "^3.0.0",
     "webpack": "^4.41.4",
-    "webpack-cli": "^3.3.10",
+    "webpack-cli": "^3.3.12",
     "wintersmith": "^2.5.0"
   },
   "bugs": {
